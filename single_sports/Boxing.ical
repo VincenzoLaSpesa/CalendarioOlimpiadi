@@ -1,0 +1,481 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210726T020000Z
+DTEND:20210726T054500Z
+DTSTAMP:20210723T170802Z
+UID:4bg7sgd7jqihlh889c311ei0g2@google.com
+SEQUENCE:0
+CREATED:20210331T060656Z
+DESCRIPTION: 11:00 JST - Men's Fly (48-52kg) - Preliminaries - Round of 32
+ <br>12:36 JST - Men's Middle (69-75kg) - Preliminaries - Round of 32<br>13
+ :39 JST - Women's Feather (54-57kg) - Preliminaries - Round of 16<li></li>
+ <ul></ul>
+LAST-MODIFIED:20210718T200059Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210725T080000Z
+DTEND:20210725T120000Z
+DTSTAMP:20210723T170802Z
+UID:4b4jgblans1b8ogi2be00qlp8g@google.com
+SEQUENCE:0
+CREATED:20210331T060606Z
+DESCRIPTION: 17:00 JST - Women's Fly (48-51kg) - Preliminaries - Round of 
+ 32\n18:18 JST - Men's Light (57-63kg) - Preliminaries - Round of 32\n20:12
+  JST - Men's Light Heavy (75-81kg) - Preliminaries - Round of 32
+LAST-MODIFIED:20210718T161117Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210725T020000Z
+DTEND:20210725T054500Z
+DTSTAMP:20210723T170802Z
+UID:2rj64k25t54j2iakrvtj3p3875@google.com
+SEQUENCE:0
+CREATED:20210331T060412Z
+DESCRIPTION: 11:00 JST - Women's Fly (48-51kg) - Preliminaries - Round of 
+ 32\n12:03 JST - Women's Middle (69-75kg) - Preliminaries - Round of 32\n12
+ :18 JST - Men's Light (57-63kg) - Preliminaries - Round of 32\n13:54 JST -
+  Men's Light Heavy (75-81kg) - Preliminaries - Round of 32
+LAST-MODIFIED:20210718T161001Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210724T080000Z
+DTEND:20210724T113000Z
+DTSTAMP:20210723T170802Z
+UID:7ovabs8e0bh303689qs6ant9ou@google.com
+SEQUENCE:2
+CREATED:20210331T060259Z
+DESCRIPTION: 17:00 JST - Women's Feather (54-57kg) - Preliminaries - Round
+  of 32\n17:30 JST - Men's Feather (52-57kg) - Preliminaries - Round of 32\
+ n19:06 JST - Men's Welter (63-69kg) - Preliminaries - Round of 32\n20:12 J
+ ST - Men's Super Heavy (+91kg) - Preliminaries - Round of 32
+LAST-MODIFIED:20210717T062931Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210724T020000Z
+DTEND:20210724T053000Z
+DTSTAMP:20210723T170802Z
+UID:5k7mt1g7lv9p0v7r49345torrd@google.com
+SEQUENCE:0
+CREATED:20210331T060145Z
+DESCRIPTION: 11:00 JST - Women's Feather (54-57kg) - Preliminaries - Round
+  of 32\n11:30 JST - Women's Welter (64-69kg) - Preliminaries - Round of 32
+ \n12:03 JST - Men's Feather (52-57kg) - Preliminaries - Round of 32\n13:24
+  JST - Men's Welter (63-69kg) - Preliminaries - Round of 32\n14:12 JST - M
+ en's Heavy (81-91kg) - Preliminaries - Round of 32
+LAST-MODIFIED:20210717T062721Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 🥇🥈🥉
+DTSTART:20210808T050000Z
+DTEND:20210808T065500Z
+DTSTAMP:20210723T170802Z
+UID:4cfm371qtanqfsmch851t38g4h@google.com
+SEQUENCE:0
+CREATED:20210331T063459Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Light (57-60kg) Final</li><li>Men
+ 's Light (57-63kg) Final</li><li>Women's Light (57-60kg) Victory Ceremony<
+ /li><li>Women's Middle (69-75kg) Final</li><li>Men's Light (57-63kg) Victo
+ ry Ceremony</li><li>Men's Super Heavy (+91kg) Final</li><li>Women's Middle
+  (69-75kg) Victory Ceremony</li><li>Men's Super Heavy (+91kg) Victory Cere
+ mony</li></ul>
+LAST-MODIFIED:20210703T063332Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 🥇🥈🥉
+DTSTART:20210807T050000Z
+DTEND:20210807T065500Z
+DTSTAMP:20210723T170802Z
+UID:4kvj1qmq64nhjaa5mhec074gj5@google.com
+SEQUENCE:0
+CREATED:20210331T063331Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Fly (48-52kg) Final</li><li>Women's
+  Fly (48-51kg) Final</li><li>Men's Fly (48-52kg) Victory Ceremony</li><li>
+ Men's Middle (69-75kg) Final</li><li>Women's Fly (48-51kg) Victory Ceremon
+ y</li><li>Women's Welter (64-69kg) Final</li><li>Men's Middle (69-75kg) Vi
+ ctory Cermeony</li><li>Women's Welter (64-69kg) Victory Ceremony</li></ul>
+LAST-MODIFIED:20210703T062024Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210731T080000Z
+DTEND:20210731T105500Z
+DTSTAMP:20210723T170802Z
+UID:0dg7s1ke26gbj3i38f0papmemd@google.com
+SEQUENCE:0
+CREATED:20210331T061849Z
+DESCRIPTION: <ul><li>Men's Fly (48-52kg) - Preliminaries - Round of 16</li
+ ><li>Men's Light (57-63kg) - Preliminaries - Round of 16</li><li>Women's M
+ iddle (69-75kg) QuarterFinals</li><li>Women's Feather (54-57kg) SemiFinal<
+ /li></ul>
+LAST-MODIFIED:20210628T164327Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210731T020000Z
+DTEND:20210731T045500Z
+DTSTAMP:20210723T170802Z
+UID:07b0fc34iv0q39ubu914njjabg@google.com
+SEQUENCE:0
+CREATED:20210331T061751Z
+DESCRIPTION: <ul><li>Men's Fly (48-52kg) - Preliminaries - Round of 16</li
+ ><li>Men's Light (57-63kg) - Preliminaries - Round of 16</li><li>Women's M
+ iddle (69-75kg) QuarterFinals</li><li>Women's Feather (54-57kg) SemiFinal<
+ /li></ul>
+LAST-MODIFIED:20210628T164207Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210730T080000Z
+DTEND:20210730T111000Z
+DTSTAMP:20210723T170802Z
+UID:6j3s39ct04ple399pa1ad5tmek@google.com
+SEQUENCE:0
+CREATED:20210331T061640Z
+DESCRIPTION: <ul><li>Women's Light (57-60kg) - Preliminaries - Round of 16
+ </li><li>Women's Welter (64-69kg) Quarterfinals</li><li>Men's Welter (63-6
+ 9kg) Quarterfinals</li><li>Men's Light Heavy (75-81kg) Quarterfinals</li><
+ li>Men's Heavy (81-91kg) Quarterfinals</li></ul>
+LAST-MODIFIED:20210628T143146Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210730T020000Z
+DTEND:20210730T051000Z
+DTSTAMP:20210723T170802Z
+UID:0rsrregjme7ihjauquphk9ogrn@google.com
+SEQUENCE:0
+CREATED:20210331T061516Z
+DESCRIPTION: <ul><li>Women's Light (57-60kg) - Preliminaries - Round of 16
+ </li><li>Women's Welter (64-69kg) Quarterfinals</li><li>Men's Welter (63-6
+ 9kg) Quarterfinals</li><li>Men's Light Heavy (75-81kg) Quarterfinals</li><
+ li>Men's Heavy (81-91kg) Quarterfinals</li></ul>
+LAST-MODIFIED:20210628T143111Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210729T080000Z
+DTEND:20210729T111000Z
+DTSTAMP:20210723T170802Z
+UID:4q86k81nbq795bnavieknqk26r@google.com
+SEQUENCE:0
+CREATED:20210628T072355Z
+DESCRIPTION: <ul><li>Men's Middle (69-75kg) - Preliminaries - Round of 16<
+ /li><li>Men's Super Heavy (+91kg) - Preliminaries - Round of 16</li><li>Wo
+ men's Fly (48-51kg) - Preliminaries - Round of 16</li></ul>
+LAST-MODIFIED:20210628T072355Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210729T020000Z
+DTEND:20210729T051000Z
+DTSTAMP:20210723T170802Z
+UID:0a2i111qguhkns849o280jt5gs@google.com
+SEQUENCE:0
+CREATED:20210331T061335Z
+DESCRIPTION: <ul><li>Men's Middle (69-75kg) - Preliminaries - Round of 16<
+ /li><li>Men's Super Heavy (+91kg) - Preliminaries - Round of 16</li><li>Wo
+ men's Fly (48-51kg) - Preliminaries - Round of 16</li></ul>
+LAST-MODIFIED:20210628T072145Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210728T080000Z
+DTEND:20210728T114500Z
+DTSTAMP:20210723T170802Z
+UID:6brgtkc1oqdbbr6galo5ndu3a6@google.com
+SEQUENCE:0
+CREATED:20210331T061224Z
+DESCRIPTION: <ul><li>Women's Feather (54-57kg) QuarterFinal</li><li>Women'
+ s Middle (69-75kg) - Preliminaries - Round of 16</li><li>Men's Feather (52
+ -57kg) - Preliminaries - Round of 16</li><li>Men's Light Heavy (75-81kg) -
+  Preliminaries - Round of 16</li></ul>
+LAST-MODIFIED:20210628T065759Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210728T020000Z
+DTEND:20210728T054500Z
+DTSTAMP:20210723T170802Z
+UID:4usg502auq6lo7epe45q870nl2@google.com
+SEQUENCE:0
+CREATED:20210331T061052Z
+DESCRIPTION: <ul><li>Women's Feather (54-57kg) QuarterFinal</li><li>Women'
+ s Middle (69-75kg) - Preliminaries - Round of 16</li><li>Men's Feather (52
+ -57kg) - Preliminaries - Round of 16</li><li>Men's Light Heavy (75-81kg) -
+  Preliminaries - Round of 16</li></ul>
+LAST-MODIFIED:20210628T065718Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210727T080000Z
+DTEND:20210727T114500Z
+DTSTAMP:20210723T170802Z
+UID:4bgq12hv5sfos479ff8gvt6ma9@google.com
+SEQUENCE:0
+CREATED:20210331T061002Z
+DESCRIPTION: <ul><li>Men's Welter (63-69kg) - Preliminaries - Round of 16<
+ /li><li>Men's Heavy (81-91kg) - Preliminaries - Round of 16</li><li>Women'
+ s Light (57-60kg) - Preliminaries - Round of 32</li><li>Women's Welter (64
+ -69kg) - Preliminaries - Round of 16</li></ul>
+LAST-MODIFIED:20210628T062455Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210727T020000Z
+DTEND:20210727T054500Z
+DTSTAMP:20210723T170802Z
+UID:60gtjtfdj470qcflov82qkd0gj@google.com
+SEQUENCE:0
+CREATED:20210331T060913Z
+DESCRIPTION: <ul><li>Men's Welter (63-69kg) - Preliminaries - Round of 16<
+ /li><li>Men's Heavy (81-91kg) - Preliminaries - Round of 16</li><li>Women'
+ s Light (57-60kg) - Preliminaries - Round of 32</li><li>Women's Welter (64
+ -69kg) - Preliminaries - Round of 16</li></ul>
+LAST-MODIFIED:20210628T062431Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210726T080000Z
+DTEND:20210726T120000Z
+DTSTAMP:20210723T170802Z
+UID:24trtr4eulq68bpa2sle4192cv@google.com
+SEQUENCE:0
+CREATED:20210331T060811Z
+DESCRIPTION: <ul><li>Men's Fly (48-52kg) - Preliminaries - Round of 32</li
+ ><li>Men's Middle (69-75kg) - Preliminaries - Round of 32</li><li>Women's 
+ Feather (54-57kg) - Preliminaries - Round of 16</li></ul>
+LAST-MODIFIED:20210628T054827Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 🥇🥈🥉
+DTSTART:20210806T050000Z
+DTEND:20210806T064000Z
+DTSTAMP:20210723T170802Z
+UID:65deui1bb28g90qr73mdebpng3@google.com
+SEQUENCE:0
+CREATED:20210331T063148Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Middle (69-75kg) Semifinals</li><
+ li>Men's Light (57-63kg) Semifinals</li><li>Men's Heavy (81-91kg) Final</l
+ i><li>Men's Heavy (81-91kg) Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T063148Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 🥇🥈🥉
+DTSTART:20210805T050000Z
+DTEND:20210805T071000Z
+DTSTAMP:20210723T170802Z
+UID:1ue186u3gtdlu07pq0neapb44e@google.com
+SEQUENCE:0
+CREATED:20210331T062646Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Light (57-60kg) Semifinals</li><l
+ i>Men's Fly (48-52kg) Semifinals</li><li>Men's Middle (69-75kg) Semifinals
+ </li><li>Men's Feather (52-57kg) Final</li><li>Men's Feather (52-57kg) Vic
+ tory Ceremony</li></ul>
+LAST-MODIFIED:20210331T062646Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 🥇🥈🥉
+DTSTART:20210804T050000Z
+DTEND:20210804T071000Z
+DTSTAMP:20210723T170802Z
+UID:6f02f9g4r3fihmr8b949264032@google.com
+SEQUENCE:0
+CREATED:20210331T062517Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Fly (48-51kg) Semifinals</li><li>
+ Women's Welter (64-69kg) Semifinals</li><li>Men's Super Heavy (+91kg) Semi
+ finals</li><li>Men's Light Heavy (75-81kg) Final</li><li>Men's Light Heavy
+  (75-81kg) Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T062517Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 🥇🥈🥉
+DTSTART:20210803T080000Z
+DTEND:20210803T104000Z
+DTSTAMP:20210723T170802Z
+UID:1hf5bgakfachq1bp0j7jgnpdhq@google.com
+SEQUENCE:0
+CREATED:20210331T062408Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Light (57-60kg) Quarterfinals</li
+ ><li>Men's Fly (48-52kg) Quarterfinals</li><li>Men's Feather (52-57kg) Sem
+ ifinal</li><li>Men's Light (57-63kg) Quarterfinals</li><li>Men's Heavy (81
+ -91kg) Semifinal</li><li>Men's Welter (63-69kg) Final</li><li>Men's Welter
+  (63-69kg) Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T062408Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 🥇🥈🥉
+DTSTART:20210803T020000Z
+DTEND:20210803T044000Z
+DTSTAMP:20210723T170802Z
+UID:5jnolf8ntilfgltggmg1kj02i7@google.com
+SEQUENCE:0
+CREATED:20210331T062259Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Fly (48-52kg) Quarterfinals</li><li
+ >Men's Feather (52-57kg) Semifinal</li><li>Men's Light (57-63kg) Quarterfi
+ nals</li><li>Men's Heavy (81-91kg) Semifinal</li><li>Women's Light (57-60k
+ g) Quarterfinals</li><li>Women's Feather (54-57kg) Final</li><li>Women's F
+ eather (54-57kg) Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T062259Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210801T080000Z
+DTEND:20210801T104000Z
+DTSTAMP:20210723T170802Z
+UID:32994kaulu7crbjbfe30k10dqg@google.com
+SEQUENCE:0
+CREATED:20210331T062141Z
+DESCRIPTION: <ul><li>Women's Fly (48-51kg) Quarterfinals</li><li>Men's Fea
+ ther (52-57kg) Quarterfinals</li><li>Men's Welter (63-69kg) Semifinal</li>
+ <li>Men's Middle (69-75kg) Quarterfinals</li><li>Men's Light Heavy (75-81k
+ g) Semifinal</li><li>Men's Super Heavy (+91kg) Quarterfinals</li></ul>
+LAST-MODIFIED:20210331T062141Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210801T020000Z
+DTEND:20210801T044000Z
+DTSTAMP:20210723T170802Z
+UID:5l5ktpfk1fqms183tupdjlfghf@google.com
+SEQUENCE:0
+CREATED:20210331T062012Z
+DESCRIPTION: <ul><li>Women's Fly (48-51kg) Quarterfinals</li><li>Men's Fea
+ ther (52-57kg) Quarterfinals</li><li>Men's Welter (63-69kg) Semifinal</li>
+ <li>Men's Middle (69-75kg) Quarterfinals</li><li>Men's Light Heavy (75-81k
+ g) Semifinal</li><li>Men's Super Heavy (+91kg) Quarterfinals</li></ul>
+LAST-MODIFIED:20210331T062012Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210730T000000Z
+DTEND:20210730T031000Z
+DTSTAMP:20210723T170802Z
+UID:4lqsf7j6lavs6g5b6q0in931qh@google.com
+SEQUENCE:0
+CREATED:20210331T061425Z
+DESCRIPTION: <ul><li>Women's Fly (48-51kg) Round of 16</li><li>Men's Feath
+ er (52-57kg) Round of 16</li><li>Men's Middle (69-75kg) Round of 16</li></
+ ul>
+LAST-MODIFIED:20210331T061425Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

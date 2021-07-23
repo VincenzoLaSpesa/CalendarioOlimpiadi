@@ -1,0 +1,738 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210725T105000Z
+DTEND:20210725T122000Z
+DTSTAMP:20210723T170802Z
+UID:7ut7cdpjafnkd5f4drlorie8ei@google.com
+SEQUENCE:0
+CREATED:20210718T193604Z
+DESCRIPTION: <span>Men's Preliminary Round - Group B\, Croatia vs Kazakhst
+ an</span>
+LAST-MODIFIED:20210718T193604Z
+LOCATION:Tatsumi Water Polo Centre (Tokyo 2020)\, 2-chōme-8-10 Tatsumi\, 
+ Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210725T092000Z
+DTEND:20210725T105000Z
+DTSTAMP:20210723T170802Z
+UID:5f30qngoid01aap94v9l855rf5@google.com
+SEQUENCE:0
+CREATED:20210411T090643Z
+DESCRIPTION: Men's Preliminary Round - Group B\, Serbia vs Spain
+LAST-MODIFIED:20210718T193525Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210725T063000Z
+DTEND:20210725T080000Z
+DTSTAMP:20210723T170802Z
+UID:2fnmjmtqf4m4vkihvutdmnjnm5@google.com
+SEQUENCE:0
+CREATED:20210718T193459Z
+DESCRIPTION: <span>Men's Preliminary Round - Group B\, Australia vs Monten
+ egro</span>
+LAST-MODIFIED:20210718T193459Z
+LOCATION:Tatsumi Water Polo Centre (Tokyo 2020)\, 2-chōme-8-10 Tatsumi\, 
+ Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210725T050000Z
+DTEND:20210725T063000Z
+DTSTAMP:20210723T170802Z
+UID:6frd8p9d1gkteordpmto3klhtg@google.com
+SEQUENCE:0
+CREATED:20210411T090527Z
+DESCRIPTION: Men's Preliminary Round - Group A\, United States vs Japan
+LAST-MODIFIED:20210718T193413Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210725T023000Z
+DTEND:20210725T040000Z
+DTSTAMP:20210723T170802Z
+UID:5caqisqoqq4ufihmqecht7sp2d@google.com
+SEQUENCE:0
+CREATED:20210718T193302Z
+DESCRIPTION: <span>Men's Preliminary Round - Group A\, Hungary vs Greece</
+ span>
+LAST-MODIFIED:20210718T193302Z
+LOCATION:Tatsumi Water Polo Centre (Tokyo 2020)\, 2-chōme-8-10 Tatsumi\, 
+ Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210725T010000Z
+DTEND:20210725T023000Z
+DTSTAMP:20210723T170802Z
+UID:7l9fnp33em5ht85rj44hbikam3@google.com
+SEQUENCE:0
+CREATED:20210411T090435Z
+DESCRIPTION: Men's Preliminary Round - Group A\, South Africa vs Italy
+LAST-MODIFIED:20210718T193221Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210724T105000Z
+DTEND:20210724T122000Z
+DTSTAMP:20210723T170802Z
+UID:1s8t99pvnmvj2ak79rob5d5di8@google.com
+SEQUENCE:0
+CREATED:20210717T155316Z
+DESCRIPTION: <span>Women's Preliminary Round - Group B\, China vs ROC*</sp
+ an>
+LAST-MODIFIED:20210717T155316Z
+LOCATION:Tatsumi Water Polo Centre (Tokyo 2020)\, 2-chōme-8-10 Tatsumi\, 
+ Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210724T092000Z
+DTEND:20210724T105000Z
+DTSTAMP:20210723T170802Z
+UID:1j1ukri4nag87068ieej4peptt@google.com
+SEQUENCE:0
+CREATED:20210411T090346Z
+DESCRIPTION: Women's Preliminary Round - Group A\, South Africa vs Spain
+LAST-MODIFIED:20210717T155239Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210724T063000Z
+DTEND:20210724T080000Z
+DTSTAMP:20210723T170802Z
+UID:2t3gt95d3nh1goce9o9f67f9v8@google.com
+SEQUENCE:0
+CREATED:20210717T155213Z
+DESCRIPTION: <span>Women's Preliminary Round - Group A\, Canada vs Austral
+ ia</span>
+LAST-MODIFIED:20210717T155213Z
+LOCATION:Tatsumi Water Polo Centre (Tokyo 2020)\, 2-chōme-8-10 Tatsumi\, 
+ Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210724T050000Z
+DTEND:20210724T063000Z
+DTSTAMP:20210723T170802Z
+UID:59pk2mlnbtbm60hrf1bi7fjtcp@google.com
+SEQUENCE:0
+CREATED:20210411T090251Z
+DESCRIPTION: Women's Preliminary Round - Group B\, Japan vs United States
+LAST-MODIFIED:20210717T155132Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210801T092000Z
+DTEND:20210801T121000Z
+DTSTAMP:20210723T170802Z
+UID:5as8g5nk7vvifcr30roem37tmo@google.com
+SEQUENCE:0
+CREATED:20210628T172724Z
+DESCRIPTION: <ul><li>Women's Preliminary Round - Group B\, ROC* vs Japan</
+ li><li>Women's Preliminary Round - Group A\, Australia vs South Africa</li
+ ></ul>
+LAST-MODIFIED:20210628T172724Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 🥇🥈
+DTSTART:20210808T073000Z
+DTEND:20210808T092000Z
+DTSTAMP:20210723T170802Z
+UID:2sagmoaadhaqiq8bg3dvk3fc33@google.com
+SEQUENCE:0
+CREATED:20210421T150240Z
+DESCRIPTION:🥇🥈 <ul><li>Men's Gold Medal Match</li><li>Men's Victory 
+ Ceremony</li></ul>
+LAST-MODIFIED:20210421T150240Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 🥉
+DTSTART:20210808T044000Z
+DTEND:20210808T060000Z
+DTSTAMP:20210723T170802Z
+UID:3uv5b42e4hh357b6cr6hmnghkp@google.com
+SEQUENCE:0
+CREATED:20210421T150128Z
+DESCRIPTION:🥉 Men's Bronze Medal Match
+LAST-MODIFIED:20210421T150128Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210808T003000Z
+DTEND:20210808T032000Z
+DTSTAMP:20210723T170802Z
+UID:5q7i8t5mgrprt4sc44mcmvdltn@google.com
+SEQUENCE:0
+CREATED:20210421T150019Z
+DESCRIPTION: <ul><li>Men's classification match (7th-8th places)</li><li>M
+ en's classification match (5th-6th places)</li></ul>
+LAST-MODIFIED:20210421T150019Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 🥇🥈
+DTSTART:20210807T073000Z
+DTEND:20210807T092000Z
+DTSTAMP:20210723T170802Z
+UID:035jdqfoa61smg3pmkdd8jcbac@google.com
+SEQUENCE:0
+CREATED:20210421T145826Z
+DESCRIPTION:🥇🥈 <ul><li>Women's Gold Medal Match</li><li>Women's Vict
+ ory Ceremony</li></ul>
+LAST-MODIFIED:20210421T145826Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 🥉
+DTSTART:20210807T044000Z
+DTEND:20210807T060000Z
+DTSTAMP:20210723T170802Z
+UID:5259t2qodcjb12r76jp86gahg4@google.com
+SEQUENCE:0
+CREATED:20210421T145708Z
+DESCRIPTION:🥉 Women's Bronze Medal Match
+LAST-MODIFIED:20210421T145708Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210807T003000Z
+DTEND:20210807T032000Z
+DTSTAMP:20210723T170802Z
+UID:0q2lnre1hrohvad8vjuf6nqtm1@google.com
+SEQUENCE:0
+CREATED:20210421T145552Z
+DESCRIPTION: <ul><li>Women's classification match (7th-8th places)</li><li
+ >Women's classification match (5th-6th places)</li></ul>
+LAST-MODIFIED:20210421T145552Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210806T092000Z
+DTEND:20210806T121000Z
+DTSTAMP:20210723T170802Z
+UID:33ukl81cuksbsgn3m04q1a5g17@google.com
+SEQUENCE:0
+CREATED:20210421T145444Z
+DESCRIPTION: <ul><li>Men's Classification match (5th-8th places)</li><li>M
+ en's Semifinal</li></ul>
+LAST-MODIFIED:20210421T145444Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210806T050000Z
+DTEND:20210806T075000Z
+DTSTAMP:20210723T170802Z
+UID:0i84g10tt8f2jeuibmccjp64sl@google.com
+SEQUENCE:0
+CREATED:20210421T145324Z
+DESCRIPTION: <ul><li>Men's Classification match (5th-8th places)</li><li>M
+ en's Semifinal</li></ul>
+LAST-MODIFIED:20210421T145324Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210805T092000Z
+DTEND:20210805T121000Z
+DTSTAMP:20210723T170802Z
+UID:4jne2ulaor939jscp8dl0p144p@google.com
+SEQUENCE:0
+CREATED:20210421T145237Z
+DESCRIPTION: <ul><li>Women's Classification match (5th-8th places)</li><li
+ >Women's Semifinal</li></ul>
+LAST-MODIFIED:20210421T145237Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210805T050000Z
+DTEND:20210805T075000Z
+DTSTAMP:20210723T170802Z
+UID:2eogsn5orqudgl1cqif623a1jb@google.com
+SEQUENCE:0
+CREATED:20210421T145141Z
+DESCRIPTION: <ul><li>Women's Classification match (5th-8th places)</li><li
+ >Women's Semifinal</li></ul>
+LAST-MODIFIED:20210421T145141Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210804T092000Z
+DTEND:20210804T121000Z
+DTSTAMP:20210723T170802Z
+UID:7tc1ev8h53rjacqpd19ad7fncj@google.com
+SEQUENCE:0
+CREATED:20210421T145030Z
+DESCRIPTION: Men's Quarterfinals (2 matches)
+LAST-MODIFIED:20210421T145030Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210804T050000Z
+DTEND:20210804T075000Z
+DTSTAMP:20210723T170802Z
+UID:6p0820scaqh9scq9rh188jvj34@google.com
+SEQUENCE:0
+CREATED:20210421T144924Z
+DESCRIPTION: Men's Quarterfinals (2 matches)
+LAST-MODIFIED:20210421T144924Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210803T092000Z
+DTEND:20210803T121000Z
+DTSTAMP:20210723T170802Z
+UID:1dicuv0q9ks2j92jjd7mr3kffm@google.com
+SEQUENCE:0
+CREATED:20210421T144820Z
+DESCRIPTION: Women's Quarterfinals (2 matches)
+LAST-MODIFIED:20210421T144820Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210803T050000Z
+DTEND:20210803T075000Z
+DTSTAMP:20210723T170802Z
+UID:0449c894m7ihog6in5rvda425i@google.com
+SEQUENCE:1
+CREATED:20210421T144559Z
+DESCRIPTION: Women's Quarterfinals (2 matches)
+LAST-MODIFIED:20210421T144716Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210802T092000Z
+DTEND:20210802T121000Z
+DTSTAMP:20210723T170802Z
+UID:1dpl362q3tev6eh6toprblq82e@google.com
+SEQUENCE:0
+CREATED:20210421T144356Z
+DESCRIPTION: <ul><li>Men's Preliminary Round - Group A\, Japan vs South Af
+ rica</li><li>Men's Preliminary Round - Group B\, Australia vs Kazakhstan</
+ li></ul>
+LAST-MODIFIED:20210421T144356Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210802T050000Z
+DTEND:20210802T075000Z
+DTSTAMP:20210723T170802Z
+UID:3vjvbemptf1qs4drujul6repio@google.com
+SEQUENCE:0
+CREATED:20210421T144237Z
+DESCRIPTION: <ul><li>Men's Preliminary Round - Group B\, Serbia vs Montene
+ gro</li><li>Men's Preliminary Round - Group B\, Spain vs Croatia</li></ul>
+LAST-MODIFIED:20210421T144237Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210802T010000Z
+DTEND:20210802T035000Z
+DTSTAMP:20210723T170802Z
+UID:11oos7e4khru13tfsp2he39oes@google.com
+SEQUENCE:0
+CREATED:20210421T144144Z
+DESCRIPTION: <ul><li>Men's Preliminary Round - Group A\, Hungary vs Italy<
+ /li><li>Men's Preliminary Round - Group A\, Greece vs United States</li></
+ ul>
+LAST-MODIFIED:20210421T144144Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210802T012000Z
+DTEND:20210802T041000Z
+DTSTAMP:20210723T170802Z
+UID:7ehvp876mg7hds550abj7al79d@google.com
+SEQUENCE:0
+CREATED:20210421T144046Z
+DESCRIPTION: <ul><li>Women's Preliminary Round - Group B\, ROC* vs Japan</
+ li><li>Women's Preliminary Round - Group A\, Australia vs South Africa</li
+ ></ul>
+LAST-MODIFIED:20210421T144046Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210801T050000Z
+DTEND:20210801T075000Z
+DTSTAMP:20210723T170802Z
+UID:22n1p8a19vlf564eqm2gsrb4sj@google.com
+SEQUENCE:0
+CREATED:20210421T143932Z
+DESCRIPTION: <ul><li>Women's Preliminary Round - Group B\, Hungary vs Chin
+ a</li><li>Women's Preliminary Round - Group A\, Netherlands vs Canada</li>
+ </ul>
+LAST-MODIFIED:20210421T143932Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210731T092000Z
+DTEND:20210731T121000Z
+DTSTAMP:20210723T170802Z
+UID:7v83uba1j0u10lqnuj1oe404q1@google.com
+SEQUENCE:0
+CREATED:20210421T143759Z
+DESCRIPTION: <ul><li>Men's Preliminary Round - Group A\, Italy vs Japan</l
+ i><li>Men's Preliminary Round - Group A\, South Africa vs Greece</li></ul>
+LAST-MODIFIED:20210421T143759Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210731T050000Z
+DTEND:20210731T075000Z
+DTSTAMP:20210723T170802Z
+UID:2in24reg8sk357v03ddfcd3971@google.com
+SEQUENCE:0
+CREATED:20210421T143654Z
+DESCRIPTION: <ul><li>Men's Preliminary Round - Group A\, United States vs 
+ Hungary</li><li>Men's Preliminary Round - Group B\, Croatia vs Serbia</li>
+ </ul>
+LAST-MODIFIED:20210421T143654Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210731T010000Z
+DTEND:20210731T035000Z
+DTSTAMP:20210723T170802Z
+UID:3rfdfr5ij8bjis84lmgalgjm62@google.com
+SEQUENCE:0
+CREATED:20210421T143555Z
+DESCRIPTION: <ul><li>Men's Preliminary Round - Group B\, Montenegro vs Kaz
+ akhstan</li><li>Men's Preliminary Round - Group B\, Australia vs Spain</li
+ ></ul>
+LAST-MODIFIED:20210421T143555Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210730T092000Z
+DTEND:20210730T121000Z
+DTSTAMP:20210723T170802Z
+UID:5g9agt7qmvfullpojsc0gl1i4k@google.com
+SEQUENCE:0
+CREATED:20210419T180351Z
+DESCRIPTION: <ul><li>Women's Preliminary Round - Group B\, Japan vs Hungar
+ y</li><li>Women's Preliminary Round - Group A\, Spain vs Australia</li></u
+ l>
+LAST-MODIFIED:20210419T180351Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210730T050000Z
+DTEND:20210730T075000Z
+DTSTAMP:20210723T170802Z
+UID:21a745sqcr9bs1gu7ot951hkpc@google.com
+SEQUENCE:0
+CREATED:20210419T180138Z
+DESCRIPTION: <ul><li>Women's Preliminary Round - Group A\, South Africa vs
+  Netherlands</li><li>Women's Preliminary Round - Group B\, United States v
+ s ROC*</li></ul>
+LAST-MODIFIED:20210419T180138Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210729T092000Z
+DTEND:20210729T121000Z
+DTSTAMP:20210723T170802Z
+UID:29133iobftb97t74kddt5qma2v@google.com
+SEQUENCE:0
+CREATED:20210419T180015Z
+DESCRIPTION: <ul><li>Men's Preliminary Round - Group A\, Greece vs Japan</
+ li><li>Men's Preliminary Round - Group B\, Serbia vs Australia</li></ul>
+LAST-MODIFIED:20210419T180015Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210729T050000Z
+DTEND:20210729T075000Z
+DTSTAMP:20210723T170802Z
+UID:2crcc5fh0nv981t6a8cqq3vpjq@google.com
+SEQUENCE:0
+CREATED:20210419T175836Z
+DESCRIPTION: <ul><li>Men's Preliminary Round - Group A\, United States vs 
+ Italy</li><li>Men's Preliminary Round - Group B\, Croatia vs Montenegro</l
+ i></ul>
+LAST-MODIFIED:20210419T175836Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210729T010000Z
+DTEND:20210729T035000Z
+DTSTAMP:20210723T170802Z
+UID:7n2f9920n1frf42h2s7p2melus@google.com
+SEQUENCE:0
+CREATED:20210419T175740Z
+DESCRIPTION: <ul><li>Men's Preliminary Round - Group A\, Hungary vs South 
+ Africa</li><li>Men's Preliminary Round - Group B\, Spain vs Kazakhstan</li
+ ></ul>
+LAST-MODIFIED:20210419T175740Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210728T092000Z
+DTEND:20210728T121000Z
+DTSTAMP:20210723T170802Z
+UID:2ifpkb6qkhn41129ef5sd6fn4k@google.com
+SEQUENCE:0
+CREATED:20210419T175506Z
+DESCRIPTION: <ul><li>Women's Preliminary Round - Group B\, China vs Japan<
+ /li><li>Women's Preliminary Round - Group A\, Netherlands vs Spain</li></u
+ l>
+LAST-MODIFIED:20210419T175506Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210728T050000Z
+DTEND:20210728T075000Z
+DTSTAMP:20210723T170802Z
+UID:4a8rgpjngncdidmg25qht7mcof@google.com
+SEQUENCE:0
+CREATED:20210419T175240Z
+DESCRIPTION: <ul><li>Women's Preliminary Round - Group B\, Hungary vs Unit
+ ed States</li><li>Women's Preliminary Round - Group A\, Canada vs South Af
+ rica</li></ul>
+LAST-MODIFIED:20210419T175240Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210727T010000Z
+DTEND:20210727T035000Z
+DTSTAMP:20210723T170802Z
+UID:3i5f302tghqkolqbm9rq11r0pk@google.com
+SEQUENCE:0
+CREATED:20210419T174322Z
+DESCRIPTION: <ul><li>Men's Preliminary Round - Group A\, South Africa vs U
+ nited States</li><li>Men's Preliminary Round - Group B\, Montenegro vs Spa
+ in</li></ul>
+LAST-MODIFIED:20210419T174958Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210727T050000Z
+DTEND:20210727T075000Z
+DTSTAMP:20210723T170802Z
+UID:7iabu1pn1gbga54a57d8275vlc@google.com
+SEQUENCE:0
+CREATED:20210419T174525Z
+DESCRIPTION: <ul><li>Men's Preliminary Round - Group B\, Kazakhstan vs Ser
+ bia</li><li>Men's Preliminary Round - Group A\, Italy vs Greece</li></ul>
+LAST-MODIFIED:20210419T174949Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210727T092000Z
+DTEND:20210727T121000Z
+DTSTAMP:20210723T170802Z
+UID:4poa8g3biebfaor3q01frj404v@google.com
+SEQUENCE:0
+CREATED:20210419T174928Z
+DESCRIPTION: <ul><li>Men's Preliminary Round - Group A\, Japan vs Hungary<
+ /li><li>Men's Preliminary Round - Group B\, Australia vs Croatia</li></ul>
+LAST-MODIFIED:20210419T174941Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210726T092000Z
+DTEND:20210726T121000Z
+DTSTAMP:20210723T170802Z
+UID:1abrom7cr502mhh2ooohoo97s2@google.com
+SEQUENCE:0
+CREATED:20210419T174103Z
+DESCRIPTION: <ul><li>Women's Preliminary Round - Group A\, Australia vs Ne
+ therlands</li><li>Women's Preliminary Round - Group A\, Spain vs Canada</l
+ i></ul>
+LAST-MODIFIED:20210419T174103Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Polo 
+DTSTART:20210726T050000Z
+DTEND:20210726T075000Z
+DTSTAMP:20210723T170802Z
+UID:5rodmisd1cl2332sfdkghd4pis@google.com
+SEQUENCE:0
+CREATED:20210411T091028Z
+DESCRIPTION: <ul><li>Women's Preliminary Round - Group B\, United States v
+ s China</li><li>Women's Preliminary Round - Group B\,&nbsp\;ROC* vs Hungar
+ y</li></ul>
+LAST-MODIFIED:20210411T091028Z
+LOCATION:Tokyo Tatsumi International Swimming Center\, 2-chōme-8-10 Tatsu
+ mi\, Koto City\, Tokyo 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

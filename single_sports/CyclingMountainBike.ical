@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Cycling Mountain Bike 🥇🥈🥉
+DTSTART:20210727T060000Z
+DTEND:20210727T080000Z
+DTSTAMP:20210723T170802Z
+UID:1dkdm8go3a39ft4ddjkcqm6rb6@google.com
+SEQUENCE:0
+CREATED:20210331T145424Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Cross-country</li><li>Women's Cro
+ ss-country Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T145424Z
+LOCATION:Izu MTB Course\, 1826 Ōno\, Izu\, Shizuoka 410-2402\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cycling Mountain Bike 🥇🥈🥉
+DTSTART:20210726T060000Z
+DTEND:20210726T080000Z
+DTSTAMP:20210723T170802Z
+UID:0681r4q6kbaa8q6vthtgbrupu0@google.com
+SEQUENCE:0
+CREATED:20210331T145319Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Cross-country</li><li>Men's Cross-c
+ ountry Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T145319Z
+LOCATION:Izu MTB Course\, 1826 Ōno\, Izu\, Shizuoka 410-2402\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,406 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210804T093000Z
+DTEND:20210804T130000Z
+DTSTAMP:20210723T170802Z
+UID:5qphg712pofjatblhngac8aatn@google.com
+SEQUENCE:0
+CREATED:20210329T142533Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Decathlon High Jump</li><li>Women's
+  1500m Semifinals</li><li>Women's Heptathlon Shot Put</li><li>Women's 400m
+  Semifinals</li><li>Women's 200m Victory Ceremony</li><li>Women's 3000m St
+ eeplechase Final</li><li>Men's Hammer Throw Final</li><li>Women's Heptathl
+ on 200m</li><li>Women's 3000m Steeplechase Victory Ceremony</li><li>Men's 
+ 800m Final</li><li>Men's Decathlon 400m</li><li>Men's 200m Final</li></ul>
+LAST-MODIFIED:20210701T064806Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210803T000000Z
+DTEND:20210803T033500Z
+DTSTAMP:20210723T170802Z
+UID:2mnt8cr1n8g8s8gvb3a2378647@google.com
+SEQUENCE:0
+CREATED:20210329T141827Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Triple Jump Qualifying Round</li><l
+ i>Men's 1500m Round 1</li><li>Women's Javelin Throw Qualifying Round</li><
+ li>Women's 400m Round 1</li><li>Women's Discus Throw Victory Ceremony</li>
+ <li>Men's 3000m Steeplechase Victory Ceremony</li><li>Women's Long Jump Fi
+ nal</li><li>Men's 200m Round 1</li><li>Men's 400m Hurdles Final</li><li>Wo
+ men's 5000m Victory Ceremony</li></ul>
+LAST-MODIFIED:20210701T062803Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210730T100000Z
+DTEND:20210730T120000Z
+DTSTAMP:20210723T170802Z
+UID:2hdgitoqbpp1ickeb22ros6elq@google.com
+SEQUENCE:0
+CREATED:20210628T142513Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's 5000m Round 1</li><li>Women's Tri
+ ple Jump Qualifying Round</li><li>Women's Shot Put Qualifying Round</li><l
+ i>Mixed 4 x 400m Relay Round 1</li><li>Men's 10\,000m Final</li></ul>
+LAST-MODIFIED:20210628T142539Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210807T220000Z
+DTEND:20210808T004500Z
+DTSTAMP:20210723T170802Z
+UID:7pmk6s5uasrnaukqskh8850rol@google.com
+SEQUENCE:0
+CREATED:20210329T204518Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Marathon Final</li><li>Men's Marath
+ on Venue Ceremony</li></ul>
+LAST-MODIFIED:20210329T204518Z
+LOCATION:Sapporo Odori Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210807T100000Z
+DTEND:20210807T132000Z
+DTSTAMP:20210723T170802Z
+UID:50k28cg0pojgnpqqujm5gsp02j@google.com
+SEQUENCE:0
+CREATED:20210329T204357Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's 50km Race Walk Victory Ceremony</li
+ ><li>Women's 20km Race Walk Victory Ceremony</li><li>Women's 4 x 100m Rela
+ y Victory Ceremony</li><li>Men's 4 x 100m Relay Victory Ceremony</li><li>W
+ omen's High Jump Final</li><li>Women's 10\,000m Final</li><li>Men's Javeli
+ n Throw Final</li><li>Women's Javelin Throw Victory Ceremony</li><li>Men's
+  1500m Final</li><li>Women's 10\,000m Victory Ceremony</li><li>Men's 1500m
+  Victory Ceremony</li><li>Women's 4 x 400m Relay Final</li><li>Men's Javel
+ in Throw Victory Ceremony</li><li>Men's 4 x 400m Relay Final</li><li>Women
+ 's High Jump Victory Ceremony</li><li>Women's 4 x 400m Relay Victory Cerem
+ ony</li><li>Men's 4 x 400m Relay Victory Ceremony</li></ul>
+LAST-MODIFIED:20210329T204357Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210806T220000Z
+DTEND:20210807T011500Z
+DTSTAMP:20210723T170802Z
+UID:3i37513hq19m023n5am1hrs0il@google.com
+SEQUENCE:0
+CREATED:20210329T173132Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Marathon Final</li><li>Women's Ma
+ rathon Venue Ceremony</li></ul>
+LAST-MODIFIED:20210329T173132Z
+LOCATION:Sapporo Odori Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210806T105000Z
+DTEND:20210806T135500Z
+DTSTAMP:20210723T170802Z
+UID:4914thu4moss1eveef36v7s2hb@google.com
+SEQUENCE:0
+CREATED:20210329T171943Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's 20km Race Walk Victory Ceremony</li
+ ><li>Women's Pole Vault Victory Ceremony</li><li>Women's Heptathlon Victor
+ y Ceremony</li><li>Men's Decathlon Victory Ceremony</li><li>Men's 4 x 400m
+  Relay Round 1</li><li>Women's Javelin Throw Final</li><li>Men's 5000m Fin
+ al</li><li>Men's 400m Victory Ceremony</li><li>Women's 400m Final</li><li>
+ Women's 1500m Final</li><li>Men's 5000m Victory Ceremony</li><li>Women's 4
+ 00m Victory Ceremony</li><li>Women's 4 x 100m Relay Final</li><li>Women's 
+ 1500m Victory Ceremony</li><li>Men's 4 x 100m Relay Final</li></ul>
+LAST-MODIFIED:20210329T171943Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210806T073000Z
+DTEND:20210806T091500Z
+DTSTAMP:20210723T170802Z
+UID:3fdfirpmgdk0sv21c3rupnsj5u@google.com
+SEQUENCE:0
+CREATED:20210329T171807Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's 20km Race Walk Final</li><li>Wome
+ n's 20km Race Walk Venue Ceremony</li></ul>
+LAST-MODIFIED:20210329T171807Z
+LOCATION:Sapporo Odori Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210805T203000Z
+DTEND:20210806T010000Z
+DTSTAMP:20210723T170802Z
+UID:4pkfagpdu04237h81v0319gq71@google.com
+SEQUENCE:0
+CREATED:20210329T171645Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's 50km Race Walk Final</li><li>Men's 
+ 50km Race Walk Venue Ceremony</li></ul>
+LAST-MODIFIED:20210329T171645Z
+LOCATION:Sapporo Odori Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210805T100000Z
+DTEND:20210805T124500Z
+DTSTAMP:20210723T170802Z
+UID:59go0tetkie39hch1u6jct8j4f@google.com
+SEQUENCE:0
+CREATED:20210329T171527Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Shot Put Victory Ceremony</li><li>M
+ en's Triple Jump Victory Ceremony</li><li>Men's Decathlon Javelin Throw</l
+ i><li>Women's Pole Vault Final</li><li>Women's 4 x 400m Relay Round 1</li>
+ <li>Men's 1500m Semifinals</li><li>Men's 110m Hurdles Victory Ceremony</li
+ ><li>Men's 400m Final</li><li>Women's Heptathlon 800m</li><li>Men's Decath
+ lon 1500m</li></ul>
+LAST-MODIFIED:20210329T171527Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210805T073000Z
+DTEND:20210805T090500Z
+DTSTAMP:20210723T170802Z
+UID:4rths944lft1mrf772c4buvhc8@google.com
+SEQUENCE:0
+CREATED:20210329T171419Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's 20km Race Walk Final</li><li>Men's 
+ 20km Race Walk Venue Ceremony</li></ul>
+LAST-MODIFIED:20210329T171419Z
+LOCATION:Sapporo Odori Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210805T000000Z
+DTEND:20210805T060500Z
+DTSTAMP:20210723T170802Z
+UID:3bcqkpbp1g8qj09nir5ns5toi9@google.com
+SEQUENCE:0
+CREATED:20210329T142658Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Decathlon 110m Hurdles</li><li>Wome
+ n's High Jump Qualifying Round</li><li>Men's Hammer Throw Victory Ceremony
+ </li><li>Women's Heptathlon Long Jump</li><li>Men's Decathlon Discus Throw
+ </li><li>Women's 4 x 100m Relay Round 1</li><li>Men's 800m Victory Ceremon
+ y</li><li>Men's 200m Victory Ceremony</li><li>Men's Triple Jump Final</li>
+ <li>Men's Shot Put Final</li><li>Men's 4 x 100m Relay Round 1</li><li>Men'
+ s 110m Hurdles Final</li><li>Men's Decathlon Pole Vault</li><li>Women's He
+ ptathlon Javelin Throw</li></ul>
+LAST-MODIFIED:20210329T142658Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210804T000000Z
+DTEND:20210804T032500Z
+DTSTAMP:20210723T170802Z
+UID:5ddl5sff1r4386b4gqrdi65ecb@google.com
+SEQUENCE:0
+CREATED:20210329T142406Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Decathlon 100m</li><li>Men's Javeli
+ n Throw Qualifying Round</li><li>Women's Heptathlon 100m Hurdles</li><li>M
+ en's Decathlon Long Jump</li><li>Men's Pole Vault Victory Ceremony</li><li
+ >Women's Heptathlon High Jump</li><li>Women's Hammer Throw Victory Ceremon
+ y</li><li>Women's 800m Victory Ceremony</li><li>Men's 110m Hurdles Semifin
+ als</li><li>Women's 400m Hurdles Final</li><li>Men's Decathlon Shot Put</l
+ i><li>Women's 400m Hurdles Victory Ceremony</li></ul>
+LAST-MODIFIED:20210329T142406Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210803T100000Z
+DTEND:20210803T125500Z
+DTSTAMP:20210723T170802Z
+UID:4t55k6u360jrio0mk3mbi58t22@google.com
+SEQUENCE:0
+CREATED:20210329T142219Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Long Jump Victory Ceremony</li><l
+ i>Men's 110m Hurdles Round 1</li><li>Men's Shot Put Qualifying Round</li><
+ li>Men's Pole Vault Final</li><li>Men's 400m Hurdles Victory Ceremony</li>
+ <li>Men's 5000m Round 1</li><li>Women's Hammer Throw Final</li><li>Men's 2
+ 00m Semifinals</li><li>Women's 800m Final</li><li>Women's 200m Final</li><
+ /ul>
+LAST-MODIFIED:20210329T142219Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210802T100000Z
+DTEND:20210802T130000Z
+DTSTAMP:20210723T170802Z
+UID:4dv8k5qmjuq4hla4p6p814nmmp@google.com
+SEQUENCE:0
+CREATED:20210329T060125Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's 100m Victory Ceremony</li><li>Men's
+  Long Jump Victory Ceremony</li><li>Women's Pole Vault Qualifying Round</l
+ i><li>Women's 200m Semifinals</li><li>Women's 100m Hurdles Victory Ceremon
+ y</li><li>Women's Discus Throw Final</li><li>Men's 400m Semifinals</li><li
+ >Women's 400m Hurdles Semifinals</li><li>Men's 3000m Steeplechase Final</l
+ i><li>Women's 5000m Final</li></ul>
+LAST-MODIFIED:20210329T060125Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210802T000000Z
+DTEND:20210802T025500Z
+DTSTAMP:20210723T170802Z
+UID:65dlufjpv2qpg88g5ehc5lg4hi@google.com
+SEQUENCE:0
+CREATED:20210329T055842Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Hammer Throw Qualifying Round</li><
+ li>Women's 1500m Round 1</li><li>Women's Triple Jump Victory Ceremony</li>
+ <li>Men's Long Jump Final</li><li>Women's 200m Round 1</li><li>Women's 100
+ m Hurdles Final</li></ul>
+LAST-MODIFIED:20210329T055842Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210801T100000Z
+DTEND:20210801T125500Z
+DTSTAMP:20210723T170802Z
+UID:1217fklisiio5re32ih0unh8n9@google.com
+SEQUENCE:0
+CREATED:20210329T055537Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's 100m Victory Ceremony</li><li>Men
+ 's High Jump Final</li><li>Men's 100m Semifinals</li><li>Women's 100m Hurd
+ les Semifinals</li><li>Women's Shot Put Victory Ceremony</li><li>Women's T
+ riple Jump Final</li><li>Men's 800m Semifinals</li><li>Men's 400m Hurdles 
+ Semifinals</li><li>Men's High Jump Victory Ceremony</li><li>Men's 100m Fin
+ al</li></ul>
+LAST-MODIFIED:20210329T055537Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210801T001000Z
+DTEND:20210801T030000Z
+DTSTAMP:20210723T170802Z
+UID:0jk6pvvkojejrkh66sab75agtm@google.com
+SEQUENCE:0
+CREATED:20210329T055401Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Hammer Throw Qualifying Round</li
+ ><li>Women's 3000m Steeplechase Round 1</li><li>Women's Long Jump Qualifyi
+ ng Round</li><li>Men's Discus Throw Victory Ceremony</li><li>Women's Shot 
+ Put Final</li><li>Men's 400m Round 1</li><li>Mixed 4 x 400m Relay Victory 
+ Ceremony</li></ul>
+LAST-MODIFIED:20210329T055401Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210731T100000Z
+DTEND:20210731T125500Z
+DTSTAMP:20210723T170802Z
+UID:66cpmn8g0hjqtg6d3vefcqsnf6@google.com
+SEQUENCE:0
+CREATED:20210329T055234Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's 10\,000m Victory Ceremony</li><li>M
+ en's Long Jump Qualifying Round</li><li>Women's 100m Semifinals</li><li>Me
+ n's 100m Round 1</li><li>Men's Discus Throw Final</li><li>Women's 800m Sem
+ ifinals</li><li>Mixed 4 x 400m Relay Final</li><li>Women's 100m Final</li>
+ </ul>
+LAST-MODIFIED:20210329T055234Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 
+DTSTART:20210731T000000Z
+DTEND:20210731T030000Z
+DTSTAMP:20210723T170802Z
+UID:2277e5a1qav9bug4nk4h2ck3u7@google.com
+SEQUENCE:0
+CREATED:20210329T055122Z
+DESCRIPTION: <ul><li>Women's 400m Hurdles Round 1</li><li>Women's Discus T
+ hrow Qualifying Round</li><li>Men's Pole Vault Qualifying Round</li><li>Me
+ n's 800m Round 1</li><li>Women's 100m Hurdles Qualifying Round</li><li>Men
+ 's 100m Preliminary Round</li></ul>
+LAST-MODIFIED:20210329T055122Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 🥇🥈🥉
+DTSTART:20210731T020000Z
+DTEND:20210731T040000Z
+DTSTAMP:20210723T170802Z
+UID:44bdtvnhlbk83rs7h6e7711t06@google.com
+SEQUENCE:0
+CREATED:20210329T054942Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's 5000m Round 1</li><li>Women's Tri
+ ple Jump Qualifying Round</li><li>Women's Shot Put Qualifying Round</li><l
+ i>Mixed 4 x 400m Relay Round 1</li><li>Men's 10\,000m Final</li></ul>
+LAST-MODIFIED:20210329T054942Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics 
+DTSTART:20210730T000000Z
+DTEND:20210730T033000Z
+DTSTAMP:20210723T170802Z
+UID:44ocetji99eim1shgek4507p9h@google.com
+SEQUENCE:0
+CREATED:20210329T054745Z
+DESCRIPTION: <ul><li>Men's 3000m Steeplechase Round 1</li><li>Men's High J
+ ump Qualifying Round</li><li>Men's Discus Throw Qualifying Round</li><li>W
+ omen's 800m Round 1</li><li>Men's 400m Hurdles Round 1</li><li>Women's 100
+ m Round 1</li></ul>
+LAST-MODIFIED:20210329T054745Z
+LOCATION:Olympic Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

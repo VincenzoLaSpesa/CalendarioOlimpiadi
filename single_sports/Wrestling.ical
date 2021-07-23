@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210804T020000Z
+DTEND:20210804T043000Z
+DTSTAMP:20210723T170802Z
+UID:413bq40tmorerepb9m4qj9udsm@google.com
+SEQUENCE:0
+CREATED:20210422T171414Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Greco-Roman 67 kg Repechage</li><li
+ >Women's Freestyle 62 kg Repechage</li><li>Men's Greco-Roman 87 kg Repecha
+ ge</li><li>Men's Freestyle 57 kg 1/8 Finals</li><li>Women's Freestyle 57 k
+ g 1/8 Finals</li><li>Men's Freestyle 86 kg 1/8 Finals</li><li>Men's Freest
+ yle 57 kg 1/4 Finals</li><li>Women's Freestyle 57 kg 1/4 Finals</li><li>Me
+ n's Freestyle 86 kg 1/4 Finals</li></ul>
+LAST-MODIFIED:20210701T071333Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210802T020000Z
+DTEND:20210802T043000Z
+DTSTAMP:20210723T170802Z
+UID:29t97id38g3ia20js3lktokatn@google.com
+SEQUENCE:0
+CREATED:20210422T170814Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Greco-Roman 60 kg Repechage</li><li
+ >Women's Freestyle 76 kg Repechage</li><li>Men's Greco-Roman 130 kg Repech
+ age</li><li>Men's Greco-Roman 77 kg 1/8 Finals</li><li>Women's Freestyle 6
+ 8 kg 1/8 Finals</li><li>Men's Greco-Roman 97 kg 1/8 Finals</li><li>Men's G
+ reco-Roman 77 kg 1/4 Finals</li><li>Women's Freestyle 68 kg 1/4 Finals</li
+ ><li>Men's Greco-Roman 97 kg 1/4 Finals</li></ul>
+LAST-MODIFIED:20210630T151309Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210807T094500Z
+DTEND:20210807T130000Z
+DTSTAMP:20210723T170802Z
+UID:5e8q1aingndfasi7ne3t0lqb2h@google.com
+SEQUENCE:0
+CREATED:20210422T172154Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Freestyle 65 kg Repechage</li><li>W
+ omen's Freestyle 50 kg Repechage</li><li>Men's Freestyle 97 kg Repechage</
+ li><li>Men's Freestyle 65 kg Bronze Medal Matches</li><li>Men's Freestyle 
+ 65 kg Final</li><li>Men's Freestyle 97 kg Bronze Medal Matches</li><li>Men
+ 's Freestyle 97 kg Final</li><li>Men's Freestyle 65 kg Victory Ceremony</l
+ i><li>Women's Freestyle 50 kg Bronze Medal Matches</li><li>Women's Freesty
+ le 50 kg Final</li><li>Men's Freestyle 97 kg Victory Ceremony</li><li>Wome
+ n's Freestyle 50 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210422T172154Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210806T091500Z
+DTEND:20210806T130000Z
+DTSTAMP:20210723T170802Z
+UID:5gl606k47dvboimdl9l7is669i@google.com
+SEQUENCE:0
+CREATED:20210422T172041Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Freestyle 65 kg Semifinals</li><li>
+ Men's Freestyle 97 kg Semifinals</li><li>Women's Freestyle 50 kg Semifinal
+ s</li><li>Men's Freestyle 74 kg Bronze Medal Matches</li><li>Men's Freesty
+ le 74 kg Final</li><li>Men's Freestyle 125 kg Bronze Medal Matches</li><li
+ >Men's Freestyle 125 kg Final</li><li>Men's Freestyle 74 kg Victory Ceremo
+ ny</li><li>Women's Freestyle 53 kg Bronze Medal Matches</li><li>Women's Fr
+ eestyle 53 kg Final</li><li>Men's Freestyle 125 kg Victory Ceremony</li><l
+ i>Women's Freestyle 53 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210422T172041Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 
+DTSTART:20210806T020000Z
+DTEND:20210806T043000Z
+DTSTAMP:20210723T170802Z
+UID:1im6ljqfm9omvr507gjm2b6vmt@google.com
+SEQUENCE:0
+CREATED:20210422T171927Z
+DESCRIPTION: <ul><li>Men's Freestyle 74 kg Repechage</li><li>Women's Frees
+ tyle 53 kg Repechage</li><li>Men's Freestyle 125 kg Repechage</li><li>Men'
+ s Freestyle 65 kg 1/8 Finals</li><li>Women's Freestyle 50 kg 1/8 Finals</l
+ i><li>Men's Freestyle 97 kg 1/8 Finals</li><li>Men's Freestyle 65 kg 1/4 F
+ inals</li><li>Women's Freestyle 50 kg 1/4 Finals</li><li>Men's Freestyle 9
+ 7 kg 1/4 Finals</li></ul>
+LAST-MODIFIED:20210422T171927Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210805T091500Z
+DTEND:20210805T130000Z
+DTSTAMP:20210723T170802Z
+UID:5o882vkee6731safb9em3fhsgg@google.com
+SEQUENCE:0
+CREATED:20210422T171822Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Freestyle 74 kg Semifinals</li><li>
+ Men's Freestyle 125 kg Semifinals</li><li>Women's Freestyle 53 kg Semifina
+ ls</li><li>Men's Freestyle 57 kg Bronze Medal Matches</li><li>Men's Freest
+ yle 57 kg Final</li><li>Men's Freestyle 86 kg Bronze Medal Matches</li><li
+ >Men's Freestyle 86 kg Final</li><li>Men's Freestyle 57 kg Victory Ceremon
+ y</li><li>Women's Freestyle 57 kg Bronze Medal Matches</li><li>Women's Fre
+ estyle 57 kg Final</li><li>Men's Freestyle 86 kg Victory Ceremony</li><li>
+ Women's Freestyle 57 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210422T171822Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 
+DTSTART:20210805T020000Z
+DTEND:20210805T043000Z
+DTSTAMP:20210723T170802Z
+UID:45bsag5gl5usq2g0lcaceh19i4@google.com
+SEQUENCE:0
+CREATED:20210422T171705Z
+DESCRIPTION: <ul><li>Men's Freestyle 57 kg Repechage</li><li>Women's Frees
+ tyle 57 kg Repechage</li><li>Men's Freestyle 86 kg Repechage</li><li>Men's
+  Freestyle 74 kg 1/8 Finals</li><li>Women's Freestyle 53 kg 1/8 Finals</li
+ ><li>Men's Freestyle 125 kg 1/8 Finals</li><li>Men's Freestyle 74 kg 1/4 F
+ inals</li><li>Women's Freestyle 53 kg 1/4 Finals</li><li>Men's Freestyle 1
+ 25 kg 1/4 Finals</li></ul>
+LAST-MODIFIED:20210422T171705Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210804T091500Z
+DTEND:20210804T130000Z
+DTSTAMP:20210723T170802Z
+UID:3lng31360kkaj6nh68drbs15qn@google.com
+SEQUENCE:0
+CREATED:20210422T171513Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Freestyle 57 kg Semifinals</li><li>
+ Men's Freestyle 86 kg Semifinals</li><li>Women's Freestyle 57 kg Semifinal
+ s</li><li>Men's Greco-Roman 67 kg Bronze Medal Matches</li><li>Men's Greco
+ -Roman 67 kg Final</li><li>Men's Greco-Roman 87 kg Bronze Medal Matches</l
+ i><li>Men's Greco-Roman 87 kg Final</li><li>Men's Greco-Roman 67 kg Victor
+ y Ceremony</li><li>Women's Freestyle 62 kg Bronze Medal Matches</li><li>Wo
+ men's Freestyle 62 kg Final</li><li>Men's Greco-Roman 87 kg Victory Ceremo
+ ny</li><li>Women's Freestyle 62 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210422T171513Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210803T091500Z
+DTEND:20210803T130000Z
+DTSTAMP:20210723T170802Z
+UID:2sqd6qdp31u4eeluui465fqt39@google.com
+SEQUENCE:0
+CREATED:20210422T171308Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Greco-Roman 67 kg Semifinals</li><l
+ i>Men's Greco-Roman 87 kg Semifinals</li><li>Women's Freestyle 62 kg Semif
+ inals</li><li>Men's Greco-Roman 77 kg Bronze Medal Matches</li><li>Men's G
+ reco-Roman 77 kg Final</li><li>Men's Greco-Roman 97 kg Bronze Medal Matche
+ s</li><li>Men's Greco-Roman 97 kg Final</li><li>Men's Greco-Roman 77 kg Vi
+ ctory Ceremony</li><li>Women's Freestyle 68 kg Bronze Medal Matches</li><l
+ i>Women's Freestyle 68 kg Final</li><li>Men's Greco-Roman 97 kg Victory Ce
+ remony</li><li>Women's Freestyle 68 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210422T171308Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 
+DTSTART:20210803T020000Z
+DTEND:20210803T043000Z
+DTSTAMP:20210723T170802Z
+UID:72vsmeai5g2i4ap3qe1iv6oeji@google.com
+SEQUENCE:0
+CREATED:20210422T171212Z
+DESCRIPTION: <ul><li>Men's Greco-Roman 77 kg Repechage</li><li>Women's Fre
+ estyle 68 kg Repechage</li><li>Men's Greco-Roman 97 kg Repechage</li><li>M
+ en's Greco-Roman 67 kg 1/8 Finals</li><li>Women's Freestyle 62 kg 1/8 Fina
+ ls</li><li>Men's Greco-Roman 87 kg 1/8 Finals</li><li>Men's Greco-Roman 67
+  kg 1/4 Finals</li><li>Women's Freestyle 62 kg 1/4 Finals</li><li>Men's Gr
+ eco-Roman 87 kg 1/4 Finals</li></ul>
+LAST-MODIFIED:20210422T171212Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210802T091500Z
+DTEND:20210802T130000Z
+DTSTAMP:20210723T170802Z
+UID:0r4pv2us6pk1fpsqhpo3o062ni@google.com
+SEQUENCE:0
+CREATED:20210422T171116Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Greco-Roman 77 kg Semifinals</li><l
+ i>Men's Greco-Roman 97 kg Semifinals</li><li>Women's Freestyle 68 kg Semif
+ inals</li><li>Men's Greco-Roman 60 kg Bronze Medal Matches</li><li>Men's G
+ reco-Roman 60 kg Final</li><li>Men's Greco-Roman 130 kg Bronze Medal Match
+ es</li><li>Men's Greco-Roman 130 kg Final</li><li>Men's Greco-Roman 60 kg 
+ Victory Ceremony</li><li>Women's Freestyle 76 kg Bronze Medal Matches</li>
+ <li>Women's Freestyle 76 kg Final</li><li>Men's Greco-Roman 130 kg Victory
+  Ceremony</li><li>Women's Freestyle 76 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210422T171116Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 
+DTSTART:20210801T091500Z
+DTEND:20210801T101500Z
+DTSTAMP:20210723T170802Z
+UID:7k9st88s746s5a26f66noadb8k@google.com
+SEQUENCE:0
+CREATED:20210422T170715Z
+DESCRIPTION: <ul><li>Men's Greco-Roman 60 kg Semifinals</li><li>Men's Grec
+ o-Roman 130 kg Semifinals</li><li>Women's Freestyle 76 kg Semifinals</li><
+ /ul>
+LAST-MODIFIED:20210422T170715Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 
+DTSTART:20210801T020000Z
+DTEND:20210801T040000Z
+DTSTAMP:20210723T170802Z
+UID:2n243g5h83sgojr5t33p8h1e74@google.com
+SEQUENCE:0
+CREATED:20210422T170601Z
+DESCRIPTION: <ul><li>Men's Greco-Roman 60 kg 1/8 Finals</li><li>Women's Fr
+ eestyle 76 kg 1/8 Finals</li><li>Men's Greco-Roman 130 kg 1/8 Finals</li><
+ li>Men's Greco-Roman 60 kg 1/4 Finals</li><li>Women's Freestyle 76 kg 1/4 
+ Finals</li><li>Men's Greco-Roman 130 kg 1/4 Finals</li></ul>
+LAST-MODIFIED:20210422T170601Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

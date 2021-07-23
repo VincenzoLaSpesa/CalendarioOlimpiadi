@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Modern Pentathlon 🥇🥈🥉
+DTSTART:20210807T053000Z
+DTEND:20210807T111500Z
+DTSTAMP:20210723T170802Z
+UID:6u31vbgiifbufjir6mmn4b4n4d@google.com
+SEQUENCE:0
+CREATED:20210403T235119Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Swimming</li><li>Men's Fencing Bonu
+ s Round</li><li>Men's Riding Show Jumping</li><li>Men's Laser Run</li><li>
+ Men's Victory Ceremony</li></ul>
+LAST-MODIFIED:20210403T235119Z
+LOCATION:Tokyo Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modern Pentathlon 🥇🥈🥉
+DTSTART:20210806T053000Z
+DTEND:20210806T111500Z
+DTSTAMP:20210723T170802Z
+UID:5bp14ovi7l0hiu2r2ut1usg6q4@google.com
+SEQUENCE:0
+CREATED:20210403T234847Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Swimming</li><li>Women's Fencing 
+ Bonus Round</li><li>Women's Riding Show Jumping</li><li>Women's Laser Run<
+ /li><li>Women's Victory Ceremony</li></ul>
+LAST-MODIFIED:20210403T234847Z
+LOCATION:Tokyo Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modern Pentathlon 
+DTSTART:20210805T040000Z
+DTEND:20210805T103000Z
+DTSTAMP:20210723T170802Z
+UID:6e0pf9mcupvp7md1esdftsvpev@google.com
+SEQUENCE:0
+CREATED:20210403T234632Z
+DESCRIPTION: <ul><li>Women's Fencing Ranking Round</li><li>Men's Fencing R
+ anking Round</li></ul>
+LAST-MODIFIED:20210403T234632Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

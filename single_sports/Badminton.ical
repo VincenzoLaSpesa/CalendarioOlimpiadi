@@ -1,0 +1,420 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Badminton 
+DTSTART:20210726T090000Z
+DTEND:20210726T123000Z
+DTSTAMP:20210723T170802Z
+UID:3jcur43rvrdflqsjf3h1q58nh2@google.com
+SEQUENCE:0
+CREATED:20210329T205500Z
+DESCRIPTION: Men's Singles Group Play Stage\nWomen's Singles Group Play St
+ age\nMen's Doubles Group Play Stage\nWomen's Doubles Group Play Stage\nMix
+ ed Doubles Group Play Stage
+LAST-MODIFIED:20210718T194809Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 
+DTSTART:20210726T010000Z
+DTEND:20210726T063000Z
+DTSTAMP:20210723T170802Z
+UID:4mplbed8mtgdhu26n3ah7jubb1@google.com
+SEQUENCE:0
+CREATED:20210329T205314Z
+DESCRIPTION: Men's Singles Group Play Stage\nWomen's Singles Group Play St
+ age\nMen's Doubles Group Play Stage\nWomen's Doubles Group Play Stage\nMix
+ ed Doubles Group Play Stage
+LAST-MODIFIED:20210718T194753Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 
+DTSTART:20210725T090000Z
+DTEND:20210725T123000Z
+DTSTAMP:20210723T170802Z
+UID:40p3no903akflsch5qf5tea3dg@google.com
+SEQUENCE:0
+CREATED:20210329T205157Z
+DESCRIPTION: <b>Men's Singles Group Play Stage </b><br>18:00 JST - Group A
+  (Japan vs. USA)<br><span>18:40 JST - Group M (Malaysia vs. Ukraine)</span
+ ><br><span><span>20:00 JST - Group K (Thailand vs. Germany)</span></span><
+ br><span><span>20:00 JST - Group L (Denmark vs. Vietnam)<br></span></span>
+ <br>&nbsp\;<br><b>Women's Singles Group Play Stage</b> &nbsp\;&nbsp\; <br>
+ 18:00 JST - Group H (USA vs. Ukraine)<br><span>19:20 JST - Group N (Thaila
+ nd vs. Hungary)</span><br>&nbsp\;&nbsp\;&nbsp\; <br><b>Mixed Doubles Group
+  Play Stage </b><br>18:00 JST - Group A (Korea vs. Egypt)<br><span>18:40 J
+ ST - Group C (Japan vs. Australia)</span><br><span><span>19:20 JST - Group
+  B (Great Britain vs. Canada)<br></span></span><br>&nbsp\;&nbsp\;&nbsp\;&n
+ bsp\;<br><b>Men's Doubles Group Play Stage</b><br>18:40 JST - Group C (Chi
+ na vs. Germany)<br>&nbsp\;&nbsp\;&nbsp\; <br><b>Women's Doubles Group Play
+  Stage</b><br><span>19:20 JST - Group A (Japan vs. Malaysia)<br></span><br
+ ><span>20:00 JST - Group B (Japan vs. Canada)</span>
+LAST-MODIFIED:20210718T064721Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 
+DTSTART:20210725T010000Z
+DTEND:20210725T063000Z
+DTSTAMP:20210723T170802Z
+UID:046rf55b5lm896lge2kmi5dnd5@google.com
+SEQUENCE:0
+CREATED:20210329T205041Z
+DESCRIPTION: <b></b><span><b>Men's Singles Group Play Stage </b><br></span
+ ><br><span>10:00 JST - Group P (Chinese Taipei vs. Sweden)</span>&nbsp\;&n
+ bsp\;<br><span>10:40 JST - Group I (Japan vs. Mauritius)</span>&nbsp\;&nbs
+ p\;<br><span>12:40 JST - Group H (China vs. Malta)</span><br><span><span>1
+ 3:20 JST - Group J (Indonesia vs. Hungary)</span></span><br><span><span><s
+ pan>14:00 JST - Group N (China vs. Estonia)<br></span></span></span><br><b
+ ></b><br><b><br></b><br><b><span><br>Women's Singles Group Play Stage </sp
+ an></b><span><br>10:00 JST - Group M (Indonesia vs. Myanmar)<br><span>10:4
+ 0 JST - Group J (Indonesia vs. Israel)</span>&nbsp\;&nbsp\;<br><span>11:20
+  JST - Group A (China vs. Egypt)</span><br><span><span>11:20 JST - Group E
+ </span> (Japan vs. Germany)</span><br><span><span>12:00 JST - Group F (Can
+ ada vs. Guatemala)</span></span><br><span><span><span>12:40 JST - Group G 
+ (China vs. Maldives)</span></span></span><br><span><span><span><span>14:00
+  JST - Group I (Denmark vs. Australia)<br></span></span></span></span></sp
+ an><b></b><br><b>&nbsp\;</b><br><b>Men's Doubles Group Play Stage </b><br>
+ 10:00 JST - Group D (South Korea vs. Canada)&nbsp\;&nbsp\;&nbsp\;&nbsp\;<b
+ r><span>12:40 JST - Group B</span> (Japan vs. ROC) <br><br><b>Women's Doub
+ les Group Play Stage&nbsp\; </b><br>10:40 JST - Group D (South Korea vs. T
+ hailand)<br><span>13:20 JST - Group C (South Korea vs. Denmark)</span> <br
+ ><br><b>Mixed Doubles Group Play Stage</b><br><span><span>11:20 JST - Grou
+ p D (Malaysia vs. Germany)</span></span>&nbsp\; <br>12:00 JST - Group B (T
+ hailand vs. France)<br>12:00 JST - Group D (China vs. Hong Kong)<br><span>
+ 13:20 JST - Group C (Indonesia vs. Denmark)</span> <br><span>14:00 JST - G
+ roup A</span> (China vs. Netherlands)
+LAST-MODIFIED:20210718T063832Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 
+DTSTART:20210724T090000Z
+DTEND:20210724T130000Z
+DTSTAMP:20210723T170802Z
+UID:4idk51122211l78eickeilg477@google.com
+SEQUENCE:0
+CREATED:20210329T204916Z
+DESCRIPTION: <span>19:20 JST - Men's Singles Group Play Stage - Group E - 
+ Denmark vs. Austria &nbsp\;</span><br><span><span>20:00 JST - Men's Single
+ s Group Play Stage - Group F - Chinese Taipei vs. Sri Lanka </span>&nbsp\;
+ </span><br><span>&nbsp\;</span><br><span><span>20:00 JST - Women's Singles
+  Group Play Stage - Group C - South Korea vs. Spain &nbsp\;&nbsp\; </span>
+ &nbsp\;&nbsp\; </span>&nbsp\;<br><span>20:40 JST - Women's Singles Group P
+ lay Stage - Group K - Korea vs. Mexico</span>&nbsp\; <br>&nbsp\;<br>18:00 
+ JST&nbsp\; - Men's Doubles Group Play Stage - Group D - South Korea vs. Ma
+ laysia<br>18:00 JST - Men's Doubles Group Play Stage - Group D - Indonesia
+  vs. Canada &nbsp\;<br><span>19:20 JST - Men's Doubles Group Play Stage - 
+ Group C - Japan vs. Germany &nbsp\;&nbsp\;</span>&nbsp\;<br><span>20:00 JS
+ T - Men's Doubles Group Play Stage - Group B - Japan vs. Nigeria</span>&nb
+ sp\; <br><br>18:00 JST - Women's Doubles Group Play Stage - Group B - Japa
+ n vs. Egypt &nbsp\;&nbsp\; <br>18:40 JST - Women's Doubles Group Play Stag
+ e - Group B - Netherlands vs. Canada &nbsp\;&nbsp\; <br>18:40 JST - Women'
+ s Doubles Group Play Stage - Group C - South Korea vs. Australia<br><span>
+ 20:40 JST - Women's Doubles Group Play Stage - Group A - Japan vs. Great B
+ ritain &nbsp\;&nbsp\;</span>&nbsp\;&nbsp\; <br>&nbsp\;<br>18:40 JST - Mixe
+ d Doubles Group Play Stage - Group B - Thailand vs. Canada&nbsp\; <br>19:2
+ 0 JST - Mixed Doubles Group Play Stage - Group D - Malaysia vs. Hong Kong 
+ &nbsp\;&nbsp\;&nbsp\;
+LAST-MODIFIED:20210717T060538Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 
+DTSTART:20210724T000000Z
+DTEND:20210724T053000Z
+DTSTAMP:20210723T170802Z
+UID:3v857dhf64epm96uqcliejcmrc@google.com
+SEQUENCE:0
+CREATED:20210329T204740Z
+DESCRIPTION: 9:00 JST - Women's Singles Group Play Stage - Group P - Franc
+ e vs. Vietnam<br><span>9:40 JST - Women's Singles Group Play Stage - Group
+  D - Thailand vs. Peru</span><br><span><span>9:40 JST - Women's Singles Gr
+ oup Play Stage - Group L - Japan vs. Pakistan</span>&nbsp\;</span><br><spa
+ n><span>13:00 JST - Women's Singles Group Play Stage - Group P - Chinese T
+ aipei vs. Switzerland</span>&nbsp\;&nbsp\;</span>&nbsp\; <br><br>10:20 JST
+  - Men's Singles Group Play Stage - Group C - Hong Kong vs. Mexico<br><spa
+ n>11:00 JST - Men's Singles Group Play Stage - Group G - Indonesia vs. Ref
+ ugee Olympic Team</span>&nbsp\;<br><span>13:00 JST - Men's Singles Group P
+ lay Stage - Group D - India vs. Israel</span>&nbsp\; <br>&nbsp\;<br><span>
+ 9:00 JST - Women's Doubles Group Play Stage - Group A - Indonesia vs. Mala
+ ysia</span>&nbsp\;&nbsp\;<br><span>11:00 JST - Women's Doubles Group Play 
+ Stage - Group C - China vs. Denmark &nbsp\;&nbsp\; <br>11:40 JST - Women's
+  Doubles Group Play Stage - Group D - China vs. Thailand &nbsp\;&nbsp\; <b
+ r>11:40 JST - Women's Doubles Group Play Stage - Group D - Korea vs. Bulga
+ ria &nbsp\;</span>&nbsp\; <br><br><span>11:00 JST - Men's Doubles Group Pl
+ ay Stage - Group C - China vs. USA</span><br><span><span>12:20 JST - Men's
+  Doubles Group Play Stage - Group A - Indonesia vs. Great Britain<br>12:20
+  JST - Men's Doubles Group Play Stage - Group A - Chinese Taipei vs. India
+  &nbsp\;&nbsp\; </span>&nbsp\;</span><br><span><span>13:00 JST - Men's Dou
+ bles Group Play Stage - Group B - Denmark vs. ROC</span>&nbsp\;</span><br>
+ &nbsp\;<br><span><br>9:00 JST - Mixed Doubles Group Play Stage - Group C -
+  Japan vs. Denmar <br>9:40 JST - Mixed Doubles Group Play Stage - Group B 
+ - Great Britain vs. France </span>10:20 JST - Mixed Doubles Group Play Sta
+ ge - Group A - Korea vs. Netherlands<br>10:20 JST - Mixed Doubles Group Pl
+ ay Stage - Group A - China vs. Egypt<br>11:40 JST - Mixed Doubles Group Pl
+ ay Stage - Group C - Indonesia vs. Australia &nbsp\;&nbsp\; <br>12:20 JST 
+ - Mixed Doubles Group Play Stage - Group D - China vs. Germany &nbsp\;&nbs
+ p\;
+LAST-MODIFIED:20210717T055529Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 🥇🥈🥉
+DTSTART:20210802T110000Z
+DTEND:20210802T140000Z
+DTSTAMP:20210723T170802Z
+UID:04jjgsc2bu2l0iq2c6s90uijo6@google.com
+SEQUENCE:0
+CREATED:20210330T025423Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Singles Bronze Medal Match</li><li>
+ Men's Singles Gold Medal Match</li><li>Men's Singles Victory Ceremony</li>
+ </ul>
+LAST-MODIFIED:20210330T025423Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 🥇🥈🥉
+DTSTART:20210802T040000Z
+DTEND:20210802T063000Z
+DTSTAMP:20210723T170802Z
+UID:3m83vh6gcj9c8thf7b4dg8bdlc@google.com
+SEQUENCE:0
+CREATED:20210330T025320Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Doubles Bronze Medal Match</li><l
+ i>Women's Doubles Gold Medal Match</li><li>Women's Doubles Victory Ceremon
+ y</li></ul>
+LAST-MODIFIED:20210330T025320Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 🥇🥈🥉
+DTSTART:20210801T113000Z
+DTEND:20210801T140000Z
+DTSTAMP:20210723T170802Z
+UID:5dbp5cglgq80afq1h9clkf7rcc@google.com
+SEQUENCE:0
+CREATED:20210330T025159Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Singles Bronze Medal Match</li><l
+ i>Women's Singles Gold Medal Match</li><li>Women's Singles Victory Ceremon
+ y</li></ul>
+LAST-MODIFIED:20210330T025159Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 
+DTSTART:20210801T040000Z
+DTEND:20210801T070000Z
+DTSTAMP:20210723T170802Z
+UID:5tqpsri5k3f9kfhl07pc1gqfcu@google.com
+SEQUENCE:0
+CREATED:20210330T024948Z
+DESCRIPTION: Men's Singles Semifinals
+LAST-MODIFIED:20210330T024948Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 🥇🥈🥉
+DTSTART:20210731T090000Z
+DTEND:20210731T140000Z
+DTSTAMP:20210723T170802Z
+UID:6vr0mpja9v76gksji0m9julsdq@google.com
+SEQUENCE:0
+CREATED:20210330T024632Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Singles Semifinals</li><li>Men's 
+ Doubles Bronze Medal Match</li><li>Men's Doubles Gold Medal Match</li><li>
+ Men's Doubles Victory Ceremony</li></ul>
+LAST-MODIFIED:20210330T024632Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 
+DTSTART:20210731T000000Z
+DTEND:20210731T070000Z
+DTSTAMP:20210723T170802Z
+UID:59dt5qldskio802f1f0p3jol3h@google.com
+SEQUENCE:0
+CREATED:20210330T024415Z
+DESCRIPTION: <ul><li>Men's Singles Quarterfinals</li><li>Women's Doubles S
+ emifinals</li></ul>
+LAST-MODIFIED:20210330T024415Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 🥇🥈
+DTSTART:20210730T063000Z
+DTEND:20210730T123000Z
+DTSTAMP:20210723T170802Z
+UID:2uoa0qhfc60k74el2ped7ic484@google.com
+SEQUENCE:0
+CREATED:20210330T024253Z
+DESCRIPTION:🥇🥈 <ul><li>Mixed Doubles Gold Medal Match</li><li>Mixed 
+ Doubles Victory Ceremony</li><li>Women's Singles Quarterfinals</li><li>Men
+ 's Doubles Semifinals</li></ul>
+LAST-MODIFIED:20210330T024253Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 🥉
+DTSTART:20210730T000000Z
+DTEND:20210730T033000Z
+DTSTAMP:20210723T170802Z
+UID:7709pl4f8hs5mgj7d5nluh7u9e@google.com
+SEQUENCE:0
+CREATED:20210330T024027Z
+DESCRIPTION:🥉 <ul><li>Women's Singles Quarterfinals</li><li>Mixed Doubl
+ es Bronze Medal Match</li></ul>
+LAST-MODIFIED:20210330T024027Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 
+DTSTART:20210729T080000Z
+DTEND:20210729T130000Z
+DTSTAMP:20210723T170802Z
+UID:3h6qvhrsqv6h4kjpcso7k2fc73@google.com
+SEQUENCE:0
+CREATED:20210330T023858Z
+DESCRIPTION: <ul><li>Men's Singles Round of 16</li><li>Women's Doubles Qua
+ rterfinals</li></ul>
+LAST-MODIFIED:20210330T023858Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 
+DTSTART:20210729T000000Z
+DTEND:20210729T063000Z
+DTSTAMP:20210723T170802Z
+UID:31ipgq9v1sjf50e3uln7av07pq@google.com
+SEQUENCE:0
+CREATED:20210330T023733Z
+DESCRIPTION: <ul><li>Mixed Doubles Semifinals</li><li>Men's Doubles Quarte
+ rfinals</li><li>Women's Singles Round of 16</li></ul>
+LAST-MODIFIED:20210330T023733Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 
+DTSTART:20210728T090000Z
+DTEND:20210728T123000Z
+DTSTAMP:20210723T170802Z
+UID:4c75cth3vk3dcetiaeu1gr1el8@google.com
+SEQUENCE:0
+CREATED:20210329T210337Z
+DESCRIPTION: Men's Singles Group Play Stage
+LAST-MODIFIED:20210329T210337Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 
+DTSTART:20210728T000000Z
+DTEND:20210728T053000Z
+DTSTAMP:20210723T170802Z
+UID:1joub5nt9s5j2j7n3l32q7vjpo@google.com
+SEQUENCE:0
+CREATED:20210329T210206Z
+DESCRIPTION: <ul><li>Women's Singles Group Play Stage</li><li>Mixed Double
+ s Quarterfinals</li></ul>
+LAST-MODIFIED:20210329T210206Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 
+DTSTART:20210727T090000Z
+DTEND:20210727T123000Z
+DTSTAMP:20210723T170802Z
+UID:0p3id38eq0ik6s68ajj884isir@google.com
+SEQUENCE:0
+CREATED:20210329T205922Z
+DESCRIPTION: <ul><li>Men's Singles Group Play Stage</li><li>Women's Single
+ s Group Play Stage</li><li>Men's Doubles Group Play Stage</li><li>Women's 
+ Doubles Group Play Stage</li></ul>
+LAST-MODIFIED:20210329T205922Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badminton 
+DTSTART:20210727T010000Z
+DTEND:20210727T063000Z
+DTSTAMP:20210723T170802Z
+UID:0fq3397bb825jgfom4e9lrkikc@google.com
+SEQUENCE:1
+CREATED:20210329T205658Z
+DESCRIPTION: <ul><li>Men's Singles Group Play Stage</li><li>Women's Single
+ s Group Play Stage</li><li>Men's Doubles Group Play Stage</li><li>Women's 
+ Doubles Group Play Stage</li></ul>
+LAST-MODIFIED:20210329T205726Z
+LOCATION:Musashino Forest Sport Plaza\, 290-11 Nishimachi\, Chofu\, Tokyo 
+ 182-0032\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

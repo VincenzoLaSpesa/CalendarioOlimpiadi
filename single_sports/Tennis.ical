@@ -1,0 +1,512 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Tennis 🥇🥈🥉
+DTSTART:20210801T030000Z
+DTEND:20210801T110000Z
+DTSTAMP:20210723T170802Z
+UID:2q9u6hneltommovlpc6dojnpd1@google.com
+SEQUENCE:0
+CREATED:20210409T175642Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Singles Gold Medal Match</li><li>Me
+ n's Singles Victory Ceremony</li><li>Women's Doubles Gold Medal Match</li>
+ <li>Women's Doubles Victory Ceremony</li><li>Mixed Doubles Gold Medal Matc
+ h</li><li>Mixed Doubles Victory Ceremony</li></ul><p>*The above includes a
+ ll possible events for this court. The final court assignments and order o
+ f play are subject to change up until the day of the session.</p>
+LAST-MODIFIED:20210409T175642Z
+LOCATION:Ariake Tennis Park - Centre Court
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 🥉
+DTSTART:20210731T030000Z
+DTEND:20210731T110000Z
+DTSTAMP:20210723T170802Z
+UID:0hrb4mgqg35oo7g14ippk456hj@google.com
+SEQUENCE:0
+CREATED:20210409T175527Z
+DESCRIPTION:🥉 <ul><li>Women's Doubles Bronze Medal Match</li><li>Mixed 
+ Doubles Bronze Medal Match</li></ul><p>*The above includes all possible ev
+ ents for this court. The final court assignments and order of play are sub
+ ject to change up until the day of the session.</p>
+LAST-MODIFIED:20210409T175527Z
+LOCATION:Ariake Tennis Park - Court 1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 🥇🥈🥉
+DTSTART:20210731T030000Z
+DTEND:20210731T110000Z
+DTSTAMP:20210723T170802Z
+UID:0f33ndu36krrv70an7j30ro776@google.com
+SEQUENCE:0
+CREATED:20210409T175412Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Singles Bronze Medal Match</li><li>
+ Women's Singles Bronze Medal Match</li><li>Women's Singles Gold Medal Matc
+ h</li><li>Women's Singles Victory Ceremony</li></ul><p>*The above includes
+  all possible events for this court. The final court assignments and order
+  of play are subject to change up until the day of the session.</p>
+LAST-MODIFIED:20210409T175412Z
+LOCATION:Ariake Tennis Park - Centre Court
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 🥉
+DTSTART:20210730T030000Z
+DTEND:20210730T110000Z
+DTSTAMP:20210723T170802Z
+UID:3hus4qo0jbiq5ma8mjpqu7avm1@google.com
+SEQUENCE:0
+CREATED:20210409T175251Z
+DESCRIPTION:🥉 <ul><li>Men's Doubles Bronze Medal Match</li><li>Mixed Do
+ ubles Semifinals</li></ul><p>*The above includes all possible events for t
+ his court. The final court assignments and order of play are subject to ch
+ ange up until the day of the session.</p>
+LAST-MODIFIED:20210409T175251Z
+LOCATION:Ariake Tennis Park - Court 1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 🥇🥈
+DTSTART:20210730T030000Z
+DTEND:20210730T110000Z
+DTSTAMP:20210723T170802Z
+UID:5pduqqiu6bfalubcn0015nfid3@google.com
+SEQUENCE:0
+CREATED:20210409T175123Z
+DESCRIPTION:🥇🥈 <ul><li>Men's Singles Semifinals</li><li>Men's Double
+ s Gold Medal Match</li><li>Men's Doubles Victory Ceremony</li></ul><p>*The
+  above includes all possible events for this court. The final court assign
+ ments and order of play are subject to change up until the day of the sess
+ ion.</p>
+LAST-MODIFIED:20210409T175123Z
+LOCATION:Ariake Tennis Park - Centre Court
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210729T020000Z
+DTEND:20210729T110000Z
+DTSTAMP:20210723T170802Z
+UID:2u2ugermvraqvtsr2rgkb3t91m@google.com
+SEQUENCE:0
+CREATED:20210409T175004Z
+DESCRIPTION: <ul><li>Mixed Doubles Quarterfinals</li></ul><p>*The above in
+ cludes all possible events for this court. The final court assignments and
+  order of play are subject to change up until the day of the session.</p>
+LAST-MODIFIED:20210409T175004Z
+LOCATION:Ariake Tennis Park - Court 2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210729T020000Z
+DTEND:20210729T110000Z
+DTSTAMP:20210723T170802Z
+UID:2qb54lrrak3lirel924othef2o@google.com
+SEQUENCE:0
+CREATED:20210409T174853Z
+DESCRIPTION: <ul><li>Men's Singles Quarterfinals</li><li>Women's Doubles S
+ emifinals</li><li>Mixed Doubles Quarterfinals</li></ul><p>*The above inclu
+ des all possible events for this court. The final court assignments and or
+ der of play are subject to change up until the day of the session.</p>
+LAST-MODIFIED:20210409T174853Z
+LOCATION:Ariake Tennis Park - Court 1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210729T020000Z
+DTEND:20210729T110000Z
+DTSTAMP:20210723T170802Z
+UID:7lqinla2da4u5dsrg433vd6oni@google.com
+SEQUENCE:0
+CREATED:20210409T174805Z
+DESCRIPTION: <ul><li>Men's Singles Quarterfinals</li><li>Women's Singles S
+ emifinals</li><li>Women's Doubles Semifinals</li><li>Mixed Doubles Quarter
+ finals</li></ul><p>*The above includes all possible events for this court.
+  The final court assignments and order of play are subject to change up un
+ til the day of the session.</p>
+LAST-MODIFIED:20210409T174805Z
+LOCATION:Ariake Tennis Park - Centre Court
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210728T020000Z
+DTEND:20210728T110000Z
+DTSTAMP:20210723T170802Z
+UID:04dgk272b4g7mv5gbrruq85q56@google.com
+SEQUENCE:0
+CREATED:20210409T174712Z
+DESCRIPTION: <ul><li>Men's Singles Third Round</li><li>Mixed Doubles First
+  Round</li></ul><p>*The above includes all possible events for this court.
+  The final court assignments and order of play are subject to change up un
+ til the day of the session.</p>
+LAST-MODIFIED:20210409T174712Z
+LOCATION:Ariake Tennis Park - Court 3-11
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210728T020000Z
+DTEND:20210728T110000Z
+DTSTAMP:20210723T170802Z
+UID:60hhehhkbt3mm7voornlhtfm3n@google.com
+SEQUENCE:0
+CREATED:20210409T174616Z
+DESCRIPTION: <ul><li>Men's Singles Third Round</li><li>Women's Singles Qua
+ rterfinals</li><li>Women's Doubles Quarterfinals</li><li>Mixed Doubles Fir
+ st Round</li></ul><p>*The above includes all possible events for this cour
+ t. The final court assignments and order of play are subject to change up 
+ until the day of the session.</p>
+LAST-MODIFIED:20210409T174616Z
+LOCATION:Ariake Tennis Park - Court 2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210728T020000Z
+DTEND:20210728T110000Z
+DTSTAMP:20210723T170802Z
+UID:4lj7qfc6bpi9bt1f66ibd5q25i@google.com
+SEQUENCE:0
+CREATED:20210409T174525Z
+DESCRIPTION: <ul><li>Men's Singles Third Round</li><li>Women's Singles Qua
+ rterfinals</li><li>Men's Doubles Semifinals</li><li>Women's Doubles Quarte
+ rfinals</li><li>Mixed Doubles First Round</li></ul><p>*The above includes 
+ all possible events for this court. The final court assignments and order 
+ of play are subject to change up until the day of the session.</p>
+LAST-MODIFIED:20210409T174525Z
+LOCATION:Ariake Tennis Park - Court 1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210728T020000Z
+DTEND:20210728T110000Z
+DTSTAMP:20210723T170802Z
+UID:13dlk26jf3durd5aidbs5q5iee@google.com
+SEQUENCE:0
+CREATED:20210409T174326Z
+DESCRIPTION: <ul><li>Men's Singles Third Round</li><li>Women's Singles Qua
+ rterfinals</li><li>Men's Doubles Semifinals</li><li>Women's Doubles Quarte
+ rfinals</li><li>Mixed Doubles First Round</li></ul><p>*The above includes 
+ all possible events for this court. The final court assignments and order 
+ of play are subject to change up until the day of the session.</p>
+LAST-MODIFIED:20210409T174326Z
+LOCATION:Ariake Tennis Park - Centre Court
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210727T020000Z
+DTEND:20210727T110000Z
+DTSTAMP:20210723T170802Z
+UID:1oo6f7t039hsokhhigarv5frsq@google.com
+SEQUENCE:0
+CREATED:20210409T173707Z
+DESCRIPTION: <ul><li>Men's Singles Second Round</li><li>Women's Singles Th
+ ird Round</li><li>Men's Doubles Quarterfinals</li><li>Women's Doubles Seco
+ nd Round/Quarterfinals</li></ul><p>*The above includes all possible events
+  for this court. The final court assignments and order of play are subject
+  to change up until the day of the session.</p>
+LAST-MODIFIED:20210409T173707Z
+LOCATION:Ariake Tennis Park - Court 3-11
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210727T020000Z
+DTEND:20210727T110000Z
+DTSTAMP:20210723T170802Z
+UID:0r3bho5vc5r7f0ibpc2dojtfqa@google.com
+SEQUENCE:0
+CREATED:20210409T173557Z
+DESCRIPTION: <ul><li>Men's Singles Second Round</li><li>Women's Singles Th
+ ird Round</li><li>Men's Doubles Quarterfinals</li><li>Women's Doubles Seco
+ nd Round/Quarterfinals</li></ul><p>*The above includes all possible events
+  for this court. The final court assignments and order of play are subject
+  to change up until the day of the session.</p>
+LAST-MODIFIED:20210409T173557Z
+LOCATION:Ariake Tennis Park - Court 2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210727T020000Z
+DTEND:20210727T110000Z
+DTSTAMP:20210723T170802Z
+UID:79g02ikbfqmg1qnfe8gr1soqf7@google.com
+SEQUENCE:0
+CREATED:20210409T173306Z
+DESCRIPTION: <ul><li>Men's Singles Second Round</li><li>Women's Singles Th
+ ird Round</li><li>Men's Doubles Quarterfinals</li><li>Women's Doubles Seco
+ nd Round/Quarterfinals</li></ul><p>*The above includes all possible events
+  for this court. The final court assignments and order of play are subject
+  to change up until the day of the session.</p>
+LAST-MODIFIED:20210409T173306Z
+LOCATION:Ariake Tennis Park - Court 1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210727T020000Z
+DTEND:20210727T110000Z
+DTSTAMP:20210723T170802Z
+UID:600rcgtotbd7nsgs9lc3rdhb84@google.com
+SEQUENCE:0
+CREATED:20210409T173147Z
+DESCRIPTION: <ul><li>Men's Singles Second Round</li><li>Women's Singles Th
+ ird Round</li><li>Men's Doubles Quarterfinals</li><li>Women's Doubles Seco
+ nd Round/Quarterfinals</li></ul><p>*The above includes all possible events
+  for this court. The final court assignments and order of play are subject
+  to change up until the day of the session.</p>
+LAST-MODIFIED:20210409T173148Z
+LOCATION:Ariake Tennis Park - Centre Court
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210726T020000Z
+DTEND:20210726T110000Z
+DTSTAMP:20210723T170802Z
+UID:0rl5121prgj9vac64p7mof6ucc@google.com
+SEQUENCE:0
+CREATED:20210409T173034Z
+DESCRIPTION: <ul><li>Men's Singles Second Round</li><li>Women's Singles Se
+ cond Round</li><li>Men's Doubles Second Round</li><li>Women's Doubles Seco
+ nd Round</li></ul><p>*The above includes all possible events for this cour
+ t. The final court assignments and order of play are subject to change up 
+ until the day of the session.</p>
+LAST-MODIFIED:20210409T173034Z
+LOCATION:Ariake Tennis Park - Court 3-11
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210726T020000Z
+DTEND:20210726T110000Z
+DTSTAMP:20210723T170802Z
+UID:7q15g8mh57ttqb78f2h2nuhgnp@google.com
+SEQUENCE:0
+CREATED:20210409T172932Z
+DESCRIPTION: <ul><li>Men's Singles Second Round</li><li>Women's Singles Se
+ cond Round</li><li>Men's Doubles Second Round</li><li>Women's Doubles Seco
+ nd Round</li></ul><p>*The above includes all possible events for this cour
+ t. The final court assignments and order of play are subject to change up 
+ until the day of the session.</p>
+LAST-MODIFIED:20210409T172932Z
+LOCATION:Ariake Tennis Park - Court 2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210726T020000Z
+DTEND:20210726T110000Z
+DTSTAMP:20210723T170802Z
+UID:31cav7v50jt1sbcrbpqng5p5vf@google.com
+SEQUENCE:0
+CREATED:20210409T172819Z
+DESCRIPTION: <ul><li>Men's Singles Second Round</li><li>Women's Singles Se
+ cond Round</li><li>Men's Doubles Second Round</li><li>Women's Doubles Seco
+ nd Round</li></ul><p>*The above includes all possible events for this cour
+ t. The final court assignments and order of play are subject to change up 
+ until the day of the session.</p>
+LAST-MODIFIED:20210409T172819Z
+LOCATION:Ariake Tennis Park - Court 1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210726T020000Z
+DTEND:20210726T110000Z
+DTSTAMP:20210723T170802Z
+UID:06h5ki0udq2un3jen3ac0g2ec4@google.com
+SEQUENCE:0
+CREATED:20210409T172733Z
+DESCRIPTION: <ul><li>Men's Singles Second Round</li><li>Women's Singles Se
+ cond Round</li><li>Men's Doubles Second Round</li><li>Women's Doubles Seco
+ nd Round</li></ul><p>*The above includes all possible events for this cour
+ t. The final court assignments and order of play are subject to change up 
+ until the day of the session.</p>
+LAST-MODIFIED:20210409T172733Z
+LOCATION:Ariake Tennis Park - Centre Court
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210725T020000Z
+DTEND:20210725T110000Z
+DTSTAMP:20210723T170802Z
+UID:1vfrbleede3ja46r91on9uck1c@google.com
+SEQUENCE:0
+CREATED:20210409T172133Z
+DESCRIPTION: <ul><li>Men's Singles First Round</li><li>Women's Singles Fir
+ st Round</li><li>Men's Doubles First Round</li><li>Women's Doubles First R
+ ound</li></ul><p>*The above includes all possible events for this court. T
+ he final court assignments and order of play are subject to change up unti
+ l the day of the session.</p>
+LAST-MODIFIED:20210409T172133Z
+LOCATION:Ariake Tennis Park - Court 3-11
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210725T020000Z
+DTEND:20210725T110000Z
+DTSTAMP:20210723T170802Z
+UID:6cpjmfv2865d4unlt6eg6lbhte@google.com
+SEQUENCE:0
+CREATED:20210409T172033Z
+DESCRIPTION: <ul><li>Men's Singles First Round</li><li>Women's Singles Fir
+ st Round</li><li>Men's Doubles First Round</li><li>Women's Doubles First R
+ ound</li></ul><p>*The above includes all possible events for this court. T
+ he final court assignments and order of play are subject to change up unti
+ l the day of the session.</p>
+LAST-MODIFIED:20210409T172033Z
+LOCATION:Ariake Tennis Park - Court 2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210725T020000Z
+DTEND:20210725T110000Z
+DTSTAMP:20210723T170802Z
+UID:3oc2f2hqfq6e82c9a61uvkaa9s@google.com
+SEQUENCE:0
+CREATED:20210409T171942Z
+DESCRIPTION: <ul><li>Men's Singles First Round</li><li>Women's Singles Fir
+ st Round</li><li>Men's Doubles First Round</li><li>Women's Doubles First R
+ ound</li></ul><p>*The above includes all possible events for this court. T
+ he final court assignments and order of play are subject to change up unti
+ l the day of the session.</p>
+LAST-MODIFIED:20210409T171943Z
+LOCATION:Ariake Tennis Park - Court 1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210725T020000Z
+DTEND:20210725T110000Z
+DTSTAMP:20210723T170802Z
+UID:0136kjsf6a6f1rq9959tf63uak@google.com
+SEQUENCE:0
+CREATED:20210409T171857Z
+DESCRIPTION: <ul><li>Men's Singles First Round</li><li>Women's Singles Fir
+ st Round</li><li>Men's Doubles First Round</li><li>Women's Doubles First R
+ ound</li></ul><p>*The above includes all possible events for this court. T
+ he final court assignments and order of play are subject to change up unti
+ l the day of the session.</p>
+LAST-MODIFIED:20210409T171857Z
+LOCATION:Ariake Tennis Park - Centre Court
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210724T020000Z
+DTEND:20210724T110000Z
+DTSTAMP:20210723T170802Z
+UID:65et4js4jcc31f28r9894f0k7a@google.com
+SEQUENCE:0
+CREATED:20210409T171623Z
+DESCRIPTION: <ul><li>Men's Singles First Round</li><li>Women's Singles Fir
+ st Round</li><li>Men's Doubles First Round</li><li>Women's Doubles First R
+ ound</li></ul><p>*The above includes all possible events for this court. T
+ he final court assignments and order of play are subject to change up unti
+ l the day of the session.</p>
+LAST-MODIFIED:20210409T171624Z
+LOCATION:Ariake Tennis Park - Court 3-11
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210724T020000Z
+DTEND:20210724T110000Z
+DTSTAMP:20210723T170802Z
+UID:51gjqlv8g48m52ivuspvlva0uo@google.com
+SEQUENCE:0
+CREATED:20210409T171536Z
+DESCRIPTION: <ul><li>Men's Singles First Round</li><li>Women's Singles Fir
+ st Round</li><li>Men's Doubles First Round</li><li>Women's Doubles First R
+ ound</li></ul><p>*The above includes all possible events for this court. T
+ he final court assignments and order of play are subject to change up unti
+ l the day of the session.</p>
+LAST-MODIFIED:20210409T171536Z
+LOCATION:Ariake Tennis Park - Court 2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210724T020000Z
+DTEND:20210724T110000Z
+DTSTAMP:20210723T170802Z
+UID:4aeneaejnkm0re2agojcdnf4vq@google.com
+SEQUENCE:0
+CREATED:20210409T171451Z
+DESCRIPTION: <ul><li>Men's Singles First Round</li><li>Women's Singles Fir
+ st Round</li><li>Men's Doubles First Round</li><li>Women's Doubles First R
+ ound</li></ul><p>*The above includes all possible events for this court. T
+ he final court assignments and order of play are subject to change up unti
+ l the day of the session.</p>
+LAST-MODIFIED:20210409T171451Z
+LOCATION:Ariake Tennis Park - Court 1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis 
+DTSTART:20210724T020000Z
+DTEND:20210724T110000Z
+DTSTAMP:20210723T170802Z
+UID:18aojjlmdav438jd6lj9m2mhjf@google.com
+SEQUENCE:0
+CREATED:20210409T171355Z
+DESCRIPTION: <ul><li>Men's Singles First Round</li><li>Women's Singles Fir
+ st Round</li><li>Men's Doubles First Round</li><li>Women's Doubles First R
+ ound</li></ul><p>*The above includes all possible events for this court. T
+ he final court assignments and order of play are subject to change up unti
+ l the day of the session.</p>
+LAST-MODIFIED:20210409T171355Z
+LOCATION:Ariake Tennis Park - Center Court
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

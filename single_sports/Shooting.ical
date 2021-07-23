@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Shooting 🥇🥈🥉
+DTSTART:20210725T000000Z
+DTEND:20210725T070000Z
+DTSTAMP:20210723T170802Z
+UID:2nnkhvqemvnhgadiqphif5bgi9@google.com
+SEQUENCE:0
+CREATED:20210404T063706Z
+DESCRIPTION:🥇🥈🥉 9:00 JST - 10m Air Pistol Women's Qualification\n
+ 9:00 JST - Skeet Women's Qualification - Day 1\n9:30 JST - Skeet Men's Qua
+ lification - Day 1\n11:15 JST - 10m Air Pistol Women's Final  \n13:00 JST 
+ - 10m Air Rifle Men's Qualification\n15:30 JST - 10m Air Rifle Men's Final
+LAST-MODIFIED:20210718T165114Z
+LOCATION:Asaka Shooting Range (Tokyo 2020)\, Ōizumigakuenchō\, Nerima Ci
+ ty\, Tokyo 178-8501\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shooting 🥇🥈🥉
+DTSTART:20210723T233000Z
+DTEND:20210724T073000Z
+DTSTAMP:20210723T170802Z
+UID:3bhkbpp2e20931un7jqn3lvpo4@google.com
+SEQUENCE:0
+CREATED:20210404T063422Z
+DESCRIPTION:🥇🥈🥉 <b><span>10m Air Rifle Women's</span></b><br>&nbs
+ p\;8:30 JST -&nbsp\; Qualification<br>10:45 JST - Final<br>&nbsp\;<br><b><
+ span>Skeet Men's</span></b><br>9:00 JST - Pre-Event Training<br>&nbsp\;<br
+ ><b><span>Skeet Women's</span>&nbsp\;&nbsp\;</b>&nbsp\; <br>9:00 JST - Pre
+ -Event Training<br>&nbsp\;&nbsp\; &nbsp\;<br><b>Air Pistol Women's</b><br>
+ 10:00 JST - Pre-Event Training<br>&nbsp\;&nbsp\;&nbsp\;<br><b><span>10m Ai
+ r Pistol Men's</span>&nbsp\;&nbsp\;&nbsp\; </b><br>13:00 JST - Qualificati
+ on<br><span>15:30 JST - Final</span><br>&nbsp\;<br><b><span>10m Air Rifle 
+ Men's</span></b><br>14:45 JST - Pre-Event Training
+LAST-MODIFIED:20210717T072405Z
+LOCATION:Asaka Shooting Range - R&P Qual.&Finals
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shooting 🥇🥈🥉
+DTSTART:20210801T233000Z
+DTEND:20210802T090000Z
+DTSTAMP:20210723T170802Z
+UID:566vui9avrqradug301c0atldk@google.com
+SEQUENCE:0
+CREATED:20210404T080005Z
+DESCRIPTION:🥇🥈🥉 <ul><li>25m Rapid Fire Pistol Men's Qualification
+  - Stage 2</li><li>50m Rifle 3 Positions Men's Qualification</li><li>25m R
+ apid Fire Pistol Men's Finals</li><li>25m Rapid Fire Pistol Men's Victory 
+ Ceremony</li><li>50m Rifle 3 Positions Men's Finals</li><li>50m Rifle 3 Po
+ sitions Men's Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T080005Z
+LOCATION:Asaka Shooting Range - R&P Qual.&Finals
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shooting 
+DTSTART:20210731T233000Z
+DTEND:20210801T041500Z
+DTSTAMP:20210723T170802Z
+UID:28jv5atp4m9l4roht6ghb1e4el@google.com
+SEQUENCE:0
+CREATED:20210404T074131Z
+DESCRIPTION: 25m Rapid Fire Pistol Men's Qualification - Stage 1
+LAST-MODIFIED:20210404T074131Z
+LOCATION:Asaka Shooting Range - R&P Finals Hall
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shooting 🥇🥈🥉
+DTSTART:20210731T030000Z
+DTEND:20210731T081000Z
+DTSTAMP:20210723T170802Z
+UID:2ca00d9sa4gu2lttiibhf62vv4@google.com
+SEQUENCE:0
+CREATED:20210404T073949Z
+DESCRIPTION:🥇🥈🥉 <ul><li>50m Rifle 3 Positions Women's Qualificati
+ on</li><li>50m Rifle 3 Positions Women's Finals</li><li>50m Rifle 3 Positi
+ ons Women's Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T073949Z
+LOCATION:Asaka Shooting Range - R&P Qual.&Finals
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shooting 🥇🥈🥉
+DTSTART:20210731T000000Z
+DTEND:20210731T055000Z
+DTSTAMP:20210723T170802Z
+UID:71f6opr8tm5fp9u67vue7qpmka@google.com
+SEQUENCE:0
+CREATED:20210404T072009Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Trap Mixed Team Qualification</li><li>Tra
+ p Mixed Team Finals</li><li>Trap Mixed Team Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T072009Z
+LOCATION:Asaka Shooting Range - Shotgun Range
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shooting 🥇🥈🥉
+DTSTART:20210730T000000Z
+DTEND:20210730T060000Z
+DTSTAMP:20210723T170802Z
+UID:40nvd8u9a8aon55e0etviqa9h4@google.com
+SEQUENCE:0
+CREATED:20210404T071536Z
+DESCRIPTION:🥇🥈🥉 <ul><li>25m Pistol Women's Qualification</li><li>
+ 25m Pistol Women's Finals</li><li>25m Pistol Women's Victory Ceremony</li>
+ </ul>
+LAST-MODIFIED:20210404T071536Z
+LOCATION:Asaka Shooting Range - R&P Finals Hall
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shooting 🥇🥈🥉
+DTSTART:20210729T000000Z
+DTEND:20210729T075500Z
+DTSTAMP:20210723T170802Z
+UID:56bcrhm4ti95e98n8bga346906@google.com
+SEQUENCE:0
+CREATED:20210404T071326Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Trap Women's Qualification - Day 2</li><l
+ i>Trap Men's Qualification - Day 2</li><li>Trap Women's Finals</li><li>Tra
+ p Men's Finals</li><li>Trap Women's Victory Ceremony</li><li>Trap Men's Vi
+ ctory Ceremony</li></ul>
+LAST-MODIFIED:20210404T071326Z
+LOCATION:Asaka Shooting Range - Shotgun Range
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shooting 
+DTSTART:20210729T000000Z
+DTEND:20210729T034500Z
+DTSTAMP:20210723T170802Z
+UID:26iq80jopvq6a5fernrrnjpcce@google.com
+SEQUENCE:0
+CREATED:20210404T065958Z
+DESCRIPTION: 25m Pistol Women's Precision Stage
+LAST-MODIFIED:20210404T065958Z
+LOCATION:Asaka Shooting Range - R&P Finals Hall
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shooting 
+DTSTART:20210728T000000Z
+DTEND:20210728T070000Z
+DTSTAMP:20210723T170802Z
+UID:7n5jc8b4ku2m2uj2uprq4j136l@google.com
+SEQUENCE:0
+CREATED:20210404T065659Z
+DESCRIPTION: <ul><li>Trap Women's Qualification - Day 1</li><li>Trap Men's
+  Qualification - Day 1</li></ul>
+LAST-MODIFIED:20210404T065659Z
+LOCATION:Asaka Shooting Range - Shotgun Range
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shooting 🥇🥈🥉
+DTSTART:20210727T000000Z
+DTEND:20210727T073000Z
+DTSTAMP:20210723T170802Z
+UID:5cnulfdq0tg5c5kl7gnv59i470@google.com
+SEQUENCE:0
+CREATED:20210404T065417Z
+DESCRIPTION:🥇🥈🥉 <ul><li>10m Air Pistol Mixed Team Qualification</
+ li><li>10m Air Pistol Mixed Team Finals</li><li>10m Air Pistol Mixed Team 
+ Victory Ceremony</li><li>10m Air Rifle Mixed Team Qualification</li><li>10
+ m Air Rifle Mixed Team Finals</li><li>10m Air Rifle Mixed Team Victory Cer
+ emony</li></ul>
+LAST-MODIFIED:20210404T065417Z
+LOCATION:Asaka Shooting Range - R&P Qual.&Finals
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shooting 🥇🥈🥉
+DTSTART:20210726T000000Z
+DTEND:20210726T081500Z
+DTSTAMP:20210723T170802Z
+UID:4jorbm5mrde6bf3bi49thkftjq@google.com
+SEQUENCE:0
+CREATED:20210404T065115Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Skeet Women's Qualification - Day 2</li><
+ li>Skeet Men's Qualification - Day 2</li><li>Skeet Women's Finals</li><li>
+ Skeet Men's Finals</li><li>Skeet Women's Victory Ceremon</li><li>Skeet Men
+ 's Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T065115Z
+LOCATION:Asaka Shooting Range - Shotgun Range
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

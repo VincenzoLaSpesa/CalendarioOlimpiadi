@@ -1,0 +1,329 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210725T090000Z
+DTEND:20210725T131000Z
+DTSTAMP:20210723T170802Z
+UID:20hnlkga927cu5qu3l8vivf4b0@google.com
+SEQUENCE:0
+CREATED:20210401T043349Z
+DESCRIPTION:🥇🥈🥉 <b>Women's Foil </b><br>18:00 JST - Individual Se
+ mifinals<br><span>19:50 JST - Individual Bronze Medal Bout</span>&nbsp\;&n
+ bsp\;<br><span>20:45 JST - Individual Gold Medal Bout</span><br><br><b>Men
+ 's <span>Epée </span></b><br>19:00 JST - Individual Semifinals<br><span>2
+ 0:20 JST - Individual Bronze Medal Bout</span>&nbsp\;&nbsp\;<br><span>21:1
+ 5 JST - Individual Gold Medal Bout</span>
+LAST-MODIFIED:20210718T162111Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210725T000000Z
+DTEND:20210725T072000Z
+DTSTAMP:20210723T170802Z
+UID:5hjnirg1t2lkdnelgch57i897d@google.com
+SEQUENCE:0
+CREATED:20210401T043200Z
+DESCRIPTION: <b>Women's Foil </b><br>9:00 JST - Individual Table of 64<br>
+ <span>9:55 JST - Individual Table of 32</span>&nbsp\;&nbsp\;<br><span>13:3
+ 5 JST - Individual Table of 16</span><br><span><span>15:25 JST - Individua
+ l Quarterfinals</span>&nbsp\;</span><br><br><b>Men's <span>Epée </span></
+ b><br>9:30 JST - Individual Table of 64&nbsp\;<br><span>11:55 JST - Indivi
+ dual Table of 32</span><br><span><span>14:35 JST - Individual Table of 16<
+ /span>&nbsp\;</span><br><span><span>15:55 JST - Individual Quarterfinals</
+ span>&nbsp\;</span>
+LAST-MODIFIED:20210718T161827Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210724T090000Z
+DTEND:20210724T131000Z
+DTSTAMP:20210723T170802Z
+UID:7cnd2i5dsul57mnhsft1sbl5uj@google.com
+SEQUENCE:0
+CREATED:20210401T043048Z
+DESCRIPTION:🥇🥈🥉 <span><br><span></span><b>Women's Epée&nbsp\;</b
+ ></span><span></span><span><br><span>18:00 JST - Individual Semifinals</sp
+ an><br><span>19:50 JST - Individual Bronze Medal Bout</span><br><span>20:4
+ 5 JST - <span>Individual Gold Medal Bout</span>&nbsp\;</span> <br>&nbsp\; 
+ <br><b>Men's Sabre&nbsp\;</b><br>19:00 JST - Individual Semifinals&nbsp\;<
+ br>20:20 JST - Individual Bronze Medal Bout<br>21:15 JST - <span>Individua
+ l Gold Medal Bout</span> </span>
+LAST-MODIFIED:20210717T064203Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210724T000000Z
+DTEND:20210724T072000Z
+DTSTAMP:20210723T170802Z
+UID:5ljbp86st19mbpo4pgjhq8525t@google.com
+SEQUENCE:0
+CREATED:20210401T042922Z
+DESCRIPTION: <b>Women's Epée&nbsp\;</b><br>9:00 JST - Individual Table of
+  64<br>9:55 JST -&nbsp\;<span>Individual Table of 32</span><br><span>13:35
+  JST - <span>Individual Table of 16</span>&nbsp\;</span><br><span>15:25 JS
+ T -&nbsp\;<span>Individual Quarterfinals</span> &nbsp\;</span><span></span
+ >&nbsp\;<br>&nbsp\; <br><b>Men's Sabre&nbsp\;</b><br>9:30 JST - Individual
+  Table of 64<br>11:55 JST -&nbsp\; Individual Table of 32<br>14:35 JST - I
+ ndividual Table of 16<br>15:55 JST - Individual Quarterfinals
+LAST-MODIFIED:20210717T064017Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210729T093000Z
+DTEND:20210729T123000Z
+DTSTAMP:20210723T170802Z
+UID:5lcr306opu19kqv50r63p9qldv@google.com
+SEQUENCE:0
+CREATED:20210628T072759Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Foil Team Bronze Medal Match</li>
+ <li>Women's Foil Team Gold Medal Match</li><li>Women's Foil Team Victory C
+ eremony</li></ul>
+LAST-MODIFIED:20210628T072759Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210729T015000Z
+DTEND:20210729T072500Z
+DTSTAMP:20210723T170802Z
+UID:3ij4m57t7l795ubjadb28cd1pl@google.com
+SEQUENCE:1
+CREATED:20210401T045135Z
+DESCRIPTION: <ul><li>Women's Foil Team Quarterfinals</li><li>Women's Foil 
+ Team Classification 5-8</li><li>Women's Foil Team Semifinals</li><li>Women
+ 's Foil Team Placement 5-6</li><li>Women's Foil Team Placement 7-8</li></u
+ l>
+LAST-MODIFIED:20210628T072615Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210727T022500Z
+DTEND:20210727T062000Z
+DTSTAMP:20210723T170802Z
+UID:44ubacgoamv27c2r05bfm6m5fk@google.com
+SEQUENCE:1
+CREATED:20210401T043645Z
+DESCRIPTION: <ul><li>Women's Epée Team Quarterfinals</li><li>Women's Epé
+ e Team Classification 5-8</li><li>Women's Epée Team Semifinals</li><li>Wo
+ men's Epée Team Placement 5-6</li><li>Women's Epée Team Placement 7-8</l
+ i></ul>
+LAST-MODIFIED:20210628T062912Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210726T090000Z
+DTEND:20210726T131000Z
+DTSTAMP:20210723T170802Z
+UID:7dbbi4bprok1i0pdsdj2f27cu2@google.com
+SEQUENCE:0
+CREATED:20210401T043540Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Sabre Individual Semifinals</li><
+ li>Men's Foil Individual Semifinals</li><li>Women's Sabre Individual Bronz
+ e Medal Bout</li><li>Men's Foil Individual Bronze Medal Bout</li><li>Women
+ 's Sabre Individual Gold Medal Bout</li><li>Men's Foil Individual Gold Med
+ al Bout</li><li>Women's Sabre Individual Victory Ceremony</li><li>Men's Fo
+ il Individual Victory Ceremony</li></ul>
+LAST-MODIFIED:20210628T055243Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210801T093000Z
+DTEND:20210801T122000Z
+DTSTAMP:20210723T170802Z
+UID:0hshri01b8ebljh6n3ecfp2f7g@google.com
+SEQUENCE:0
+CREATED:20210401T062009Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Foil Team Bronze Medal Match</li><l
+ i>Men's Foil Team Gold Medal Match</li><li>Men's Foil Team Victory Ceremon
+ y</li></ul>
+LAST-MODIFIED:20210401T062009Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210801T000000Z
+DTEND:20210801T070000Z
+DTSTAMP:20210723T170802Z
+UID:7p9u1lq2c33g3n5d6gks711qb7@google.com
+SEQUENCE:0
+CREATED:20210401T061820Z
+DESCRIPTION: <ul><li>Men's Foil Team Table of 16</li><li>Men's Foil Team Q
+ uarterfinals</li><li>Men's Foil Team Classification 5-8</li><li>Men's Foil
+  Team Semifinals</li><li>Men's Foil Team Placement 5-6</li><li>Men's Foil 
+ Team Placement 7-8</li></ul>
+LAST-MODIFIED:20210401T061820Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210731T093000Z
+DTEND:20210731T114000Z
+DTSTAMP:20210723T170802Z
+UID:1nql259g76tf68c4ak1ssv52k2@google.com
+SEQUENCE:0
+CREATED:20210401T055638Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Sabre Team Bronze Medal Match</li
+ ><li>Women's Sabre Team Gold Medal Match</li><li>Women's Sabre Team Victor
+ y Ceremony</li></ul>
+LAST-MODIFIED:20210401T055638Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210731T010000Z
+DTEND:20210731T062000Z
+DTSTAMP:20210723T170802Z
+UID:5g6ili1t910nt278s22o6ffse1@google.com
+SEQUENCE:0
+CREATED:20210401T055427Z
+DESCRIPTION: <ul><li>Women's Sabre Team Table of 16</li><li>Women's Sabre 
+ Team Quarterfinals</li><li>Women's Sabre Team Classification 5-8</li><li>W
+ omen's Sabre Team Semifinals</li><li>Women's Sabre Team Placement 5-6</li>
+ <li>Women's Sabre Team Placement 7-8</li></ul>
+LAST-MODIFIED:20210401T055427Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210730T093000Z
+DTEND:20210730T114000Z
+DTSTAMP:20210723T170802Z
+UID:143vv2t61eflvdgki8ug6jbme4@google.com
+SEQUENCE:0
+CREATED:20210401T045945Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Epée Team Bronze Medal Match</li><
+ li>Men's Epée Team Gold Medal Match</li><li>Men's Epée Team Victory Cere
+ mony</li></ul>
+LAST-MODIFIED:20210401T045945Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210730T010000Z
+DTEND:20210730T062000Z
+DTSTAMP:20210723T170802Z
+UID:134nvheaealc11217fn990rqes@google.com
+SEQUENCE:0
+CREATED:20210401T045608Z
+DESCRIPTION: <ul><li>Men's Epée Team Table of 16</li><li>Men's Epée Team
+  Quarterfinals</li><li>Men's Epée Team Classification 5-8</li><li>Men's E
+ pée Team Semifinals</li><li>Men's Epée Team Placement 5-6</li><li>Men's 
+ Epée Team Placement 7-8</li></ul>
+LAST-MODIFIED:20210401T045608Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210728T093000Z
+DTEND:20210728T114000Z
+DTSTAMP:20210723T170802Z
+UID:0fofpr0eslbv428gkris25022a@google.com
+SEQUENCE:0
+CREATED:20210401T045014Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Sabre Team Bronze Medal Match</li><
+ li>Men's Sabre Team Gold Medal Match</li><li>Men's Sabre Team Victory Cere
+ mony</li></ul>
+LAST-MODIFIED:20210401T045014Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210728T010000Z
+DTEND:20210728T062000Z
+DTSTAMP:20210723T170802Z
+UID:13k130crn7ci0kn5rq64bd7npv@google.com
+SEQUENCE:0
+CREATED:20210401T044827Z
+DESCRIPTION: <ul><li>Men's Sabre Team Table of 16</li><li>Men's Sabre Team
+  Quarterfinals</li><li>Men's Sabre Team Classification 5-8</li><li>Men's S
+ abre Team Semifinals</li><li>Men's Sabre Team Placement 5-6</li><li>Men's 
+ Sabre Team Placement 7-8</li></ul>
+LAST-MODIFIED:20210401T044827Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210727T093000Z
+DTEND:20210727T114000Z
+DTSTAMP:20210723T170802Z
+UID:0sd74554sd225v14u2k3g06v5h@google.com
+SEQUENCE:0
+CREATED:20210401T043802Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Epée Team Bronze Medal Match</li
+ ><li>Women's Epée Team Gold Medal Match</li><li>Women's Epée Team Victor
+ y Ceremony</li></ul>
+LAST-MODIFIED:20210401T043802Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210726T000000Z
+DTEND:20210726T072000Z
+DTSTAMP:20210723T170802Z
+UID:2bpqneh2cttkr0fs102tps3rne@google.com
+SEQUENCE:0
+CREATED:20210401T043446Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Sabre Individual Table of 64</li>
+ <li>Men's Foil Individual Table of 64</li><li>Women's Sabre Individual Tab
+ le of 32</li><li>Men's Foil Individual Table of 32</li><li>Women's Sabre I
+ ndividual Table of 16</li><li>Men's Foil Individual Table of 16</li><li>Wo
+ men's Sabre Individual Quarterfinals</li><li>Men's Foil Individual Quarter
+ finals</li></ul>
+LAST-MODIFIED:20210401T043446Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

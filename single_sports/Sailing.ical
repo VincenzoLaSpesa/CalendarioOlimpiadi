@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Sailing 
+DTSTART:20210725T030000Z
+DTEND:20210725T090000Z
+DTSTAMP:20210723T170802Z
+UID:3ofgt57qk5gh1bi6c5j9c4ngdb@google.com
+SEQUENCE:0
+CREATED:20210404T053256Z
+DESCRIPTION: <b>Men's Windsurfer</b><br>RS:X - Race 01&nbsp\;<br><span>RS:
+ X - Race 02</span>&nbsp\;&nbsp\;&nbsp\;<br><span>RS:X - Race 03</span><br>
+ <span>&nbsp\;</span><br><span><b><span>Women's Windsurfer</span></b></span
+ ><br><span><span>RS:X - Race 01</span>&nbsp\;</span><br><span><span>RS:X -
+  Race 02</span></span><br><span><span><span>RS:X - Race 03</span>&nbsp\;</
+ span></span><br>&nbsp\;&nbsp\;&nbsp\;&nbsp\; <br><b>Women's One Person Din
+ ghy</b><br>Laser Radial - Race 01<br><span>Laser Radial - Race 02</span><b
+ r><b><span>&nbsp\;</span></b><br><b><span><span>Men's One Person Dinghy</s
+ pan></span></b><br><span><span>Laser - Race 01</span>&nbsp\;</span><br><sp
+ an><span>Laser - Race 02</span>&nbsp\;</span>
+LAST-MODIFIED:20210718T164826Z
+LOCATION:Enoshima Yacht Harbor\, Japan\, 〒251-0036 Kanagawa\, Fujisawa\,
+  Enoshima\, 1-chōme−12−２ 江の島ヨットハーバー
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sailing 🥇🥈🥉
+DTSTART:20210804T053000Z
+DTEND:20210804T075500Z
+DTSTAMP:20210723T170802Z
+UID:0vkh7jg2k4b2b35dilihuebtru@google.com
+SEQUENCE:0
+CREATED:20210404T062456Z
+DESCRIPTION:🥇🥈🥉 <ul><li>470 Men - Medal Race</li><li>470 Women - 
+ Medal Race</li><li>470 Men - Victory Ceremony</li><li>470 Women - Victory 
+ Ceremony</li></ul>
+LAST-MODIFIED:20210404T062456Z
+LOCATION:Enoshima Yacht Harbor\, Japan\, 〒251-0036 Kanagawa\, Fujisawa\,
+  Enoshima\, 1-chōme−12−２ 江の島ヨットハーバー
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sailing 🥇🥈🥉
+DTSTART:20210803T053000Z
+DTEND:20210803T075500Z
+DTSTAMP:20210723T170802Z
+UID:475aedslq5lggjdbmgsapdm4sd@google.com
+SEQUENCE:0
+CREATED:20210404T062301Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Finn Men - Medal Race</li><li>Foiling Nac
+ ra 17 Mixed - Medal Race</li><li>Finn Men - Victory Ceremony</li><li>Foili
+ ng Nacra 17 Mixed - Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T062301Z
+LOCATION:Enoshima Yacht Harbor\, Japan\, 〒251-0036 Kanagawa\, Fujisawa\,
+  Enoshima\, 1-chōme−12−２ 江の島ヨットハーバー
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sailing 🥇🥈🥉
+DTSTART:20210802T030000Z
+DTEND:20210802T090000Z
+DTSTAMP:20210723T170802Z
+UID:52omcbenjjnq2vm09lcietmc74@google.com
+SEQUENCE:0
+CREATED:20210404T062027Z
+DESCRIPTION:🥇🥈🥉 <ul><li>470 Men</li><li>470 Women</li><li>49er FX
+  Women - Medal Race</li><li>49er Men - Medal Race</li><li>49er FX Women - 
+ Victory Ceremony</li><li>49er Men - Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T062027Z
+LOCATION:Enoshima Yacht Harbor\, Japan\, 〒251-0036 Kanagawa\, Fujisawa\,
+  Enoshima\, 1-chōme−12−２ 江の島ヨットハーバー
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sailing 🥇🥈🥉
+DTSTART:20210731T030000Z
+DTEND:20210731T090000Z
+DTSTAMP:20210723T170802Z
+UID:2n6eei7bqbquf8lui2kgq3eau9@google.com
+SEQUENCE:0
+CREATED:20210404T060404Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Finn Men</li><li>49er Men</li><li>49er FX
+  Women</li><li>Foiling Nacra 17 Mixed</li><li>RS:X Women - Medal Race</li>
+ <li>RS:X Men - Medal Race</li><li>RS:X Women - Victory Ceremony</li><li>RS
+ :X Men - Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T061739Z
+LOCATION:Enoshima Yacht Harbor\, Japan\, 〒251-0036 Kanagawa\, Fujisawa\,
+  Enoshima\, 1-chōme−12−２ 江の島ヨットハーバー
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sailing 🥇🥈🥉
+DTSTART:20210801T030000Z
+DTEND:20210801T090000Z
+DTSTAMP:20210723T170802Z
+UID:2bp55uojsb3o602grv6j5b11i5@google.com
+SEQUENCE:0
+CREATED:20210404T061612Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Finn Men</li><li>470 Men</li><li>470 Wome
+ n</li><li>Foiling Nacra 17 Mixed</li><li>Laser Men - Medal Race</li><li>La
+ ser Radial Women - Medal Race</li><li>Laser Men - Victory Ceremony</li><li
+ >Laser Radial Women - Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T061612Z
+LOCATION:Enoshima Yacht Harbor\, Japan\, 〒251-0036 Kanagawa\, Fujisawa\,
+  Enoshima\, 1-chōme−12−２ 江の島ヨットハーバー
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sailing 
+DTSTART:20210730T030000Z
+DTEND:20210730T090000Z
+DTSTAMP:20210723T170802Z
+UID:22fgnkodiv5ftmgn94rct55pkb@google.com
+SEQUENCE:0
+CREATED:20210404T060111Z
+DESCRIPTION: <ul><li>Laser Men</li><li>Laser Radial Women</li><li>470 Men<
+ /li><li>470 Women</li><li>49er Men</li><li>49er FX Women</li></ul>
+LAST-MODIFIED:20210404T060111Z
+LOCATION:Enoshima Yacht Harbor\, Japan\, 〒251-0036 Kanagawa\, Fujisawa\,
+  Enoshima\, 1-chōme−12−２ 江の島ヨットハーバー
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sailing 
+DTSTART:20210729T030000Z
+DTEND:20210729T090000Z
+DTSTAMP:20210723T170802Z
+UID:7tnpaspci2p5qqol6066g1ogqj@google.com
+SEQUENCE:0
+CREATED:20210404T055910Z
+DESCRIPTION: <ul><li>RS:X Men</li><li>RS:X Women</li><li>Laser Men</li><li
+ >Laser Radial Women</li><li>Finn Men</li><li>470 Men</li><li>470 Women</li
+ ><li>Foiling Nacra 17 Mixed</li></ul>
+LAST-MODIFIED:20210404T055910Z
+LOCATION:Enoshima Yacht Harbor\, Japan\, 〒251-0036 Kanagawa\, Fujisawa\,
+  Enoshima\, 1-chōme−12−２ 江の島ヨットハーバー
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sailing 
+DTSTART:20210728T030000Z
+DTEND:20210728T090000Z
+DTSTAMP:20210723T170802Z
+UID:5jjt84b1shk1c5p9m5ctha1t3f@google.com
+SEQUENCE:0
+CREATED:20210404T055801Z
+DESCRIPTION: <ul><li>RS:X Men</li><li>RS:X Women</li><li>Finn Men</li><li>
+ 470 Men</li><li>470 Women</li><li>49er Men</li><li>49er FX Women</li><li>F
+ oiling Nacra 17 Mixed</li></ul>
+LAST-MODIFIED:20210404T055801Z
+LOCATION:Enoshima Yacht Harbor\, Japan\, 〒251-0036 Kanagawa\, Fujisawa\,
+  Enoshima\, 1-chōme−12−２ 江の島ヨットハーバー
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sailing 
+DTSTART:20210727T030000Z
+DTEND:20210727T090000Z
+DTSTAMP:20210723T170802Z
+UID:09mkqt038vbsrbetdn5h8k049j@google.com
+SEQUENCE:0
+CREATED:20210404T055500Z
+DESCRIPTION: <ul><li>Laser Men</li><li>Laser Radial Women</li><li>Finn Men
+ </li><li>49er Men</li><li>49er FX Women</li></ul>
+LAST-MODIFIED:20210404T055501Z
+LOCATION:Enoshima Yacht Harbor\, Japan\, 〒251-0036 Kanagawa\, Fujisawa\,
+  Enoshima\, 1-chōme−12−２ 江の島ヨットハーバー
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sailing 
+DTSTART:20210726T030000Z
+DTEND:20210726T090000Z
+DTSTAMP:20210723T170802Z
+UID:1nr9ltdjrh2lr9bvstk99e2m9k@google.com
+SEQUENCE:0
+CREATED:20210404T053956Z
+DESCRIPTION: <ul><li>RS:X Men</li><li>RS:X Women</li><li>Laser Men</li><li
+ >Laser Radial Women</li></ul>
+LAST-MODIFIED:20210404T053956Z
+LOCATION:Enoshima Yacht Harbor\, Japan\, 〒251-0036 Kanagawa\, Fujisawa\,
+  Enoshima\, 1-chōme−12−２ 江の島ヨットハーバー
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

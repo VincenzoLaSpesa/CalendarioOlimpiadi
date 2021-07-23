@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Cycling Track 🥇🥈🥉
+DTSTART:20210808T010000Z
+DTEND:20210808T041500Z
+DTSTAMP:20210723T170802Z
+UID:4h76u2ipdr24jgb035ruape918@google.com
+SEQUENCE:0
+CREATED:20210331T171339Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Omnium Scratch Race 1/4</li><li>W
+ omen's Sprint Semifinals</li><li>Men's Keirin Quarterfinals</li><li>Women'
+ s Omnium Tempo Race 2/4</li><li>Women's Sprint Race for 5th-8th Places</li
+ ><li>Men's Keirin Semifinals</li><li>Women's Sprint Finals</li><li>Women's
+  Omnium Elimination Race 3/4</li><li>Men's Keirin Final 7-12</li><li>Men's
+  Keirin Final 1-6</li><li>Men's Keirin Victory Ceremony</li><li>Women's Om
+ nium Points Race 4/4</li><li>Women's Sprint Victory Ceremony</li><li>Women
+ 's Omnium Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T171339Z
+LOCATION:Izu Velodrome\, 1826 Ōno\, Izu\, Shizuoka 410-2402\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cycling Track 🥇🥈🥉
+DTSTART:20210807T063000Z
+DTEND:20210807T092500Z
+DTSTAMP:20210723T170802Z
+UID:1k4sl4av0b12loiaptqeh6e6tf@google.com
+SEQUENCE:0
+CREATED:20210331T171246Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Sprint 1/8 Finals</li><li>Men's K
+ eirin First Round</li><li>Women's Sprint 1/8 Finals Repechages</li><li>Men
+ 's Keirin Repechages</li><li>Women's Sprint Quarterfinals</li><li>Men's Ma
+ dison Final</li><li>Men's Madison Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T171246Z
+LOCATION:Izu Velodrome\, 1826 Ōno\, Izu\, Shizuoka 410-2402\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cycling Track 🥇🥈🥉
+DTSTART:20210806T063000Z
+DTEND:20210806T101500Z
+DTSTAMP:20210723T170802Z
+UID:3c69d0f4htukq17ssrpvil6c1e@google.com
+SEQUENCE:0
+CREATED:20210331T171059Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Sprint Qualifying</li><li>Men's S
+ print Semifinals</li><li>Women's Sprint 1/32 Finals</li><li>Women's Sprint
+  1/32 Finals Repechages</li><li>Women's Madison Final</li><li>Men's Sprint
+  Finals</li><li>Women's Sprint 1/16 Finals</li><li>Women's Madison Victory
+  Ceremony</li><li>Women's Sprint 1/16 Finals Repechages</li><li>Men's Spri
+ nt Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T171059Z
+LOCATION:Izu Velodrome\, 1826 Ōno\, Izu\, Shizuoka 410-2402\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cycling Track 🥇🥈🥉
+DTSTART:20210805T063000Z
+DTEND:20210805T095000Z
+DTSTAMP:20210723T170802Z
+UID:6cho1p2ju151oii0v0ktjo6us4@google.com
+SEQUENCE:0
+CREATED:20210331T170955Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Omnium Scratch Race 1/4</li><li>Men
+ 's Sprint 1/8 Finals</li><li>Women's Keirin Quarterfinals</li><li>Men's Sp
+ rint 1/8 Finals Repechages</li><li>Men's Omnium Tempo Race 2/4</li><li>Men
+ 's Sprint Quarterfinals</li><li>Women's Keirin Semifinals</li><li>Men's Om
+ nium Elimination Race 3/4</li><li>Women's Keirin Final 7-12</li><li>Women'
+ s Keirin Final 1-6</li><li>Men's Omnium Points Race 4/4</li><li>Men's Spri
+ nt Race for 5th-8th Places</li><li>Women's Keirin Victory Ceremony</li><li
+ >Men's Omnium&nbsp\;Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T170955Z
+LOCATION:Izu Velodrome\, 1826 Ōno\, Izu\, Shizuoka 410-2402\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cycling Track 🥇🥈🥉
+DTSTART:20210804T063000Z
+DTEND:20210804T100000Z
+DTSTAMP:20210723T170802Z
+UID:4kc370jn8ciln4480ccnql2okb@google.com
+SEQUENCE:0
+CREATED:20210331T170833Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Sprint Qualifying</li><li>Women's K
+ eirin First round</li><li>Men's Sprint 1/32 Finals</li><li>Women's Keirin 
+ Repechages</li><li>Men's Sprint 1/32 Finals Repechages</li><li>Men's Team 
+ Pursuit Finals</li><li>Men's Sprint 1/16 Finals</li><li>Men's Team Pursuit
+  Victory Ceremony</li><li>Men's Sprint 1/16 Finals Repechages</li></ul>
+LAST-MODIFIED:20210331T170833Z
+LOCATION:Izu Velodrome\, 1826 Ōno\, Izu\, Shizuoka 410-2402\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cycling Track 🥇🥈🥉
+DTSTART:20210803T063000Z
+DTEND:20210803T091000Z
+DTSTAMP:20210723T170802Z
+UID:09mhr26kbb4mr29j0ugmipra5t@google.com
+SEQUENCE:0
+CREATED:20210331T170722Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Team Pursuit First round</li><li>
+ Men's Team Sprint Qualifying</li><li>Men's Team Pursuit First round</li><l
+ i>Men's Team Sprint First round</li><li>Women's Team Pursuit Finals</li><l
+ i>Men's Team Sprint Finals</li><li>Women's Team Pursuit Victory Ceremony</
+ li><li>Men's Team Sprint Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T170722Z
+LOCATION:Izu Velodrome\, 1826 Ōno\, Izu\, Shizuoka 410-2402\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cycling Track 🥇🥈🥉
+DTSTART:20210802T063000Z
+DTEND:20210802T093000Z
+DTSTAMP:20210723T170802Z
+UID:03o9dqm7ihog31rosjmsph0eev@google.com
+SEQUENCE:0
+CREATED:20210331T150133Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Team Sprint Qualifying</li><li>Wo
+ men's Team Pursuit Qualifying</li><li>Women's Team Sprint First round</li>
+ <li>Men's Team Pursuit Qualifying</li><li>Women's Team Sprint Finals</li><
+ li>Women's Team Sprint Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T150133Z
+LOCATION:Izu Velodrome\, 1826 Ōno\, Izu\, Shizuoka 410-2402\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

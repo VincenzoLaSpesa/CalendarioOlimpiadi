@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Canoe Sprint 🥇🥈🥉
+DTSTART:20210807T003000Z
+DTEND:20210807T035000Z
+DTSTAMP:20210723T170802Z
+UID:2fa8vhsjeghea65lbs399qpvje@google.com
+SEQUENCE:0
+CREATED:20210331T142717Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Canoe Double 500m Semifinals</li>
+ <li>Men's Canoe Single 1000m Semifinals</li><li>Women's Kayak Four 500m Se
+ mifinals</li><li>Men's Kayak Four 500m Semifinals</li><li>Women's Canoe Do
+ uble 500m Finals</li><li>Men's Canoe Single 1000m Finals</li><li>Women's C
+ anoe Double 500m Victory Ceremony</li><li>Women's Kayak Four 500m Final</l
+ i><li>Men's Canoe Single 1000m Victory Ceremony</li><li>Men's Kayak Four 5
+ 00m Final</li><li>Women's Kayak Four 500m Victory Ceremony</li><li>Men's K
+ ayak Four 500m Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T142717Z
+LOCATION:Sea Forest Waterway
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canoe Sprint 
+DTSTART:20210806T003000Z
+DTEND:20210806T024000Z
+DTSTAMP:20210723T170802Z
+UID:2j7ckbgd08ogu0irsk8j1v7gba@google.com
+SEQUENCE:0
+CREATED:20210331T142612Z
+DESCRIPTION: <ul><li>Women's Canoe Double 500m Heats</li><li>Men's Canoe S
+ ingle 1000m Heats</li><li>Women's Kayak Four 500m Heats</li><li>Men's Kaya
+ k Four 500m Heats</li><li>Women's Canoe Double 500m Quarterfinals</li><li>
+ Men's Canoe Single 1000m Quarterfinals</li></ul>
+LAST-MODIFIED:20210331T142612Z
+LOCATION:Sea Forest Waterway
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canoe Sprint 🥇🥈🥉
+DTSTART:20210805T003000Z
+DTEND:20210805T040500Z
+DTSTAMP:20210723T170802Z
+UID:6p674kv2ubmh935u0n8cu1b4dl@google.com
+SEQUENCE:0
+CREATED:20210331T142417Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Kayak Single 200m Semifinals</li><l
+ i>Women's Canoe Single 200m Semifinals</li><li>Women's Kayak Single 500m S
+ emifinals</li><li>Men's Kayak Double 1000m Semifinals</li><li>Men's Kayak 
+ Single 200m Finals</li><li>Women's Canoe Single 200m Finals</li><li>Men's 
+ Kayak Single 200m Victory Ceremony</li><li>Women's Kayak Single 500m Final
+ s</li><li>Women's Canoe Single 200m Victory Ceremony</li><li>Men's Kayak D
+ ouble 1000m Finals</li><li>Women's Kayak Single 500m Victory Ceremony</li>
+ <li>Men's Kayak Double 1000m Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T142417Z
+LOCATION:Sea Forest Waterway
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canoe Sprint 
+DTSTART:20210804T003000Z
+DTEND:20210804T034000Z
+DTSTAMP:20210723T170802Z
+UID:2rge528rragnsk2frqefaeh485@google.com
+SEQUENCE:0
+CREATED:20210331T142308Z
+DESCRIPTION: <ul><li>Men's Kayak Single 200m Heats</li><li>Women's Canoe S
+ ingle 200m Heats</li><li>Women's Kayak Single 500m Heats</li><li>Men's Kay
+ ak Double 1000m Heats</li><li>Men's Kayak Single 200m Quarterfinals</li><l
+ i>Women's Canoe Single 200m Quarterfinals</li><li>Women's Kayak Single 500
+ m Quarterfinals</li><li>Men's Kayak Double 1000m Quarterfinals</li></ul>
+LAST-MODIFIED:20210331T142308Z
+LOCATION:Sea Forest Waterway
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canoe Sprint 🥇🥈🥉
+DTSTART:20210803T003000Z
+DTEND:20210803T041500Z
+DTSTAMP:20210723T170802Z
+UID:3o19lh42cl951hppev5t1fdkk4@google.com
+SEQUENCE:0
+CREATED:20210331T065138Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Kayak Single 200m Semifinals</li>
+ <li>Men's Canoe Double 1000m Semifinals</li><li>Men's Kayak Single 1000m S
+ emifinals</li><li>Women's Kayak Double 500m Semifinals</li><li>Women's Kay
+ ak Single 200m Finals</li><li>Men's Canoe Double 1000m Finals</li><li>Wome
+ n's Kayak Single 200m Victory Ceremony</li><li>Men's Kayak Single 1000m Fi
+ nals</li><li>Men's Canoe Double 1000m Victory Ceremony</li><li>Women's Kay
+ ak Double 500m Finals</li><li>Men's Kayak Single 1000m Victory Ceremony</l
+ i><li>Women's Kayak Double 500m Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T065138Z
+LOCATION:Sea Forest Waterway
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canoe Sprint 
+DTSTART:20210802T003000Z
+DTEND:20210802T040000Z
+DTSTAMP:20210723T170802Z
+UID:6g8hmj22okmem7ijg42enj0uhu@google.com
+SEQUENCE:0
+CREATED:20210331T064910Z
+DESCRIPTION: <ul><li>Women's Kayak Single 200m Heats</li><li>Men's Canoe D
+ ouble 1000m Heats</li><li>Men's Kayak Single 1000m Heats</li><li>Women's K
+ ayak Double 500m Heats</li><li>Women's Kayak Single 200m Quarterfinals</li
+ ><li>Men's Canoe Double 1000m Quarterfinals</li><li>Men's Kayak Single 100
+ 0m Quarterfinals</li><li>Women's Kayak Double 500m Quarterfinals</li></ul>
+LAST-MODIFIED:20210331T064910Z
+LOCATION:Sea Forest Waterway
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Artistic Gymnastics 🥇🥈🥉
+DTSTART:20210726T100000Z
+DTEND:20210726T131000Z
+DTSTAMP:20210723T170802Z
+UID:61509mi0fjsn75s5lsj1q3bsfg@google.com
+SEQUENCE:0
+CREATED:20210329T050918Z
+DESCRIPTION:🥇🥈🥉 Men's Team Final
+LAST-MODIFIED:20210718T194706Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artistic Gymnastics 
+DTSTART:20210724T010000Z
+DTEND:20210724T033000Z
+DTSTAMP:20210723T170802Z
+UID:7qeikob2dueh8v6faa0lheltbn@google.com
+SEQUENCE:0
+CREATED:20210329T045431Z
+DESCRIPTION: 10:00 JST - Men's Qualification - Subdivision 1\n    \n14:30 
+ JST - Men's Qualification - Subdivision 2\n    \n19:30 JST - Men's Qualifi
+ cation - Subdivision 3
+LAST-MODIFIED:20210717T053045Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artistic Gymnastics 🥇🥈🥉
+DTSTART:20210803T080000Z
+DTEND:20210803T102500Z
+DTSTAMP:20210723T170802Z
+UID:13v48lg4r7mde1vomj159h5bl8@google.com
+SEQUENCE:0
+CREATED:20210329T052853Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Parallel Bars Final</li><li>Men's P
+ arallel Bars Victory Ceremony</li><li>Women's Balance Beam Final</li><li>W
+ omen's Balance Beam Victory Ceremony</li><li>Men's Horizontal Bar Final</l
+ i><li>Men's Horizontal Bar Victory Ceremony</li></ul>
+LAST-MODIFIED:20210701T062711Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artistic Gymnastics 🥇🥈🥉
+DTSTART:20210802T080000Z
+DTEND:20210802T104000Z
+DTSTAMP:20210723T170802Z
+UID:7do5nmt5d8hc5v0grr6hvc4kb4@google.com
+SEQUENCE:0
+CREATED:20210329T051929Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Rings Final</li><li>Men's Rings Vic
+ tory Ceremony</li><li>Women's Floor Exercise Final</li><li>Women's Floor E
+ xercise Victory Ceremony</li><li>Men's Vault Final</li><li>Men's Vault Vic
+ tory Ceremony</li></ul>
+LAST-MODIFIED:20210630T145832Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artistic Gymnastics 🥇🥈🥉
+DTSTART:20210801T080000Z
+DTEND:20210801T111000Z
+DTSTAMP:20210723T170802Z
+UID:5u659q7emn02hpaqe0p4rpgsju@google.com
+SEQUENCE:0
+CREATED:20210329T051700Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Floor Exercise Final</li><li>Men's 
+ Floor Exercise Victory Ceremony</li><li>Women's Vault Final</li><li>Women'
+ s Vault Victory Ceremony</li><li>Men's Pommel Horse Final</li><li>Men's Po
+ mmel Horse Victory Ceremony</li><li>Women's Uneven Bars Final</li><li>Wome
+ n's Uneven Bars Victory Ceremony</li></ul>
+LAST-MODIFIED:20210628T170459Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artistic Gymnastics 🥇🥈🥉
+DTSTART:20210729T105000Z
+DTEND:20210729T130500Z
+DTSTAMP:20210723T170802Z
+UID:517pf28nfb6lch3elus4bp7vbn@google.com
+SEQUENCE:0
+CREATED:20210329T051438Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's All-Around Final</li><li>Women's 
+ All-Around Victory Ceremony</li></ul>
+LAST-MODIFIED:20210628T071750Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artistic Gymnastics 🥇🥈🥉
+DTSTART:20210727T104500Z
+DTEND:20210727T131000Z
+DTSTAMP:20210723T170802Z
+UID:6skpngiq5jn80rp53sha41jhp0@google.com
+SEQUENCE:0
+CREATED:20210329T051105Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Team Final</li><li>Women's Team V
+ ictory Ceremony</li></ul>
+LAST-MODIFIED:20210628T061710Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artistic Gymnastics 🥇🥈🥉
+DTSTART:20210728T101500Z
+DTEND:20210728T130000Z
+DTSTAMP:20210723T170802Z
+UID:2n5o8ls6pnt3p4tk10sk44e13p@google.com
+SEQUENCE:1
+CREATED:20210329T051233Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's All-Around Final</li><li>Men's All-
+ Around Victory Ceremony</li></ul>
+LAST-MODIFIED:20210329T053518Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artistic Gymnastics 
+DTSTART:20210725T112000Z
+DTEND:20210725T130000Z
+DTSTAMP:20210723T170802Z
+UID:74qp0kbuk95qbjn2miv57nssub@google.com
+SEQUENCE:0
+CREATED:20210329T050732Z
+DESCRIPTION: Women's Qualification
+LAST-MODIFIED:20210329T050732Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artistic Gymnastics 
+DTSTART:20210725T061000Z
+DTEND:20210725T094500Z
+DTSTAMP:20210723T170802Z
+UID:229dg93ki94enfofqr3f78pvi7@google.com
+SEQUENCE:0
+CREATED:20210329T050621Z
+DESCRIPTION: Women's Qualification
+LAST-MODIFIED:20210329T050621Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artistic Gymnastics 
+DTSTART:20210725T010000Z
+DTEND:20210725T043500Z
+DTSTAMP:20210723T170802Z
+UID:38j4q5i8a4h2o012o56onies5c@google.com
+SEQUENCE:0
+CREATED:20210329T050412Z
+DESCRIPTION: Women's Qualification
+LAST-MODIFIED:20210329T050412Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artistic Gymnastics 
+DTSTART:20210724T103000Z
+DTEND:20210724T130000Z
+DTSTAMP:20210723T170802Z
+UID:2u2r3udu363g4531d65abs2fn5@google.com
+SEQUENCE:0
+CREATED:20210329T050251Z
+DESCRIPTION: Men's Qualification
+LAST-MODIFIED:20210329T050251Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artistic Gymnastics 
+DTSTART:20210724T053000Z
+DTEND:20210724T080000Z
+DTSTAMP:20210723T170802Z
+UID:17sidiqg2aj9rm1nmmac24jvko@google.com
+SEQUENCE:0
+CREATED:20210329T050122Z
+DESCRIPTION: Men's Qualification
+LAST-MODIFIED:20210329T050122Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

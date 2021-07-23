@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Rowing 
+DTSTART:20210725T000000Z
+DTEND:20210725T024000Z
+DTSTAMP:20210723T170802Z
+UID:130tmp37d7eqmkqsbf1mcniqji@google.com
+SEQUENCE:0
+CREATED:20210404T010557Z
+DESCRIPTION: 9:00 JST - Men's Single Sculls Semifinal E/F 1\n9:10 JST - Me
+ n's Single Sculls Semifinal E/F 2\n9:20 JST - Women's Single Sculls Semifi
+ nal E/F 1\n9:30 JST - Women's Single Sculls Semifinal E/F 2\n9:40 JST - Me
+ n's Pair Repechage 1\n9:50 JST - Women's Pair Repechage 1\n10:00 JST - Lig
+ htweight Men's Double Sculls Repechage 1\n10:10 JST - Lightweight Men's Do
+ uble Sculls Repechage 2\n10:20 JST - Lightweight Women's Double Sculls Rep
+ echage 1\n10:30 JST - Lightweight Women's Double Sculls Repechage 2\n10:40
+  JST - Men's Quadruple Sculls Repechage 1\n10:50 JST - Women's Quadruple S
+ culls Repechage 1\n11:00 JST - Men's Eight Heat 1\n11:10 JST - Men's Eight
+  Heat 2\n11:20 JST - Women's Eight Heat 1\n11:30 JST - Women's Eight Heat 
+ 2
+LAST-MODIFIED:20210718T164438Z
+LOCATION:Sea Forest Waterway\, Japan\, 〒135-0066 Tokyo\, Koto City\, Umi
+ nomori\, 3-chōme−６ 海の森３丁目６‐４４
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rowing 
+DTSTART:20210723T233000Z
+DTEND:20210724T033000Z
+DTSTAMP:20210723T170802Z
+UID:0kmf7u3dvln93rtmfdg1siqir9@google.com
+SEQUENCE:0
+CREATED:20210404T010415Z
+DESCRIPTION: 8:30 JST - Women's Single Sculls Repechage 1\n8:40 JST - Wome
+ n's Single Sculls Repechage 2\n8:50 JST - Women's Single Sculls Repechage 
+ 3\n    \n9:00 JST - Men's Single Sculls Repechage 1\n9:10 JST - Men's Sing
+ le Sculls Repechage 2\n9:20 JST - Men's Single Sculls Repechage 3\n    \n9
+ :30 JST - Women's Double Sculls Repechage 1\n \n9:40 JST - Men's Double Sc
+ ulls Repechage 1\n    \n9:50 JST - Women's Pair Heat 1\n10:00 JST - Women'
+ s Pair Heat 2\n10:10 JST - Women's Pair Heat 3\n    \n10:20 JST - Men's Pa
+ ir Heat 1\n10:30 JST - Men's Pair Heat 2\n10:40 JST - Men's Pair Heat 3\n 
+    \n10:50 JST - Lightweight Women's Double Sculls Heat 1\n11:00 JST - Lig
+ htweight Women's Double Sculls Heat 2\n11:10 JST - Lightweight Women's Dou
+ ble Sculls Heat 3\n    \n11:20 JST - Lightweight Men's Double Sculls Heat 
+ 1\n11:30 JST - Lightweight Men's Double Sculls Heat 2\n11:40 JST - Lightwe
+ ight Men's Double Sculls Heat 3\n    \n11:50 JST - Women's Four Heat 1\n12
+ :00 JST - Women's Four Heat 2\n    \n12:10 JST - Men's Four Heat 1\n12:20 
+ JST - Men's Four Heat 2
+LAST-MODIFIED:20210717T071634Z
+LOCATION:Sea Forest Waterway\, Japan\, 〒135-0066 Tokyo\, Koto City\, Umi
+ nomori\, 3-chōme−６ 海の森３丁目６‐４４
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rowing 
+DTSTART:20210722T233000Z
+DTEND:20210723T031000Z
+DTSTAMP:20210723T170802Z
+UID:3rnkffgjornpj0imcujqqr5k43@google.com
+SEQUENCE:0
+CREATED:20210404T010307Z
+DESCRIPTION: 8:30 JST - Men's Single Sculls Heat 1\n8:40 JST - Men's Singl
+ e Sculls Heat 2\n8:50 JST - Men's Single Sculls Heat 3\n9:00 JST - Men's S
+ ingle Sculls Heat 4\n9:10 JST - Men's Single Sculls Heat 5\n9:20 JST - Men
+ 's Single Sculls Heat 6\n \n9:30 JST - Women's Single Sculls Heat 1\n9:40 
+ JST - Women's Single Sculls Heat 2\n9:50 JST - Women's Single Sculls Heat 
+ 3\n10:00 JST - Women's Single Sculls Heat 4\n10:10 JST - Women's Single Sc
+ ulls Heat 5  \n10:20 JST - Women's Single Sculls Heat 6\n \n10:30 JST - Me
+ n's Double Sculls Heat 1\n10:40 JST - Men's Double Sculls Heat 2\n10:50 JS
+ T - Men's Double Sculls Heat 3\n\n11:00 JST - Women's Double Sculls Heat 1
+ \n11:10 JST - Women's Double Sculls Heat 2\n11:20 JST - Women's Double Scu
+ lls Heat 3\n\n11:30 JST - Men's Quadruple Sculls Heat 1\n11:40 JST - Men's
+  Quadruple Sculls Heat 2\n\n11:50 JST - Women's Quadruple Sculls Heat 1\n1
+ 2:00 JST - Women's Quadruple Sculls Heat 2
+LAST-MODIFIED:20210717T051140Z
+LOCATION:Sea Forest Waterway\, Japan\, 〒135-0066 Tokyo\, Koto City\, Umi
+ nomori\, 3-chōme−６ 海の森３丁目６‐４４
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rowing 🥇🥈🥉
+DTSTART:20210729T234500Z
+DTEND:20210730T015500Z
+DTSTAMP:20210723T170802Z
+UID:7lok062nelar7hbhij1tenr1rs@google.com
+SEQUENCE:0
+CREATED:20210404T015520Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Single Sculls Final C</li><li>Men
+ 's Single Sculls Final C</li><li>Women's Single Sculls Final B</li><li>Men
+ 's Single Sculls Final B</li><li>Women's Single Sculls Final A</li><li>Men
+ 's Single Sculls Final A</li><li>Women's Single Sculls Victory Ceremony</l
+ i><li>Women's Eight Final A</li><li>Men's Single Sculls Victory Ceremony</
+ li><li>Men's Eight Final A</li><li>Women's Eight Victory Ceremony</li><li>
+ Men's Eight Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T015520Z
+LOCATION:Sea Forest Waterway\, Japan\, 〒135-0066 Tokyo\, Koto City\, Umi
+ nomori\, 3-chōme−６ 海の森３丁目６‐４４
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rowing 🥇🥈🥉
+DTSTART:20210728T233000Z
+DTEND:20210729T025000Z
+DTSTAMP:20210723T170802Z
+UID:7r6e4ob2l046c9maek45v78k63@google.com
+SEQUENCE:0
+CREATED:20210404T015311Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Single Sculls Final F</li><li>Women
+ 's Single Sculls Final F</li><li>Men's Single Sculls Final E</li><li>Women
+ 's Single Sculls Final E</li><li>Men's Pair Final A</li><li>Women's Pair F
+ inal A</li><li>Men's Pair Victory Ceremony</li><li>Lightweight Men's Doubl
+ e Sculls Final A</li><li>Women's Pair Victory Ceremony</li><li>Lightweight
+  Women's Double Sculls Final A</li><li>Lightweight Men's Double Sculls Vic
+ tory Ceremony</li><li>Men's Pairs Final B</li><li>Lightweight Women's Doub
+ le Sculls Victory Ceremony</li><li>Women's Pairs Final B</li><li>Lightweig
+ ht Men's Double Sculls Final B</li><li>Lightweight Women's Double Sculls F
+ inal B</li><li>Women's Single Sculls Final D</li><li>Men's Single Sculls F
+ inal D</li></ul>
+LAST-MODIFIED:20210404T015311Z
+LOCATION:Sea Forest Waterway\, Japan\, 〒135-0066 Tokyo\, Koto City\, Umi
+ nomori\, 3-chōme−６ 海の森３丁目６‐４４
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rowing 🥇🥈🥉
+DTSTART:20210727T233000Z
+DTEND:20210728T024000Z
+DTSTAMP:20210723T170802Z
+UID:6hh1hct2n5nvn6tp9tsmcpf9dv@google.com
+SEQUENCE:0
+CREATED:20210404T015209Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Double Sculls Final B</li><li>Men
+ 's Double Sculls Final B</li><li>Women's Four Final B</li><li>Men's Four F
+ inal B</li><li>Women's Double Sculls Final A</li><li>Men's Double Sculls F
+ inal A</li><li>Women's Double Sculls Victory Ceremony</li><li>Women's Four
+  Final A</li><li>Men's Double Sculls Victory Ceremony</li><li>Men's Four F
+ inals A</li><li>Women's Four Victory Ceremony</li><li>Women's Eight Repech
+ age</li><li>Men's Four Victory Ceremony</li><li>Men's Eight Repechage</li>
+ <li>Women's Single Sculls Semifinals A/B</li><li>Men's Single Sculls Semif
+ inals A/B</li></ul>
+LAST-MODIFIED:20210404T015209Z
+LOCATION:Sea Forest Waterway\, Japan\, 〒135-0066 Tokyo\, Koto City\, Umi
+ nomori\, 3-chōme−６ 海の森３丁目６‐４４
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rowing 🥇🥈🥉
+DTSTART:20210726T233000Z
+DTEND:20210727T030000Z
+DTSTAMP:20210723T170802Z
+UID:11r9ht593j0p6tbgehkd2hln8b@google.com
+SEQUENCE:0
+CREATED:20210404T012624Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Single Sculls Semifinals C/D</li><l
+ i>Women's Single Sculls Semifinals C/D</li><li>Lightweight Men's Double Sc
+ ulls Final C</li><li>Lightweight Women's Double Sculls Final C</li><li>Men
+ 's Quadruple Sculls Final B</li><li>Women's Quadruple Sculls Final B</li><
+ li>Men's Quadruple Sculls Final A</li><li>Women's Quadruple Sculls Final A
+ </li><li>Men's Quadruple Sculls Victory Ceremony</li><li>Men's Pair Semifi
+ nals A/B</li><li>Women's Quadruple Sculls Victory Ceremony</li><li>Women's
+  Pair Semifinals A/B</li><li>Lightweight Men's Double Sculls Semifinals A/
+ B</li><li>Lightweight Women's Double Sculls Semifinals A/B</li></ul>
+LAST-MODIFIED:20210404T012624Z
+LOCATION:Sea Forest Waterway\, Japan\, 〒135-0066 Tokyo\, Koto City\, Umi
+ nomori\, 3-chōme−６ 海の森３丁目６‐４４
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rowing 
+DTSTART:20210726T000000Z
+DTEND:20210726T022000Z
+DTSTAMP:20210723T170802Z
+UID:7ihs7ki4iesqpd2jss8u8qeqfl@google.com
+SEQUENCE:0
+CREATED:20210404T012505Z
+DESCRIPTION: <ul><li>Women's Single Sculls Quarterfinals</li><li>Men's Sin
+ gle Sculls Quarterfinals</li><li>Women's Double Sculls Semifinals</li><li>
+ Men's Double Sculls Semifinals</li><li>Women's Four Repechage</li><li>Men'
+ s Four Repechage</li></ul>
+LAST-MODIFIED:20210404T012505Z
+LOCATION:Sea Forest Waterway\, Japan\, 〒135-0066 Tokyo\, Koto City\, Umi
+ nomori\, 3-chōme−６ 海の森３丁目６‐４４
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

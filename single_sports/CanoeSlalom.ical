@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Canoe Slalom 
+DTSTART:20210725T040000Z
+DTEND:20210725T074500Z
+DTSTAMP:20210723T170802Z
+UID:50ljb3f7spjvklnkuuk9ku0169@google.com
+SEQUENCE:0
+CREATED:20210331T063634Z
+DESCRIPTION: 13:00 JST - Men's Canoe Heats 1st Run\n13:47 JST - Women's Ka
+ yak Heats 1st Run\n14:57 JST - Men's Canoe Heats 2nd Run\n15:45 JST - Wome
+ n's Kayak Heats 2nd Run
+LAST-MODIFIED:20210718T161242Z
+LOCATION:Kasai Canoe Slalom Centre\, 6-chōme-1-1 Rinkaichō\, Edogawa Cit
+ y\, Tokyo 134-0086\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canoe Slalom 🥇🥈🥉
+DTSTART:20210730T050000Z
+DTEND:20210730T080000Z
+DTSTAMP:20210723T170802Z
+UID:61caggu4c4eonunarkdn7qo99b@google.com
+SEQUENCE:0
+CREATED:20210331T064523Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Kayak (K1) Men Semi-final</li><li>Kayak (
+ K1) Men Final</li><li>Kayak (K1) Men Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T064523Z
+LOCATION:Kasai Canoe Slalom Centre\, 6-chōme-1-1 Rinkaichō\, Edogawa Cit
+ y\, Tokyo 134-0086\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canoe Slalom 🥇🥈🥉
+DTSTART:20210729T050000Z
+DTEND:20210729T074500Z
+DTSTAMP:20210723T170802Z
+UID:62aaocgul3tc45pftvbf6q7fp5@google.com
+SEQUENCE:0
+CREATED:20210331T064253Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Canoe (C1) Women Semi-final</li><li>Canoe
+  (C1) Women Final</li><li>Canoe (C1) Women Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T064253Z
+LOCATION:Kasai Canoe Slalom Centre\, 6-chōme-1-1 Rinkaichō\, Edogawa Cit
+ y\, Tokyo 134-0086\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canoe Slalom 
+DTSTART:20210728T040000Z
+DTEND:20210728T074500Z
+DTSTAMP:20210723T170802Z
+UID:3gp91vo06u03ia08blqf50v8ae@google.com
+SEQUENCE:0
+CREATED:20210331T064157Z
+DESCRIPTION: <ul><li>Canoe (C1) Women Heats</li><li>Kayak (K1) Men Heats</
+ li></ul>
+LAST-MODIFIED:20210331T064157Z
+LOCATION:Kasai Canoe Slalom Centre\, 6-chōme-1-1 Rinkaichō\, Edogawa Cit
+ y\, Tokyo 134-0086\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canoe Slalom 🥇🥈🥉
+DTSTART:20210727T050000Z
+DTEND:20210727T080000Z
+DTSTAMP:20210723T170802Z
+UID:0jdpo228bdd2499egel0p6ur8n@google.com
+SEQUENCE:0
+CREATED:20210331T064048Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Kayak (K1) Women Semi-final</li><li>Kayak
+  (K1) Women Final</li><li>Kayak (K1) Women Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T064048Z
+LOCATION:Kasai Canoe Slalom Centre\, 6-chōme-1-1 Rinkaichō\, Edogawa Cit
+ y\, Tokyo 134-0086\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canoe Slalom 🥇🥈🥉
+DTSTART:20210726T050000Z
+DTEND:20210726T074500Z
+DTSTAMP:20210723T170802Z
+UID:26625uqebcva898l0ahcfc3lps@google.com
+SEQUENCE:0
+CREATED:20210331T063857Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Canoe (C1) Men Semi-final</li><li>Canoe (
+ C1) Men Final</li><li>Canoe (C1) Men Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T063857Z
+LOCATION:Kasai Canoe Slalom Centre\, 6-chōme-1-1 Rinkaichō\, Edogawa Cit
+ y\, Tokyo 134-0086\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

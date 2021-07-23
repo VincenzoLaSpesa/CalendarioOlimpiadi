@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Rhythmic Gymnastics 🥇🥈🥉
+DTSTART:20210808T020000Z
+DTEND:20210808T035500Z
+DTSTAMP:20210723T170802Z
+UID:71hkcpftqlougj6mv0lgjmuc5h@google.com
+SEQUENCE:0
+CREATED:20210404T002515Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Group All-Around Final</li><li>Group All-
+ Around Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T002515Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhythmic Gymnastics 🥇🥈🥉
+DTSTART:20210807T062000Z
+DTEND:20210807T090000Z
+DTSTAMP:20210723T170802Z
+UID:2qrult74e5tmpec7llsqcmbaa2@google.com
+SEQUENCE:0
+CREATED:20210404T002339Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Individual All-Around Final</li><li>Indiv
+ idual All-Around Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T002339Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhythmic Gymnastics 
+DTSTART:20210807T010000Z
+DTEND:20210807T034000Z
+DTSTAMP:20210723T170802Z
+UID:39c351of617ghjq87nps8hdkiu@google.com
+SEQUENCE:0
+CREATED:20210404T001920Z
+DESCRIPTION: Group All-Around Qualification
+LAST-MODIFIED:20210404T001920Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhythmic Gymnastics 
+DTSTART:20210806T055000Z
+DTEND:20210806T084500Z
+DTSTAMP:20210723T170802Z
+UID:5ovdosbp7pera5umtkqb3rn78i@google.com
+SEQUENCE:0
+CREATED:20210403T235901Z
+DESCRIPTION: Individual All-Around Qualification
+LAST-MODIFIED:20210403T235902Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhythmic Gymnastics 
+DTSTART:20210806T012000Z
+DTEND:20210806T041500Z
+DTSTAMP:20210723T170802Z
+UID:1ou2scd632cgtjf79km24icmvk@google.com
+SEQUENCE:0
+CREATED:20210403T235800Z
+DESCRIPTION: Individual All-Around Qualification
+LAST-MODIFIED:20210403T235800Z
+LOCATION:Ariake Gymnastics Centre\, 1-chōme-10-1 Ariake\, Koto City\, Tok
+ yo 135-0063\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

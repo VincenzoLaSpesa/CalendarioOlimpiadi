@@ -1,0 +1,1614 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210726T020000Z
+DTEND:20210726T054500Z
+DTSTAMP:20210723T170803Z
+UID:4bg7sgd7jqihlh889c311ei0g2@google.com
+SEQUENCE:0
+CREATED:20210331T060656Z
+DESCRIPTION: 11:00 JST - Men's Fly (48-52kg) - Preliminaries - Round of 32
+ <br>12:36 JST - Men's Middle (69-75kg) - Preliminaries - Round of 32<br>13
+ :39 JST - Women's Feather (54-57kg) - Preliminaries - Round of 16<li></li>
+ <ul></ul>
+LAST-MODIFIED:20210718T200059Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210725T080000Z
+DTEND:20210725T120000Z
+DTSTAMP:20210723T170803Z
+UID:4b4jgblans1b8ogi2be00qlp8g@google.com
+SEQUENCE:0
+CREATED:20210331T060606Z
+DESCRIPTION: 17:00 JST - Women's Fly (48-51kg) - Preliminaries - Round of 
+ 32\n18:18 JST - Men's Light (57-63kg) - Preliminaries - Round of 32\n20:12
+  JST - Men's Light Heavy (75-81kg) - Preliminaries - Round of 32
+LAST-MODIFIED:20210718T161117Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210725T020000Z
+DTEND:20210725T054500Z
+DTSTAMP:20210723T170803Z
+UID:2rj64k25t54j2iakrvtj3p3875@google.com
+SEQUENCE:0
+CREATED:20210331T060412Z
+DESCRIPTION: 11:00 JST - Women's Fly (48-51kg) - Preliminaries - Round of 
+ 32\n12:03 JST - Women's Middle (69-75kg) - Preliminaries - Round of 32\n12
+ :18 JST - Men's Light (57-63kg) - Preliminaries - Round of 32\n13:54 JST -
+  Men's Light Heavy (75-81kg) - Preliminaries - Round of 32
+LAST-MODIFIED:20210718T161001Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210724T080000Z
+DTEND:20210724T113000Z
+DTSTAMP:20210723T170803Z
+UID:7ovabs8e0bh303689qs6ant9ou@google.com
+SEQUENCE:2
+CREATED:20210331T060259Z
+DESCRIPTION: 17:00 JST - Women's Feather (54-57kg) - Preliminaries - Round
+  of 32\n17:30 JST - Men's Feather (52-57kg) - Preliminaries - Round of 32\
+ n19:06 JST - Men's Welter (63-69kg) - Preliminaries - Round of 32\n20:12 J
+ ST - Men's Super Heavy (+91kg) - Preliminaries - Round of 32
+LAST-MODIFIED:20210717T062931Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210724T020000Z
+DTEND:20210724T053000Z
+DTSTAMP:20210723T170803Z
+UID:5k7mt1g7lv9p0v7r49345torrd@google.com
+SEQUENCE:0
+CREATED:20210331T060145Z
+DESCRIPTION: 11:00 JST - Women's Feather (54-57kg) - Preliminaries - Round
+  of 32\n11:30 JST - Women's Welter (64-69kg) - Preliminaries - Round of 32
+ \n12:03 JST - Men's Feather (52-57kg) - Preliminaries - Round of 32\n13:24
+  JST - Men's Welter (63-69kg) - Preliminaries - Round of 32\n14:12 JST - M
+ en's Heavy (81-91kg) - Preliminaries - Round of 32
+LAST-MODIFIED:20210717T062721Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 🥇🥈🥉
+DTSTART:20210808T050000Z
+DTEND:20210808T065500Z
+DTSTAMP:20210723T170803Z
+UID:4cfm371qtanqfsmch851t38g4h@google.com
+SEQUENCE:0
+CREATED:20210331T063459Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Light (57-60kg) Final</li><li>Men
+ 's Light (57-63kg) Final</li><li>Women's Light (57-60kg) Victory Ceremony<
+ /li><li>Women's Middle (69-75kg) Final</li><li>Men's Light (57-63kg) Victo
+ ry Ceremony</li><li>Men's Super Heavy (+91kg) Final</li><li>Women's Middle
+  (69-75kg) Victory Ceremony</li><li>Men's Super Heavy (+91kg) Victory Cere
+ mony</li></ul>
+LAST-MODIFIED:20210703T063332Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 🥇🥈🥉
+DTSTART:20210807T050000Z
+DTEND:20210807T065500Z
+DTSTAMP:20210723T170803Z
+UID:4kvj1qmq64nhjaa5mhec074gj5@google.com
+SEQUENCE:0
+CREATED:20210331T063331Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Fly (48-52kg) Final</li><li>Women's
+  Fly (48-51kg) Final</li><li>Men's Fly (48-52kg) Victory Ceremony</li><li>
+ Men's Middle (69-75kg) Final</li><li>Women's Fly (48-51kg) Victory Ceremon
+ y</li><li>Women's Welter (64-69kg) Final</li><li>Men's Middle (69-75kg) Vi
+ ctory Cermeony</li><li>Women's Welter (64-69kg) Victory Ceremony</li></ul>
+LAST-MODIFIED:20210703T062024Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210731T080000Z
+DTEND:20210731T105500Z
+DTSTAMP:20210723T170804Z
+UID:0dg7s1ke26gbj3i38f0papmemd@google.com
+SEQUENCE:0
+CREATED:20210331T061849Z
+DESCRIPTION: <ul><li>Men's Fly (48-52kg) - Preliminaries - Round of 16</li
+ ><li>Men's Light (57-63kg) - Preliminaries - Round of 16</li><li>Women's M
+ iddle (69-75kg) QuarterFinals</li><li>Women's Feather (54-57kg) SemiFinal<
+ /li></ul>
+LAST-MODIFIED:20210628T164327Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210731T020000Z
+DTEND:20210731T045500Z
+DTSTAMP:20210723T170804Z
+UID:07b0fc34iv0q39ubu914njjabg@google.com
+SEQUENCE:0
+CREATED:20210331T061751Z
+DESCRIPTION: <ul><li>Men's Fly (48-52kg) - Preliminaries - Round of 16</li
+ ><li>Men's Light (57-63kg) - Preliminaries - Round of 16</li><li>Women's M
+ iddle (69-75kg) QuarterFinals</li><li>Women's Feather (54-57kg) SemiFinal<
+ /li></ul>
+LAST-MODIFIED:20210628T164207Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210730T080000Z
+DTEND:20210730T111000Z
+DTSTAMP:20210723T170804Z
+UID:6j3s39ct04ple399pa1ad5tmek@google.com
+SEQUENCE:0
+CREATED:20210331T061640Z
+DESCRIPTION: <ul><li>Women's Light (57-60kg) - Preliminaries - Round of 16
+ </li><li>Women's Welter (64-69kg) Quarterfinals</li><li>Men's Welter (63-6
+ 9kg) Quarterfinals</li><li>Men's Light Heavy (75-81kg) Quarterfinals</li><
+ li>Men's Heavy (81-91kg) Quarterfinals</li></ul>
+LAST-MODIFIED:20210628T143146Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210730T020000Z
+DTEND:20210730T051000Z
+DTSTAMP:20210723T170804Z
+UID:0rsrregjme7ihjauquphk9ogrn@google.com
+SEQUENCE:0
+CREATED:20210331T061516Z
+DESCRIPTION: <ul><li>Women's Light (57-60kg) - Preliminaries - Round of 16
+ </li><li>Women's Welter (64-69kg) Quarterfinals</li><li>Men's Welter (63-6
+ 9kg) Quarterfinals</li><li>Men's Light Heavy (75-81kg) Quarterfinals</li><
+ li>Men's Heavy (81-91kg) Quarterfinals</li></ul>
+LAST-MODIFIED:20210628T143111Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210729T080000Z
+DTEND:20210729T111000Z
+DTSTAMP:20210723T170804Z
+UID:4q86k81nbq795bnavieknqk26r@google.com
+SEQUENCE:0
+CREATED:20210628T072355Z
+DESCRIPTION: <ul><li>Men's Middle (69-75kg) - Preliminaries - Round of 16<
+ /li><li>Men's Super Heavy (+91kg) - Preliminaries - Round of 16</li><li>Wo
+ men's Fly (48-51kg) - Preliminaries - Round of 16</li></ul>
+LAST-MODIFIED:20210628T072355Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210729T020000Z
+DTEND:20210729T051000Z
+DTSTAMP:20210723T170804Z
+UID:0a2i111qguhkns849o280jt5gs@google.com
+SEQUENCE:0
+CREATED:20210331T061335Z
+DESCRIPTION: <ul><li>Men's Middle (69-75kg) - Preliminaries - Round of 16<
+ /li><li>Men's Super Heavy (+91kg) - Preliminaries - Round of 16</li><li>Wo
+ men's Fly (48-51kg) - Preliminaries - Round of 16</li></ul>
+LAST-MODIFIED:20210628T072145Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210728T080000Z
+DTEND:20210728T114500Z
+DTSTAMP:20210723T170804Z
+UID:6brgtkc1oqdbbr6galo5ndu3a6@google.com
+SEQUENCE:0
+CREATED:20210331T061224Z
+DESCRIPTION: <ul><li>Women's Feather (54-57kg) QuarterFinal</li><li>Women'
+ s Middle (69-75kg) - Preliminaries - Round of 16</li><li>Men's Feather (52
+ -57kg) - Preliminaries - Round of 16</li><li>Men's Light Heavy (75-81kg) -
+  Preliminaries - Round of 16</li></ul>
+LAST-MODIFIED:20210628T065759Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210728T020000Z
+DTEND:20210728T054500Z
+DTSTAMP:20210723T170804Z
+UID:4usg502auq6lo7epe45q870nl2@google.com
+SEQUENCE:0
+CREATED:20210331T061052Z
+DESCRIPTION: <ul><li>Women's Feather (54-57kg) QuarterFinal</li><li>Women'
+ s Middle (69-75kg) - Preliminaries - Round of 16</li><li>Men's Feather (52
+ -57kg) - Preliminaries - Round of 16</li><li>Men's Light Heavy (75-81kg) -
+  Preliminaries - Round of 16</li></ul>
+LAST-MODIFIED:20210628T065718Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210727T080000Z
+DTEND:20210727T114500Z
+DTSTAMP:20210723T170804Z
+UID:4bgq12hv5sfos479ff8gvt6ma9@google.com
+SEQUENCE:0
+CREATED:20210331T061002Z
+DESCRIPTION: <ul><li>Men's Welter (63-69kg) - Preliminaries - Round of 16<
+ /li><li>Men's Heavy (81-91kg) - Preliminaries - Round of 16</li><li>Women'
+ s Light (57-60kg) - Preliminaries - Round of 32</li><li>Women's Welter (64
+ -69kg) - Preliminaries - Round of 16</li></ul>
+LAST-MODIFIED:20210628T062455Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210727T020000Z
+DTEND:20210727T054500Z
+DTSTAMP:20210723T170804Z
+UID:60gtjtfdj470qcflov82qkd0gj@google.com
+SEQUENCE:0
+CREATED:20210331T060913Z
+DESCRIPTION: <ul><li>Men's Welter (63-69kg) - Preliminaries - Round of 16<
+ /li><li>Men's Heavy (81-91kg) - Preliminaries - Round of 16</li><li>Women'
+ s Light (57-60kg) - Preliminaries - Round of 32</li><li>Women's Welter (64
+ -69kg) - Preliminaries - Round of 16</li></ul>
+LAST-MODIFIED:20210628T062431Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210726T080000Z
+DTEND:20210726T120000Z
+DTSTAMP:20210723T170804Z
+UID:24trtr4eulq68bpa2sle4192cv@google.com
+SEQUENCE:0
+CREATED:20210331T060811Z
+DESCRIPTION: <ul><li>Men's Fly (48-52kg) - Preliminaries - Round of 32</li
+ ><li>Men's Middle (69-75kg) - Preliminaries - Round of 32</li><li>Women's 
+ Feather (54-57kg) - Preliminaries - Round of 16</li></ul>
+LAST-MODIFIED:20210628T054827Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 🥇🥈🥉
+DTSTART:20210806T050000Z
+DTEND:20210806T064000Z
+DTSTAMP:20210723T170804Z
+UID:65deui1bb28g90qr73mdebpng3@google.com
+SEQUENCE:0
+CREATED:20210331T063148Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Middle (69-75kg) Semifinals</li><
+ li>Men's Light (57-63kg) Semifinals</li><li>Men's Heavy (81-91kg) Final</l
+ i><li>Men's Heavy (81-91kg) Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T063148Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 🥇🥈🥉
+DTSTART:20210805T050000Z
+DTEND:20210805T071000Z
+DTSTAMP:20210723T170804Z
+UID:1ue186u3gtdlu07pq0neapb44e@google.com
+SEQUENCE:0
+CREATED:20210331T062646Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Light (57-60kg) Semifinals</li><l
+ i>Men's Fly (48-52kg) Semifinals</li><li>Men's Middle (69-75kg) Semifinals
+ </li><li>Men's Feather (52-57kg) Final</li><li>Men's Feather (52-57kg) Vic
+ tory Ceremony</li></ul>
+LAST-MODIFIED:20210331T062646Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 🥇🥈🥉
+DTSTART:20210804T050000Z
+DTEND:20210804T071000Z
+DTSTAMP:20210723T170804Z
+UID:6f02f9g4r3fihmr8b949264032@google.com
+SEQUENCE:0
+CREATED:20210331T062517Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Fly (48-51kg) Semifinals</li><li>
+ Women's Welter (64-69kg) Semifinals</li><li>Men's Super Heavy (+91kg) Semi
+ finals</li><li>Men's Light Heavy (75-81kg) Final</li><li>Men's Light Heavy
+  (75-81kg) Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T062517Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 🥇🥈🥉
+DTSTART:20210803T080000Z
+DTEND:20210803T104000Z
+DTSTAMP:20210723T170804Z
+UID:1hf5bgakfachq1bp0j7jgnpdhq@google.com
+SEQUENCE:0
+CREATED:20210331T062408Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Light (57-60kg) Quarterfinals</li
+ ><li>Men's Fly (48-52kg) Quarterfinals</li><li>Men's Feather (52-57kg) Sem
+ ifinal</li><li>Men's Light (57-63kg) Quarterfinals</li><li>Men's Heavy (81
+ -91kg) Semifinal</li><li>Men's Welter (63-69kg) Final</li><li>Men's Welter
+  (63-69kg) Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T062408Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 🥇🥈🥉
+DTSTART:20210803T020000Z
+DTEND:20210803T044000Z
+DTSTAMP:20210723T170804Z
+UID:5jnolf8ntilfgltggmg1kj02i7@google.com
+SEQUENCE:0
+CREATED:20210331T062259Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Fly (48-52kg) Quarterfinals</li><li
+ >Men's Feather (52-57kg) Semifinal</li><li>Men's Light (57-63kg) Quarterfi
+ nals</li><li>Men's Heavy (81-91kg) Semifinal</li><li>Women's Light (57-60k
+ g) Quarterfinals</li><li>Women's Feather (54-57kg) Final</li><li>Women's F
+ eather (54-57kg) Victory Ceremony</li></ul>
+LAST-MODIFIED:20210331T062259Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210801T080000Z
+DTEND:20210801T104000Z
+DTSTAMP:20210723T170804Z
+UID:32994kaulu7crbjbfe30k10dqg@google.com
+SEQUENCE:0
+CREATED:20210331T062141Z
+DESCRIPTION: <ul><li>Women's Fly (48-51kg) Quarterfinals</li><li>Men's Fea
+ ther (52-57kg) Quarterfinals</li><li>Men's Welter (63-69kg) Semifinal</li>
+ <li>Men's Middle (69-75kg) Quarterfinals</li><li>Men's Light Heavy (75-81k
+ g) Semifinal</li><li>Men's Super Heavy (+91kg) Quarterfinals</li></ul>
+LAST-MODIFIED:20210331T062141Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210801T020000Z
+DTEND:20210801T044000Z
+DTSTAMP:20210723T170804Z
+UID:5l5ktpfk1fqms183tupdjlfghf@google.com
+SEQUENCE:0
+CREATED:20210331T062012Z
+DESCRIPTION: <ul><li>Women's Fly (48-51kg) Quarterfinals</li><li>Men's Fea
+ ther (52-57kg) Quarterfinals</li><li>Men's Welter (63-69kg) Semifinal</li>
+ <li>Men's Middle (69-75kg) Quarterfinals</li><li>Men's Light Heavy (75-81k
+ g) Semifinal</li><li>Men's Super Heavy (+91kg) Quarterfinals</li></ul>
+LAST-MODIFIED:20210331T062012Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing 
+DTSTART:20210730T000000Z
+DTEND:20210730T031000Z
+DTSTAMP:20210723T170804Z
+UID:4lqsf7j6lavs6g5b6q0in931qh@google.com
+SEQUENCE:0
+CREATED:20210331T061425Z
+DESCRIPTION: <ul><li>Women's Fly (48-51kg) Round of 16</li><li>Men's Feath
+ er (52-57kg) Round of 16</li><li>Men's Middle (69-75kg) Round of 16</li></
+ ul>
+LAST-MODIFIED:20210331T061425Z
+LOCATION:Ryōgoku Kokugikan\, 1-chōme-3-28 Yokoami\, Sumida City\, Tokyo 
+ 130-0015\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210725T090000Z
+DTEND:20210725T131000Z
+DTSTAMP:20210723T170803Z
+UID:20hnlkga927cu5qu3l8vivf4b0@google.com
+SEQUENCE:0
+CREATED:20210401T043349Z
+DESCRIPTION:🥇🥈🥉 <b>Women's Foil </b><br>18:00 JST - Individual Se
+ mifinals<br><span>19:50 JST - Individual Bronze Medal Bout</span>&nbsp\;&n
+ bsp\;<br><span>20:45 JST - Individual Gold Medal Bout</span><br><br><b>Men
+ 's <span>Epée </span></b><br>19:00 JST - Individual Semifinals<br><span>2
+ 0:20 JST - Individual Bronze Medal Bout</span>&nbsp\;&nbsp\;<br><span>21:1
+ 5 JST - Individual Gold Medal Bout</span>
+LAST-MODIFIED:20210718T162111Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210725T000000Z
+DTEND:20210725T072000Z
+DTSTAMP:20210723T170803Z
+UID:5hjnirg1t2lkdnelgch57i897d@google.com
+SEQUENCE:0
+CREATED:20210401T043200Z
+DESCRIPTION: <b>Women's Foil </b><br>9:00 JST - Individual Table of 64<br>
+ <span>9:55 JST - Individual Table of 32</span>&nbsp\;&nbsp\;<br><span>13:3
+ 5 JST - Individual Table of 16</span><br><span><span>15:25 JST - Individua
+ l Quarterfinals</span>&nbsp\;</span><br><br><b>Men's <span>Epée </span></
+ b><br>9:30 JST - Individual Table of 64&nbsp\;<br><span>11:55 JST - Indivi
+ dual Table of 32</span><br><span><span>14:35 JST - Individual Table of 16<
+ /span>&nbsp\;</span><br><span><span>15:55 JST - Individual Quarterfinals</
+ span>&nbsp\;</span>
+LAST-MODIFIED:20210718T161827Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210724T090000Z
+DTEND:20210724T131000Z
+DTSTAMP:20210723T170803Z
+UID:7cnd2i5dsul57mnhsft1sbl5uj@google.com
+SEQUENCE:0
+CREATED:20210401T043048Z
+DESCRIPTION:🥇🥈🥉 <span><br><span></span><b>Women's Epée&nbsp\;</b
+ ></span><span></span><span><br><span>18:00 JST - Individual Semifinals</sp
+ an><br><span>19:50 JST - Individual Bronze Medal Bout</span><br><span>20:4
+ 5 JST - <span>Individual Gold Medal Bout</span>&nbsp\;</span> <br>&nbsp\; 
+ <br><b>Men's Sabre&nbsp\;</b><br>19:00 JST - Individual Semifinals&nbsp\;<
+ br>20:20 JST - Individual Bronze Medal Bout<br>21:15 JST - <span>Individua
+ l Gold Medal Bout</span> </span>
+LAST-MODIFIED:20210717T064203Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210724T000000Z
+DTEND:20210724T072000Z
+DTSTAMP:20210723T170803Z
+UID:5ljbp86st19mbpo4pgjhq8525t@google.com
+SEQUENCE:0
+CREATED:20210401T042922Z
+DESCRIPTION: <b>Women's Epée&nbsp\;</b><br>9:00 JST - Individual Table of
+  64<br>9:55 JST -&nbsp\;<span>Individual Table of 32</span><br><span>13:35
+  JST - <span>Individual Table of 16</span>&nbsp\;</span><br><span>15:25 JS
+ T -&nbsp\;<span>Individual Quarterfinals</span> &nbsp\;</span><span></span
+ >&nbsp\;<br>&nbsp\; <br><b>Men's Sabre&nbsp\;</b><br>9:30 JST - Individual
+  Table of 64<br>11:55 JST -&nbsp\; Individual Table of 32<br>14:35 JST - I
+ ndividual Table of 16<br>15:55 JST - Individual Quarterfinals
+LAST-MODIFIED:20210717T064017Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210729T093000Z
+DTEND:20210729T123000Z
+DTSTAMP:20210723T170804Z
+UID:5lcr306opu19kqv50r63p9qldv@google.com
+SEQUENCE:0
+CREATED:20210628T072759Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Foil Team Bronze Medal Match</li>
+ <li>Women's Foil Team Gold Medal Match</li><li>Women's Foil Team Victory C
+ eremony</li></ul>
+LAST-MODIFIED:20210628T072759Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210729T015000Z
+DTEND:20210729T072500Z
+DTSTAMP:20210723T170804Z
+UID:3ij4m57t7l795ubjadb28cd1pl@google.com
+SEQUENCE:1
+CREATED:20210401T045135Z
+DESCRIPTION: <ul><li>Women's Foil Team Quarterfinals</li><li>Women's Foil 
+ Team Classification 5-8</li><li>Women's Foil Team Semifinals</li><li>Women
+ 's Foil Team Placement 5-6</li><li>Women's Foil Team Placement 7-8</li></u
+ l>
+LAST-MODIFIED:20210628T072615Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210727T022500Z
+DTEND:20210727T062000Z
+DTSTAMP:20210723T170804Z
+UID:44ubacgoamv27c2r05bfm6m5fk@google.com
+SEQUENCE:1
+CREATED:20210401T043645Z
+DESCRIPTION: <ul><li>Women's Epée Team Quarterfinals</li><li>Women's Epé
+ e Team Classification 5-8</li><li>Women's Epée Team Semifinals</li><li>Wo
+ men's Epée Team Placement 5-6</li><li>Women's Epée Team Placement 7-8</l
+ i></ul>
+LAST-MODIFIED:20210628T062912Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210726T090000Z
+DTEND:20210726T131000Z
+DTSTAMP:20210723T170804Z
+UID:7dbbi4bprok1i0pdsdj2f27cu2@google.com
+SEQUENCE:0
+CREATED:20210401T043540Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Sabre Individual Semifinals</li><
+ li>Men's Foil Individual Semifinals</li><li>Women's Sabre Individual Bronz
+ e Medal Bout</li><li>Men's Foil Individual Bronze Medal Bout</li><li>Women
+ 's Sabre Individual Gold Medal Bout</li><li>Men's Foil Individual Gold Med
+ al Bout</li><li>Women's Sabre Individual Victory Ceremony</li><li>Men's Fo
+ il Individual Victory Ceremony</li></ul>
+LAST-MODIFIED:20210628T055243Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210801T093000Z
+DTEND:20210801T122000Z
+DTSTAMP:20210723T170804Z
+UID:0hshri01b8ebljh6n3ecfp2f7g@google.com
+SEQUENCE:0
+CREATED:20210401T062009Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Foil Team Bronze Medal Match</li><l
+ i>Men's Foil Team Gold Medal Match</li><li>Men's Foil Team Victory Ceremon
+ y</li></ul>
+LAST-MODIFIED:20210401T062009Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210801T000000Z
+DTEND:20210801T070000Z
+DTSTAMP:20210723T170804Z
+UID:7p9u1lq2c33g3n5d6gks711qb7@google.com
+SEQUENCE:0
+CREATED:20210401T061820Z
+DESCRIPTION: <ul><li>Men's Foil Team Table of 16</li><li>Men's Foil Team Q
+ uarterfinals</li><li>Men's Foil Team Classification 5-8</li><li>Men's Foil
+  Team Semifinals</li><li>Men's Foil Team Placement 5-6</li><li>Men's Foil 
+ Team Placement 7-8</li></ul>
+LAST-MODIFIED:20210401T061820Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210731T093000Z
+DTEND:20210731T114000Z
+DTSTAMP:20210723T170804Z
+UID:1nql259g76tf68c4ak1ssv52k2@google.com
+SEQUENCE:0
+CREATED:20210401T055638Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Sabre Team Bronze Medal Match</li
+ ><li>Women's Sabre Team Gold Medal Match</li><li>Women's Sabre Team Victor
+ y Ceremony</li></ul>
+LAST-MODIFIED:20210401T055638Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210731T010000Z
+DTEND:20210731T062000Z
+DTSTAMP:20210723T170804Z
+UID:5g6ili1t910nt278s22o6ffse1@google.com
+SEQUENCE:0
+CREATED:20210401T055427Z
+DESCRIPTION: <ul><li>Women's Sabre Team Table of 16</li><li>Women's Sabre 
+ Team Quarterfinals</li><li>Women's Sabre Team Classification 5-8</li><li>W
+ omen's Sabre Team Semifinals</li><li>Women's Sabre Team Placement 5-6</li>
+ <li>Women's Sabre Team Placement 7-8</li></ul>
+LAST-MODIFIED:20210401T055427Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210730T093000Z
+DTEND:20210730T114000Z
+DTSTAMP:20210723T170804Z
+UID:143vv2t61eflvdgki8ug6jbme4@google.com
+SEQUENCE:0
+CREATED:20210401T045945Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Epée Team Bronze Medal Match</li><
+ li>Men's Epée Team Gold Medal Match</li><li>Men's Epée Team Victory Cere
+ mony</li></ul>
+LAST-MODIFIED:20210401T045945Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210730T010000Z
+DTEND:20210730T062000Z
+DTSTAMP:20210723T170804Z
+UID:134nvheaealc11217fn990rqes@google.com
+SEQUENCE:0
+CREATED:20210401T045608Z
+DESCRIPTION: <ul><li>Men's Epée Team Table of 16</li><li>Men's Epée Team
+  Quarterfinals</li><li>Men's Epée Team Classification 5-8</li><li>Men's E
+ pée Team Semifinals</li><li>Men's Epée Team Placement 5-6</li><li>Men's 
+ Epée Team Placement 7-8</li></ul>
+LAST-MODIFIED:20210401T045608Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210728T093000Z
+DTEND:20210728T114000Z
+DTSTAMP:20210723T170804Z
+UID:0fofpr0eslbv428gkris25022a@google.com
+SEQUENCE:0
+CREATED:20210401T045014Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Sabre Team Bronze Medal Match</li><
+ li>Men's Sabre Team Gold Medal Match</li><li>Men's Sabre Team Victory Cere
+ mony</li></ul>
+LAST-MODIFIED:20210401T045014Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 
+DTSTART:20210728T010000Z
+DTEND:20210728T062000Z
+DTSTAMP:20210723T170804Z
+UID:13k130crn7ci0kn5rq64bd7npv@google.com
+SEQUENCE:0
+CREATED:20210401T044827Z
+DESCRIPTION: <ul><li>Men's Sabre Team Table of 16</li><li>Men's Sabre Team
+  Quarterfinals</li><li>Men's Sabre Team Classification 5-8</li><li>Men's S
+ abre Team Semifinals</li><li>Men's Sabre Team Placement 5-6</li><li>Men's 
+ Sabre Team Placement 7-8</li></ul>
+LAST-MODIFIED:20210401T044827Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210727T093000Z
+DTEND:20210727T114000Z
+DTSTAMP:20210723T170804Z
+UID:0sd74554sd225v14u2k3g06v5h@google.com
+SEQUENCE:0
+CREATED:20210401T043802Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Epée Team Bronze Medal Match</li
+ ><li>Women's Epée Team Gold Medal Match</li><li>Women's Epée Team Victor
+ y Ceremony</li></ul>
+LAST-MODIFIED:20210401T043802Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fencing 🥇🥈🥉
+DTSTART:20210726T000000Z
+DTEND:20210726T072000Z
+DTSTAMP:20210723T170804Z
+UID:2bpqneh2cttkr0fs102tps3rne@google.com
+SEQUENCE:0
+CREATED:20210401T043446Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Sabre Individual Table of 64</li>
+ <li>Men's Foil Individual Table of 64</li><li>Women's Sabre Individual Tab
+ le of 32</li><li>Men's Foil Individual Table of 32</li><li>Women's Sabre I
+ ndividual Table of 16</li><li>Men's Foil Individual Table of 16</li><li>Wo
+ men's Sabre Individual Quarterfinals</li><li>Men's Foil Individual Quarter
+ finals</li></ul>
+LAST-MODIFIED:20210401T043446Z
+LOCATION:Makuhari Messe Hall B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 🥇🥈🥉
+DTSTART:20210725T080000Z
+DTEND:20210725T105000Z
+DTSTAMP:20210723T170803Z
+UID:623qlvrt5p3ggsmtmj3bbgk5bo@google.com
+SEQUENCE:0
+CREATED:20210403T220709Z
+DESCRIPTION:🥇🥈🥉 <span><br><b><span>Men -66 kg</span></b><span>Rep
+ echage Contest</span></span><br><span><span><span>Semifinals</span>&nbsp\;
+ </span></span><br><span><span>Contest for Bronze Medal A&nbsp\;</span></sp
+ an><br><span><span><span><span><span>Contest for Bronze Medal B</span></sp
+ an></span></span></span><br><span><span><span><span><span>Final </span></s
+ pan></span>&nbsp\;</span><br><br><b>Women -52 kg</b>&nbsp\;<br><span><span
+ ><span>Repechage Contest</span></span></span><br><span><span><span><span>S
+ emifinals</span>&nbsp\;</span></span></span><br><span><span><span><span><s
+ pan><span>Contest for Bronze Medal A&nbsp\;</span></span></span>&nbsp\;</s
+ pan></span></span><br><span><span><span><span><span><span>Contest for Bron
+ ze Medal B</span></span></span></span></span></span><br><span><span><span>
+ <span><span><span>Final</span></span></span></span></span></span></span>
+LAST-MODIFIED:20210718T164105Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 
+DTSTART:20210725T020000Z
+DTEND:20210725T053000Z
+DTSTAMP:20210723T170803Z
+UID:4l7tigklk1qi3qt80lf6lhdk0g@google.com
+SEQUENCE:1
+CREATED:20210403T215757Z
+DESCRIPTION: <b><span>Men -66 kg</span></b><br><span>Elimination Round of 
+ 32</span><br><span><span><span>Elimination Round of 16</span></span></span
+ ><br><span>Quarterfinals</span>&nbsp\;&nbsp\;<br><br><b>Women -52 kg</b>&n
+ bsp\;<br><span><span>Elimination Round of 32</span></span><br><span><span>
+ <span><span>Elimination Round of 16</span></span>&nbsp\;</span></span><br>
+ Quarterfinals
+LAST-MODIFIED:20210718T163912Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 🥇🥈🥉
+DTSTART:20210724T080000Z
+DTEND:20210724T105000Z
+DTSTAMP:20210723T170803Z
+UID:41i8e5nc33mjipjbgs1plcp4o5@google.com
+SEQUENCE:0
+CREATED:20210403T215415Z
+DESCRIPTION:🥇🥈🥉 <span><br><b>Women -48 kg&nbsp\;</b><br><span>Rep
+ echage Contest</span><br><span>Semifinals of Table A</span><br><span>Semif
+ inals of Table B&nbsp\;</span><br><span>Contest for Bronze Medal A</span><
+ br><span>Contest for Bronze Medal B</span><br><span>Final&nbsp\;</span><b>
+ </b><br><br><b>Men -60 kg&nbsp\;</b><span><span><br><span>Repechage Contes
+ t</span><br><span>Semifinals of Table A</span><br><span>Semifinals of Tabl
+ e B&nbsp\;</span></span></span></span><span><span><br><span>Contest for Br
+ onze Medal A</span><br><span>Contest for Bronze Medal B</span><br><span>Fi
+ nal&nbsp\;</span></span></span>
+LAST-MODIFIED:20210717T070949Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 
+DTSTART:20210724T020000Z
+DTEND:20210724T053000Z
+DTSTAMP:20210723T170803Z
+UID:47dgd1j0laru50qbai24vc07fu@google.com
+SEQUENCE:0
+CREATED:20210403T215136Z
+DESCRIPTION: <b>Women -48 kg&nbsp\;</b><br>Elimination Round of 32<br><spa
+ n>Elimination Round of 16</span><br>Quarterfinals<br><br><b>Men -60 kg&nbs
+ p\;</b><br>Elimination Round of 32<br><span><span>Elimination Round of 16<
+ /span></span><br>Quarterfinals
+LAST-MODIFIED:20210717T070658Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 🥇🥈🥉
+DTSTART:20210731T080000Z
+DTEND:20210731T105000Z
+DTSTAMP:20210723T170804Z
+UID:5bba4ihddb0l6vqk9vuv5vabem@google.com
+SEQUENCE:0
+CREATED:20210403T225651Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Mixed Team Match for Bronze Medal</li><li
+ >Mixed Team Final</li><li>Mixed Team Victory Ceremony</li></ul>
+LAST-MODIFIED:20210628T165221Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 🥇🥈🥉
+DTSTART:20210730T080000Z
+DTEND:20210730T105000Z
+DTSTAMP:20210723T170804Z
+UID:1ii3s40r6equlo6ujhet3p5da9@google.com
+SEQUENCE:0
+CREATED:20210403T224333Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women +78 kg Repechage</li><li>Women +78 
+ kg Semifinals</li><li>Men +100 kg Repechage</li><li>Men +100 kg Semifinals
+ </li><li>Women +78 kg Contests for Bronze Medal</li><li>Women +78 kg Final
+ </li><li>Men +100 kg Contests for Bronze Medal</li><li>Men +100 kg Final</
+ li><li>Women +78 kg Victory Ceremony</li><li>Men +100 kg Victory Ceremony<
+ /li></ul>
+LAST-MODIFIED:20210628T151358Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 🥇🥈🥉
+DTSTART:20210729T080000Z
+DTEND:20210729T105000Z
+DTSTAMP:20210723T170804Z
+UID:4iu2gke58i1ueloh6ho75s4e38@google.com
+SEQUENCE:0
+CREATED:20210628T073348Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women -78 kg Repechage</li><li>Women -78 
+ kg Semifinals</li><li>Men -100 kg Repechage</li><li>Men -100 kg Semifinals
+ </li><li>Women -78 kg Contests for Bronze Medal</li><li>Women -78 kg Final
+ </li><li>Men -100 kg Contests for Bronze Medal</li><li>Men -100 kg Final</
+ li><li>Women -78 kg Victory Ceremony</li><li>Men -100 kg Victory Ceremony<
+ /li></ul>
+LAST-MODIFIED:20210628T073348Z
+LOCATION:Nippon Budokan\, 2-3 Kitanomarukōen\, Chiyoda City\, Tokyo 102-8
+ 321\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 🥇🥈🥉
+DTSTART:20210728T080000Z
+DTEND:20210728T105000Z
+DTSTAMP:20210723T170804Z
+UID:481l7qb1lo0iiciv51v33hf5sr@google.com
+SEQUENCE:0
+CREATED:20210403T223343Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women -70 kg Repechage</li><li>Women -70 
+ kg Semifinals</li><li>Men -90 kg Repechage</li><li>Men -90 kg Semifinals</
+ li><li>Women -70 kg Contests for Bronze Medal</li><li>Women -70 kg Final</
+ li><li>Men -90 kg Contests for Bronze Medal</li><li>Men -90 kg Final</li><
+ li>Women -70 kg Victory Ceremony</li><li>Men -90 kg Victory Ceremony</li><
+ /ul>
+LAST-MODIFIED:20210628T070748Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 🥇🥈🥉
+DTSTART:20210727T080000Z
+DTEND:20210727T105000Z
+DTSTAMP:20210723T170804Z
+UID:7joios8dgthsk7dmkav3fmon5q@google.com
+SEQUENCE:0
+CREATED:20210403T221835Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women -63 kg Repechage</li><li>Women -63 
+ kg Semifinals</li><li>Men -81 kg Repechage</li><li>Men -81 kg Semifinals</
+ li><li>Women -63 kg Contests for Bronze Medal</li><li>Women -63 kg Final</
+ li><li>Men -81 kg Contests for Bronze Medal</li><li>Men -81 kg Final</li><
+ li>Women -63 kg Victory Ceremony</li><li>Men -81 kg Victory Ceremony</li><
+ /ul>
+LAST-MODIFIED:20210628T063634Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 🥇🥈🥉
+DTSTART:20210726T080000Z
+DTEND:20210726T105000Z
+DTSTAMP:20210723T170804Z
+UID:5ot9lksbnmjsmm23mpt0s1daso@google.com
+SEQUENCE:0
+CREATED:20210403T221040Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women -57 kg Repechage</li><li>Women -57 
+ kg Semifinals</li><li>Men -73 kg Repechage</li><li>Men -73 kg Semifinals</
+ li><li>Women -57 kg Contests for Bronze Medal</li><li>Women -57 kg Final</
+ li><li>Men -73 kg Contests for Bronze Medal</li><li>Men -73 kg Final</li><
+ li>Women -57 kg Victory Ceremony</li><li>Men -73 kg Victory Ceremony</li><
+ /ul>
+LAST-MODIFIED:20210628T060043Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 
+DTSTART:20210726T020000Z
+DTEND:20210726T053000Z
+DTSTAMP:20210723T170804Z
+UID:752rdpp9n164gdj4t4odng3mr4@google.com
+SEQUENCE:1
+CREATED:20210403T220801Z
+DESCRIPTION: <ul><li>Women -57 kg Elimination Rounds</li><li>Women -57 kg 
+ Quarterfinals</li><li>Men -73 kg Elimination Rounds</li><li>Men -73 kg Qua
+ rterfinals</li></ul>
+LAST-MODIFIED:20210628T060013Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 
+DTSTART:20210731T020000Z
+DTEND:20210731T053000Z
+DTSTAMP:20210723T170804Z
+UID:089kvnf1bd1nfmq4cqfs1htfhr@google.com
+SEQUENCE:0
+CREATED:20210403T224451Z
+DESCRIPTION: <ul><li>Mixed Team Elimination rounds</li><li>Mixed Team Quar
+ terfinals</li><li>Mixed Team Repechage</li><li>Mixed Team Semifinals</li><
+ /ul>
+LAST-MODIFIED:20210403T224451Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 
+DTSTART:20210730T020000Z
+DTEND:20210730T053000Z
+DTSTAMP:20210723T170804Z
+UID:0kll37op9m3lbom6gviclio6iu@google.com
+SEQUENCE:0
+CREATED:20210403T224149Z
+DESCRIPTION: <ul><li>Women +78 kg Elimination Rounds</li><li>Women +78 kg 
+ Quarterfinals</li><li>Men +100 kg Elimination Rounds</li><li>Men +100 kg Q
+ uarterfinals</li></ul>
+LAST-MODIFIED:20210403T224149Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 🥇🥈🥉
+DTSTART:20210730T000000Z
+DTEND:20210730T024000Z
+DTSTAMP:20210723T170804Z
+UID:2lfm27pv4iu3jpk28gpdt89g4q@google.com
+SEQUENCE:0
+CREATED:20210403T224048Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women -78 kg Repechage</li><li>Women -78 
+ kg Semifinals</li><li>Men -100 kg Repechage</li><li>Men -100 kg Semifinals
+ </li><li>Women -78 kg Contests for Bronze Medal</li><li>Women -78 kg Final
+ </li><li>Men -100 kg Contests for Bronze Medal</li><li>Men -100 kg Final</
+ li><li>Women -78 kg Victory Ceremony</li><li>Men -100 kg Victory Ceremony<
+ /li></ul>
+LAST-MODIFIED:20210403T224048Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 
+DTSTART:20210729T020000Z
+DTEND:20210729T053000Z
+DTSTAMP:20210723T170804Z
+UID:0fapqjdcq4f7folf1bac3evtt9@google.com
+SEQUENCE:0
+CREATED:20210403T223532Z
+DESCRIPTION: <ul><li>Women -78 kg Elimination Rounds</li><li>Women -78 kg 
+ Quarterfinals</li><li>Men -100 kg Elimination Rounds</li><li>Men -100 kg Q
+ uarterfinals</li></ul>
+LAST-MODIFIED:20210403T223532Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 
+DTSTART:20210728T020000Z
+DTEND:20210728T053000Z
+DTSTAMP:20210723T170804Z
+UID:04khts2d9m59kgbnqlhef7p32k@google.com
+SEQUENCE:0
+CREATED:20210403T223018Z
+DESCRIPTION: <ul><li>Women -70 kg Elimination Rounds</li><li>Women -70 kg 
+ Quarterfinals</li><li>Men -90 kg Elimination Rounds</li><li>Men -90 kg Qua
+ rterfinals</li></ul>
+LAST-MODIFIED:20210403T223018Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judo 
+DTSTART:20210727T020000Z
+DTEND:20210727T053000Z
+DTSTAMP:20210723T170804Z
+UID:2nbosap4p2qau3kgl2nu4onn9k@google.com
+SEQUENCE:0
+CREATED:20210403T221306Z
+DESCRIPTION: <ul><li>Women -63 kg Elimination Rounds</li><li>Women -63 kg 
+ Quarterfinals</li><li>Men -81 kg Elimination Rounds</li><li>Men -81 kg Qua
+ rterfinals</li></ul>
+LAST-MODIFIED:20210403T221306Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karate 🥇🥈🥉
+DTSTART:20210807T050000Z
+DTEND:20210807T114500Z
+DTSTAMP:20210723T170803Z
+UID:38ghm85oos74ea33mnfvb668nt@google.com
+SEQUENCE:0
+CREATED:20210403T230743Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Kumite +61 kg Elimination Round</
+ li><li>Men's Kumite +75 kg Elimination Round</li><li>Women's Kumite +61 kg
+  Semifinals</li><li>Men's Kumite +75 kg Semifinals</li><li>Women's Kumite 
+ +61 kg Final</li><li>Men's Kumite +75 kg Final</li><li>Women's Kumite +61 
+ kg Victory Ceremony</li><li>Men's Kumite +75 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210703T062520Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karate 🥇🥈🥉
+DTSTART:20210806T080000Z
+DTEND:20210806T124000Z
+DTSTAMP:20210723T170804Z
+UID:6ia9pqjs0kseidmmqp9av3ifch@google.com
+SEQUENCE:0
+CREATED:20210403T230523Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Kumite -75 kg Elimination Round</li
+ ><li>Men's Kata Bronze Medal Bouts</li><li>Men's Kata Final Bout</li><li>W
+ omen's Kumite -61 kg Semifinals</li><li>Men's Kumite -75 kg Semifinals</li
+ ><li>Women's Kumite -61 kg Final</li><li>Men's Kumite -75 kg Final</li><li
+ >Men's Kata Victory Ceremony</li><li>Women's Kumite -61 kg Victory Ceremon
+ y</li><li>Men's Kumite -75 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210403T230523Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karate 
+DTSTART:20210806T010000Z
+DTEND:20210806T054500Z
+DTSTAMP:20210723T170804Z
+UID:0v0tbj5eerj772redpqdl8egv6@google.com
+SEQUENCE:0
+CREATED:20210403T230413Z
+DESCRIPTION: <ul><li>Men's Kata Elimination Round</li><li>Men's Kata Ranki
+ ng Round</li><li>Women's Kumite -61 kg Elimination Round</li></ul>
+LAST-MODIFIED:20210403T230413Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karate 🥇🥈🥉
+DTSTART:20210805T080000Z
+DTEND:20210805T124000Z
+DTSTAMP:20210723T170804Z
+UID:38fk23afs2lgg6bfrljq0eieeo@google.com
+SEQUENCE:0
+CREATED:20210403T230323Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Kumite -55 kg Elimination Round</
+ li><li>Women's Kata Bronze Medal Bouts</li><li>Women's Kata Final Bout</li
+ ><li>Men's Kumite -67 kg Semifinals</li><li>Women's Kumite -55 kg Semifina
+ ls</li><li>Men's Kumite -67 kg Final</li><li>Women's Kumite -55 kg Final</
+ li><li>Women's Kata Victory Ceremony</li><li>Men's Kumite -67 kg Victory C
+ eremony</li><li>Women's Kumite -55 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210403T230323Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karate 
+DTSTART:20210805T010000Z
+DTEND:20210805T054500Z
+DTSTAMP:20210723T170804Z
+UID:6eksbcj4l7iutiph8ie5ddnhb1@google.com
+SEQUENCE:0
+CREATED:20210403T230206Z
+DESCRIPTION: <ul><li>Women's Kata Elimination Round</li><li>Women's Kata R
+ anking Round</li><li>Men's Kumite -67 kg Elimination Round</li></ul>
+LAST-MODIFIED:20210403T230206Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taekwondo 🥇🥈🥉
+DTSTART:20210725T100000Z
+DTEND:20210725T133000Z
+DTSTAMP:20210723T170803Z
+UID:2u2paqml8iilf8om5sp3sbfa3s@google.com
+SEQUENCE:0
+CREATED:20210409T170549Z
+DESCRIPTION:🥇🥈🥉 <span><br><b>Women -57 kg</b><br>19:00 JST - <spa
+ n>Repechages</span><br><span>20:30 JST -&nbsp\;<span>Bronze Medal Contests
+ </span></span><br><span><span>21:30 JST - <span>Gold Medal Contest</span>&
+ nbsp\;</span> </span>&nbsp\;<br><b>Men -68 kg</b><br>19:15 JST -&nbsp\;<sp
+ an>Repechages</span><br><span><span>20:45 JST - Bronze Medal Contests</spa
+ n>&nbsp\;</span><br><span>21:45 JST - <span>Gold Medal Contest</span>&nbsp
+ \;</span></span>
+LAST-MODIFIED:20210718T171136Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taekwondo 
+DTSTART:20210725T010000Z
+DTEND:20210725T080000Z
+DTSTAMP:20210723T170803Z
+UID:3cvj7r5lm8b0g6d9hscea9h7k5@google.com
+SEQUENCE:0
+CREATED:20210409T170449Z
+DESCRIPTION: <b>Women -57 kg</b><br>10:00 JST - Round of 16<br><span>14:00
+  JST - Quarterfinals</span><br><span><span>16:00 JST - Semifinals</span>&n
+ bsp\;</span><br>&nbsp\;<br><b>Men -68 kg</b><br>10:15 JST - Round of 16<br
+ >14:15 JST - Quarterfinals<br>16:15 JST - Semifinals
+LAST-MODIFIED:20210718T170838Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taekwondo 🥇🥈🥉
+DTSTART:20210724T100000Z
+DTEND:20210724T134000Z
+DTSTAMP:20210723T170803Z
+UID:6ffevqsrq4sck46mjp9ii0lkq3@google.com
+SEQUENCE:0
+CREATED:20210409T170355Z
+DESCRIPTION:🥇🥈🥉 <span><b><span>Women -49 kg</span></b><br>19:00 J
+ ST - Repechages<br>20:30 JST - <span>Bronze Medal Contests</span><br><span
+ >21:30 JST - Gold Medal Contest</span><br>&nbsp\;<br><span><b><span>Men -5
+ 8 kg</span> </b></span><span><span><br><span><span>19:15 JST - Repechages<
+ br>20:45 JST - <span>Bronze Medal Contests</span><br><span>21:45 JST - Gol
+ d Medal Contest</span></span></span><span></span></span></span></span>
+LAST-MODIFIED:20210717T154046Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taekwondo 
+DTSTART:20210724T010000Z
+DTEND:20210724T080000Z
+DTSTAMP:20210723T170803Z
+UID:5rsru74462nnt257j27mfghhh0@google.com
+SEQUENCE:0
+CREATED:20210409T165354Z
+DESCRIPTION: <b><span>Women -49 kg</span></b><br>10:00 JST - Round of 16<b
+ r>14:00 JST - <span>Quarterfinals&nbsp\;</span><br><span>16:00 JST - Semif
+ inals&nbsp\;</span><br><span>&nbsp\;</span><br><span><b><span>Men -58 kg</
+ span> </b></span><span><span><br>10:15 JST - Round of 16<br>14:15 JST - <s
+ pan>Quarterfinals&nbsp\;</span><br><span>16:15 JST - Semifinals&nbsp\;</sp
+ an></span></span>
+LAST-MODIFIED:20210717T153810Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taekwondo 🥇🥈🥉
+DTSTART:20210727T100000Z
+DTEND:20210727T133000Z
+DTSTAMP:20210723T170804Z
+UID:43m2u7hb2bo4kju90bmfbt1f3c@google.com
+SEQUENCE:0
+CREATED:20210409T171039Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women +67 kg Repechages (2 matches)</li><
+ li>Men +80 kg Repechages (2 matches)</li><li>Women +67 kg Bronze Medal Con
+ tests (2 matches)</li><li>Men +80 kg Bronze Medal Contests (2 matches)</li
+ ><li>Women +67 kg Gold Medal Contest</li><li>Men +80 kg Gold Medal Contest
+ </li><li>Women +67 kg Victory Ceremony</li><li>Men +80 kg Victory Ceremony
+ </li></ul>
+LAST-MODIFIED:20210628T064229Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taekwondo 🥇🥈🥉
+DTSTART:20210726T100000Z
+DTEND:20210726T133000Z
+DTSTAMP:20210723T170804Z
+UID:76eig3m8qr4ufs8t7hlq82b86d@google.com
+SEQUENCE:0
+CREATED:20210409T170754Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women -67 kg Repechages (2 matches)</li><
+ li>Men -80 kg Repechages (2 matches)</li><li>Women -67 kg Bronze Medal Con
+ tests (2 matches)</li><li>Men -80 kg Bronze Medal Contests (2 matches)</li
+ ><li>Women -67 kg Gold Medal Contest</li><li>Men -80 kg Gold Medal Contest
+ </li><li>Women -67 kg Victory Ceremony</li><li>Men -80 kg Victory Ceremony
+ </li></ul>
+LAST-MODIFIED:20210628T060754Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taekwondo 
+DTSTART:20210727T010000Z
+DTEND:20210727T080000Z
+DTSTAMP:20210723T170804Z
+UID:1bhdeqrplnrcilfe1b8kado84c@google.com
+SEQUENCE:0
+CREATED:20210409T170920Z
+DESCRIPTION: <ul><li>Women +67 kg Round of 16 (8 matches)</li><li>Men +80 
+ kg Round of 16 (8 matches)</li><li>Women +67 kg Quarterfinals (4 matches)<
+ /li><li>Men +80 kg Quarterfinals (4 matches)</li><li>Women +67 kg Semifina
+ ls (2 matches)</li><li>Men +80 kg Semifinals (2 matches)</li></ul>
+LAST-MODIFIED:20210409T170920Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taekwondo 
+DTSTART:20210726T010000Z
+DTEND:20210726T080000Z
+DTSTAMP:20210723T170804Z
+UID:5qkpf11umq1qoj9dqaip2lfk48@google.com
+SEQUENCE:0
+CREATED:20210409T170705Z
+DESCRIPTION: <ul><li>Women -67 kg Round of 16 (8 matches)</li><li>Men -80 
+ kg Round of 16 (8 matches)</li><li>Women -67 kg Quarterfinals (4 matches)<
+ /li><li>Men -80 kg Quarterfinals (4 matches)</li><li>Women -67 kg Semifina
+ ls (2 matches)</li><li>Men -80 kg Semifinals (2 matches)</li></ul>
+LAST-MODIFIED:20210409T170705Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210804T020000Z
+DTEND:20210804T043000Z
+DTSTAMP:20210723T170803Z
+UID:413bq40tmorerepb9m4qj9udsm@google.com
+SEQUENCE:0
+CREATED:20210422T171414Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Greco-Roman 67 kg Repechage</li><li
+ >Women's Freestyle 62 kg Repechage</li><li>Men's Greco-Roman 87 kg Repecha
+ ge</li><li>Men's Freestyle 57 kg 1/8 Finals</li><li>Women's Freestyle 57 k
+ g 1/8 Finals</li><li>Men's Freestyle 86 kg 1/8 Finals</li><li>Men's Freest
+ yle 57 kg 1/4 Finals</li><li>Women's Freestyle 57 kg 1/4 Finals</li><li>Me
+ n's Freestyle 86 kg 1/4 Finals</li></ul>
+LAST-MODIFIED:20210701T071333Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210802T020000Z
+DTEND:20210802T043000Z
+DTSTAMP:20210723T170803Z
+UID:29t97id38g3ia20js3lktokatn@google.com
+SEQUENCE:0
+CREATED:20210422T170814Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Greco-Roman 60 kg Repechage</li><li
+ >Women's Freestyle 76 kg Repechage</li><li>Men's Greco-Roman 130 kg Repech
+ age</li><li>Men's Greco-Roman 77 kg 1/8 Finals</li><li>Women's Freestyle 6
+ 8 kg 1/8 Finals</li><li>Men's Greco-Roman 97 kg 1/8 Finals</li><li>Men's G
+ reco-Roman 77 kg 1/4 Finals</li><li>Women's Freestyle 68 kg 1/4 Finals</li
+ ><li>Men's Greco-Roman 97 kg 1/4 Finals</li></ul>
+LAST-MODIFIED:20210630T151309Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210807T094500Z
+DTEND:20210807T130000Z
+DTSTAMP:20210723T170804Z
+UID:5e8q1aingndfasi7ne3t0lqb2h@google.com
+SEQUENCE:0
+CREATED:20210422T172154Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Freestyle 65 kg Repechage</li><li>W
+ omen's Freestyle 50 kg Repechage</li><li>Men's Freestyle 97 kg Repechage</
+ li><li>Men's Freestyle 65 kg Bronze Medal Matches</li><li>Men's Freestyle 
+ 65 kg Final</li><li>Men's Freestyle 97 kg Bronze Medal Matches</li><li>Men
+ 's Freestyle 97 kg Final</li><li>Men's Freestyle 65 kg Victory Ceremony</l
+ i><li>Women's Freestyle 50 kg Bronze Medal Matches</li><li>Women's Freesty
+ le 50 kg Final</li><li>Men's Freestyle 97 kg Victory Ceremony</li><li>Wome
+ n's Freestyle 50 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210422T172154Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210806T091500Z
+DTEND:20210806T130000Z
+DTSTAMP:20210723T170804Z
+UID:5gl606k47dvboimdl9l7is669i@google.com
+SEQUENCE:0
+CREATED:20210422T172041Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Freestyle 65 kg Semifinals</li><li>
+ Men's Freestyle 97 kg Semifinals</li><li>Women's Freestyle 50 kg Semifinal
+ s</li><li>Men's Freestyle 74 kg Bronze Medal Matches</li><li>Men's Freesty
+ le 74 kg Final</li><li>Men's Freestyle 125 kg Bronze Medal Matches</li><li
+ >Men's Freestyle 125 kg Final</li><li>Men's Freestyle 74 kg Victory Ceremo
+ ny</li><li>Women's Freestyle 53 kg Bronze Medal Matches</li><li>Women's Fr
+ eestyle 53 kg Final</li><li>Men's Freestyle 125 kg Victory Ceremony</li><l
+ i>Women's Freestyle 53 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210422T172041Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 
+DTSTART:20210806T020000Z
+DTEND:20210806T043000Z
+DTSTAMP:20210723T170804Z
+UID:1im6ljqfm9omvr507gjm2b6vmt@google.com
+SEQUENCE:0
+CREATED:20210422T171927Z
+DESCRIPTION: <ul><li>Men's Freestyle 74 kg Repechage</li><li>Women's Frees
+ tyle 53 kg Repechage</li><li>Men's Freestyle 125 kg Repechage</li><li>Men'
+ s Freestyle 65 kg 1/8 Finals</li><li>Women's Freestyle 50 kg 1/8 Finals</l
+ i><li>Men's Freestyle 97 kg 1/8 Finals</li><li>Men's Freestyle 65 kg 1/4 F
+ inals</li><li>Women's Freestyle 50 kg 1/4 Finals</li><li>Men's Freestyle 9
+ 7 kg 1/4 Finals</li></ul>
+LAST-MODIFIED:20210422T171927Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210805T091500Z
+DTEND:20210805T130000Z
+DTSTAMP:20210723T170804Z
+UID:5o882vkee6731safb9em3fhsgg@google.com
+SEQUENCE:0
+CREATED:20210422T171822Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Freestyle 74 kg Semifinals</li><li>
+ Men's Freestyle 125 kg Semifinals</li><li>Women's Freestyle 53 kg Semifina
+ ls</li><li>Men's Freestyle 57 kg Bronze Medal Matches</li><li>Men's Freest
+ yle 57 kg Final</li><li>Men's Freestyle 86 kg Bronze Medal Matches</li><li
+ >Men's Freestyle 86 kg Final</li><li>Men's Freestyle 57 kg Victory Ceremon
+ y</li><li>Women's Freestyle 57 kg Bronze Medal Matches</li><li>Women's Fre
+ estyle 57 kg Final</li><li>Men's Freestyle 86 kg Victory Ceremony</li><li>
+ Women's Freestyle 57 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210422T171822Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 
+DTSTART:20210805T020000Z
+DTEND:20210805T043000Z
+DTSTAMP:20210723T170804Z
+UID:45bsag5gl5usq2g0lcaceh19i4@google.com
+SEQUENCE:0
+CREATED:20210422T171705Z
+DESCRIPTION: <ul><li>Men's Freestyle 57 kg Repechage</li><li>Women's Frees
+ tyle 57 kg Repechage</li><li>Men's Freestyle 86 kg Repechage</li><li>Men's
+  Freestyle 74 kg 1/8 Finals</li><li>Women's Freestyle 53 kg 1/8 Finals</li
+ ><li>Men's Freestyle 125 kg 1/8 Finals</li><li>Men's Freestyle 74 kg 1/4 F
+ inals</li><li>Women's Freestyle 53 kg 1/4 Finals</li><li>Men's Freestyle 1
+ 25 kg 1/4 Finals</li></ul>
+LAST-MODIFIED:20210422T171705Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210804T091500Z
+DTEND:20210804T130000Z
+DTSTAMP:20210723T170804Z
+UID:3lng31360kkaj6nh68drbs15qn@google.com
+SEQUENCE:0
+CREATED:20210422T171513Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Freestyle 57 kg Semifinals</li><li>
+ Men's Freestyle 86 kg Semifinals</li><li>Women's Freestyle 57 kg Semifinal
+ s</li><li>Men's Greco-Roman 67 kg Bronze Medal Matches</li><li>Men's Greco
+ -Roman 67 kg Final</li><li>Men's Greco-Roman 87 kg Bronze Medal Matches</l
+ i><li>Men's Greco-Roman 87 kg Final</li><li>Men's Greco-Roman 67 kg Victor
+ y Ceremony</li><li>Women's Freestyle 62 kg Bronze Medal Matches</li><li>Wo
+ men's Freestyle 62 kg Final</li><li>Men's Greco-Roman 87 kg Victory Ceremo
+ ny</li><li>Women's Freestyle 62 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210422T171513Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210803T091500Z
+DTEND:20210803T130000Z
+DTSTAMP:20210723T170804Z
+UID:2sqd6qdp31u4eeluui465fqt39@google.com
+SEQUENCE:0
+CREATED:20210422T171308Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Greco-Roman 67 kg Semifinals</li><l
+ i>Men's Greco-Roman 87 kg Semifinals</li><li>Women's Freestyle 62 kg Semif
+ inals</li><li>Men's Greco-Roman 77 kg Bronze Medal Matches</li><li>Men's G
+ reco-Roman 77 kg Final</li><li>Men's Greco-Roman 97 kg Bronze Medal Matche
+ s</li><li>Men's Greco-Roman 97 kg Final</li><li>Men's Greco-Roman 77 kg Vi
+ ctory Ceremony</li><li>Women's Freestyle 68 kg Bronze Medal Matches</li><l
+ i>Women's Freestyle 68 kg Final</li><li>Men's Greco-Roman 97 kg Victory Ce
+ remony</li><li>Women's Freestyle 68 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210422T171308Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 
+DTSTART:20210803T020000Z
+DTEND:20210803T043000Z
+DTSTAMP:20210723T170804Z
+UID:72vsmeai5g2i4ap3qe1iv6oeji@google.com
+SEQUENCE:0
+CREATED:20210422T171212Z
+DESCRIPTION: <ul><li>Men's Greco-Roman 77 kg Repechage</li><li>Women's Fre
+ estyle 68 kg Repechage</li><li>Men's Greco-Roman 97 kg Repechage</li><li>M
+ en's Greco-Roman 67 kg 1/8 Finals</li><li>Women's Freestyle 62 kg 1/8 Fina
+ ls</li><li>Men's Greco-Roman 87 kg 1/8 Finals</li><li>Men's Greco-Roman 67
+  kg 1/4 Finals</li><li>Women's Freestyle 62 kg 1/4 Finals</li><li>Men's Gr
+ eco-Roman 87 kg 1/4 Finals</li></ul>
+LAST-MODIFIED:20210422T171212Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 🥇🥈🥉
+DTSTART:20210802T091500Z
+DTEND:20210802T130000Z
+DTSTAMP:20210723T170804Z
+UID:0r4pv2us6pk1fpsqhpo3o062ni@google.com
+SEQUENCE:0
+CREATED:20210422T171116Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Greco-Roman 77 kg Semifinals</li><l
+ i>Men's Greco-Roman 97 kg Semifinals</li><li>Women's Freestyle 68 kg Semif
+ inals</li><li>Men's Greco-Roman 60 kg Bronze Medal Matches</li><li>Men's G
+ reco-Roman 60 kg Final</li><li>Men's Greco-Roman 130 kg Bronze Medal Match
+ es</li><li>Men's Greco-Roman 130 kg Final</li><li>Men's Greco-Roman 60 kg 
+ Victory Ceremony</li><li>Women's Freestyle 76 kg Bronze Medal Matches</li>
+ <li>Women's Freestyle 76 kg Final</li><li>Men's Greco-Roman 130 kg Victory
+  Ceremony</li><li>Women's Freestyle 76 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210422T171116Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 
+DTSTART:20210801T091500Z
+DTEND:20210801T101500Z
+DTSTAMP:20210723T170804Z
+UID:7k9st88s746s5a26f66noadb8k@google.com
+SEQUENCE:0
+CREATED:20210422T170715Z
+DESCRIPTION: <ul><li>Men's Greco-Roman 60 kg Semifinals</li><li>Men's Grec
+ o-Roman 130 kg Semifinals</li><li>Women's Freestyle 76 kg Semifinals</li><
+ /ul>
+LAST-MODIFIED:20210422T170715Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling 
+DTSTART:20210801T020000Z
+DTEND:20210801T040000Z
+DTSTAMP:20210723T170804Z
+UID:2n243g5h83sgojr5t33p8h1e74@google.com
+SEQUENCE:0
+CREATED:20210422T170601Z
+DESCRIPTION: <ul><li>Men's Greco-Roman 60 kg 1/8 Finals</li><li>Women's Fr
+ eestyle 76 kg 1/8 Finals</li><li>Men's Greco-Roman 130 kg 1/8 Finals</li><
+ li>Men's Greco-Roman 60 kg 1/4 Finals</li><li>Women's Freestyle 76 kg 1/4 
+ Finals</li><li>Men's Greco-Roman 130 kg 1/4 Finals</li></ul>
+LAST-MODIFIED:20210422T170601Z
+LOCATION:Makuhari Messe International Exhibition Hall 1-8\, Japan\, 〒261
+ -0023 千葉県千葉市美浜区中瀬２丁目１
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

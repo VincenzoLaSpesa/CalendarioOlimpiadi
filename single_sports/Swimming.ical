@@ -1,0 +1,339 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Swimming 
+DTSTART:20210725T100000Z
+DTEND:20210725T123000Z
+DTSTAMP:20210723T170802Z
+UID:2t9rq57uog5tsrlbfdleuob77v@google.com
+SEQUENCE:0
+CREATED:20210404T172826Z
+DESCRIPTION: 19:02 JST - Women's 100m Backstroke - Heat 1\n19:05 JST - Wom
+ en's 100m Backstroke - Heat 2\n19:08 JST - Women's 100m Backstroke - Heat 
+ 3\n19:11 JST - Women's 100m Backstroke - Heat 4\n19:14 JST - Women's 100m 
+ Backstroke - Heat 5\n19:22 JST - Men's 200m Freestyle - Heat 1\n19:28 JST 
+ - Men's 200m Freestyle - Heat 2\n19:34 JST - Men's 200m Freestyle - Heat 3
+ \n19:40 JST - Men's 200m Freestyle - Heat 4\n19:46 JST - Men's 200m Freest
+ yle - Heat 5\n19:52 JST - Men's 200m Freestyle - Heat 6\n19:59 JST - Women
+ 's 100m Breaststroke - Heat 1\n20:02 JST - Women's 100m Breaststroke - Hea
+ t 2\n20:05 JST - Women's 100m Breaststroke - Heat 3\n20:08 JST - Women's 1
+ 00m Breaststroke - Heat 4\n20:11 JST - Women's 100m Breaststroke - Heat 5\
+ n20:14 JST - Women's 100m Breaststroke - Heat 6\n20:19 JST - Men's 100m Ba
+ ckstroke - Heat 1\n20:22 JST - Men's 100m Backstroke - Heat 2\n20:25 JST -
+  Men's 100m Backstroke - Heat 3\n20:28 JST - Men's 100m Backstroke - Heat 
+ 4\n20:31 JST - Men's 100m Backstroke - Heat 5\n20:39 JST - Women's 400m Fr
+ eestyle - Heat 1\n20:45 JST - Women's 400m Freestyle - Heat 2\n20:51 JST -
+  Women's 400m Freestyle - Heat 3\n20:57 JST - Women's 400m Freestyle - Hea
+ t 4\n21:03 JST - Women's 400m Freestyle - Heat 5\n21:10 JST - Men's 4 x 10
+ 0m Freestyle Relay - Heat 1\n21:20 JST - Men's 4 x 100m Freestyle Relay - 
+ Heat 2\n21:30 JST - Men's 4 x 100m Freestyle Relay - Heat 3
+LAST-MODIFIED:20210718T170204Z
+LOCATION:Tokyo Aquatics Centre\, 2-chōme-2-1 Tatsumi\, Koto City\, Tokyo 
+ 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swimming 🥇🥈🥉
+DTSTART:20210725T013000Z
+DTEND:20210725T032000Z
+DTSTAMP:20210723T170802Z
+UID:4tjbp306t5l1iuj9hvue9m5b5r@google.com
+SEQUENCE:0
+CREATED:20210404T172650Z
+DESCRIPTION:🥇🥈🥉 10:30 JST - Men's 400m Individual Medley Final\n1
+ 0:40 JST - Women's 100m Butterfly Semifinal 1\n10:46 JST - Women's 100m Bu
+ tterfly Semifinal 2\n10:52 JST - Men's 400m Freestyle Final\n11:12 JST - W
+ omen's 400m Individual Medley Final\n11:33 JST - Men's 100m Breaststroke S
+ emifinal 1\n11:39 JST - Men's 100m Breaststroke Semifinal 2\n11:45 JST - W
+ omen's 4 x 100m Freestyle Relay Final
+LAST-MODIFIED:20210718T165724Z
+LOCATION:Tokyo Aquatics Centre\, 2-chōme-2-1 Tatsumi\, Koto City\, Tokyo 
+ 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swimming 
+DTSTART:20210724T100000Z
+DTEND:20210724T123000Z
+DTSTAMP:20210723T170802Z
+UID:71732auu77dk5uqtl5m020dfjt@google.com
+SEQUENCE:0
+CREATED:20210404T172420Z
+DESCRIPTION: 19:02 JST - Men's 400m Individual Medley - Heat 1\n19:07 JST 
+ - Men's 400m Individual Medley - Heat 2\n19:12 JST - Men's 400m Individual
+  Medley - Heat 3\n19:17 JST - Men's 400m Individual Medley - Heat 4\n\n19:
+ 28 JST - Women's 100m Butterfly - Heat 1\n19:31 JST - Women's 100m Butterf
+ ly - Heat 2\n19:34 JST - Women's 100m Butterfly - Heat 3\n19:37 JST - Wome
+ n's 100m Butterfly - Heat 4\n19:40 JST - Women's 100m Butterfly - Heat 5\n
+ 19:43 JST - Women's 100m Butterfly - Heat 6\n    \n19:48 JST - Men's 400m 
+ Freestyle - Heat 1\n19:54 JST - Men's 400m Freestyle - Heat 2\n20:00 JST -
+  Men's 400m Freestyle - Heat 3\n20:06 JST - Men's 400m Freestyle - Heat 4\
+ n20:12 JST - Men's 400m Freestyle - Heat 5\n20:18 JST - Men's 400m Freesty
+ le - Heat 6\n20:24 JST - Men's 400m Freestyle - Heat 7\n    \n20:30 JST - 
+ Women's 400m Individual Medley - Heat 1\n20:35 JST - Women's 400m Individu
+ al Medley - Heat 2\n20:40 JST - Women's 400m Individual Medley - Heat 3\n2
+ 0:45 JST - Women's 400m Individual Medley - Heat 4\n20:50 JST - Women's 40
+ 0m Individual Medley - Heat 5\n    \n20:55 JST - Men's 100m Breaststroke -
+  Heat 1\n20:58 JST - Men's 100m Breaststroke - Heat 2\n21:01 JST - Men's 1
+ 00m Breaststroke - Heat 3\n21:04 JST - Men's 100m Breaststroke - Heat 4\n2
+ 1:07 JST - Men's 100m Breaststroke - Heat 5\n21:10 JST - Men's 100m Breast
+ stroke - Heat 6\n    \n21:15 JST - Women's 4 x 100m Freestyle Relay - Heat
+  1\n21:25 JST - Women's 4 x 100m Freestyle Relay - Heat 2
+LAST-MODIFIED:20210717T151842Z
+LOCATION:Tokyo Aquatics Centre\, 2-chōme-2-1 Tatsumi\, Koto City\, Tokyo 
+ 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swimming 🥇🥈🥉
+DTSTART:20210801T013000Z
+DTEND:20210801T032500Z
+DTSTAMP:20210723T170802Z
+UID:2vnsc1g2oqsbqus9ck8jk6ij56@google.com
+SEQUENCE:0
+CREATED:20210404T192616Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's 50m Freestyle Final</li><li>Women's
+  50m Freestyle Final</li><li>Men's 1500m Freestyle Final</li><li>Men's 50m
+  Freestyle Victory Ceremony</li><li>Women's 4 x 100m Medley Relay Final</l
+ i><li>Women's 50m Freestyle Victory Ceremony</li><li>Men's 4 x 100m Medley
+  Relay Final</li><li>Men's 1500m Freestyle Victory Ceremony</li><li>Women'
+ s 4 x 100m Medley Relay Victory Ceremony</li><li>Men's 4 x 100m Medley Rel
+ ay Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T192616Z
+LOCATION:Tokyo Aquatics Centre\, 2-chōme-2-1 Tatsumi\, Koto City\, Tokyo 
+ 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swimming 🥇🥈🥉
+DTSTART:20210731T013000Z
+DTEND:20210731T032000Z
+DTSTAMP:20210723T170802Z
+UID:356a7mjnou0c5m3lk6plunuriq@google.com
+SEQUENCE:0
+CREATED:20210404T192455Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's 100m Butterfly Final</li><li>Women'
+ s 200m Backstroke Final</li><li>Women's 800m Freestyle Final</li><li>Men's
+  100m Butterfly Victory Ceremony</li><li>Men's 50m Freestyle Semifinals</l
+ i><li>Women's 200m Backstroke Victory Ceremony</li><li>Women's 50m Freesty
+ le Semifinals</li><li>Mixed 4 x 100m Medley Relay Final</li><li>Women's 80
+ 0m Freestyle Victory Ceremony</li><li>Mixed 4 x 100m Medley Relay Victory 
+ Ceremony</li></ul>
+LAST-MODIFIED:20210404T192455Z
+LOCATION:Tokyo Aquatics Centre\, 2-chōme-2-1 Tatsumi\, Koto City\, Tokyo 
+ 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swimming 
+DTSTART:20210730T100000Z
+DTEND:20210730T123000Z
+DTSTAMP:20210723T170802Z
+UID:3ma4rcdfa7jgokq16rsr0q3oa2@google.com
+SEQUENCE:0
+CREATED:20210404T192210Z
+DESCRIPTION: <ul><li>Men's 50m Freestyle - Heats</li><li>Women's 50m Frees
+ tyle - Heats</li><li>Men's 1500m Freestyle - Heats</li><li>Women's 4 x 100
+ m Medley Relay - Heats</li><li>Men's 4 x 100m Medley Relay - Heat</li></ul
+ >
+LAST-MODIFIED:20210404T192210Z
+LOCATION:Tokyo Aquatics Centre\, 2-chōme-2-1 Tatsumi\, Koto City\, Tokyo 
+ 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swimming 🥇🥈🥉
+DTSTART:20210730T013000Z
+DTEND:20210730T031000Z
+DTSTAMP:20210723T170802Z
+UID:2sm06mkd6ro5hr4jr61c5d18h6@google.com
+SEQUENCE:0
+CREATED:20210404T192037Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's 100m Butterfly Semifinals</li><li>W
+ omen's 200m Breaststroke Final</li><li>Men's 200m Backstroke Final</li><li
+ >Women's 100m Freestyle Final</li><li>Women's 200m Breaststroke Victory Ce
+ remony</li><li>Men's 200m Individual Medley Final</li><li>Men's 200m Backs
+ troke Victory Ceremony</li><li>Women's 200m Backstroke Semifinals</li><li>
+ Women's 100m Freestyle Victory Ceremony</li><li>Men's 200m Individual Medl
+ ey Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T192037Z
+LOCATION:Tokyo Aquatics Centre\, 2-chōme-2-1 Tatsumi\, Koto City\, Tokyo 
+ 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swimming 
+DTSTART:20210729T100000Z
+DTEND:20210729T123000Z
+DTSTAMP:20210723T170802Z
+UID:5h3i93pfhm8eob6d0e8nh1fgq0@google.com
+SEQUENCE:0
+CREATED:20210404T191656Z
+DESCRIPTION: <ul><li>Women's 800m Freestyle - Heats</li><li>Men's 100m But
+ terfly - Heats</li><li>Women's 200m Backstroke - Heats</li><li>Mixed 4 x 1
+ 00m Medley Relay - Heats</li></ul>
+LAST-MODIFIED:20210404T191656Z
+LOCATION:Tokyo Aquatics Centre\, 2-chōme-2-1 Tatsumi\, Koto City\, Tokyo 
+ 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swimming 🥇🥈🥉
+DTSTART:20210729T013000Z
+DTEND:20210729T041000Z
+DTSTAMP:20210723T170802Z
+UID:51vskje545b0gi4hboe4ii0e2s@google.com
+SEQUENCE:0
+CREATED:20210404T191419Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's 800m Freestyle Final</li><li>Men's 
+ 200m Breaststroke Final</li><li>Women's 100m Freestyle Semifinals</li><li>
+ Men's 200m Backstroke Semifinals</li><li>Men's 800m Freestyle Victory Cere
+ mony</li><li>Women's 200m Butterfly Final</li><li>Men's 100m Freestyle Fin
+ al</li><li>Men's 200m Breaststroke Victory Ceremony</li><li>Women's 200m B
+ reaststroke Semifinals</li><li>Men's 200m Individual Medley Semifinals</li
+ ><li>Women's 200m Butterfly Victory Ceremony</li><li>Women's 4 x 200m Free
+ style Relay Final</li><li>Men's 100m Freestyle Victory Ceremony</li><li>Wo
+ men's 4 x 200m Freestyle Relay Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T191420Z
+LOCATION:Tokyo Aquatics Centre\, 2-chōme-2-1 Tatsumi\, Koto City\, Tokyo 
+ 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swimming 
+DTSTART:20210728T100000Z
+DTEND:20210728T123000Z
+DTSTAMP:20210723T170802Z
+UID:0p4mgsmenenc92qt8dr1f4kdp5@google.com
+SEQUENCE:0
+CREATED:20210404T191139Z
+DESCRIPTION: <ul><li>Women's 100m Freestyle - Heats</li><li>Men's 200m Bac
+ kstroke - Heats</li><li>Women's 200m Breaststroke - Heats</li><li>Men's 20
+ 0m Individual Medley - Heats</li><li>Women's 4 x 200m Freestyle Relay - He
+ ats</li></ul>
+LAST-MODIFIED:20210404T191139Z
+LOCATION:Tokyo Aquatics Centre\, 2-chōme-2-1 Tatsumi\, Koto City\, Tokyo 
+ 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swimming 🥇🥈🥉
+DTSTART:20210728T013000Z
+DTEND:20210728T040500Z
+DTSTAMP:20210723T170802Z
+UID:3kjl253ak09g2dqaebd1uk78rg@google.com
+SEQUENCE:0
+CREATED:20210404T191012Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's 100m Freestyle Semifinals</li><li>W
+ omen's 200m Freestyle Final</li><li>Men's 200m Butterfly Final</li><li>Wom
+ en's 200m Butterfly Semifinals</li><li>Women's 200m Freestyle Victory Cere
+ mony</li><li>Men's 200m Breaststroke Semifinals</li><li>Men's 200m Butterf
+ ly Victory Ceremony</li><li>Women's 200m Individual Medley Final</li><li>W
+ omen's 1500m Freestyle Final</li><li>Women's 200m Individual Medley Victor
+ y Ceremony</li><li>Men's 4 x 200m Freestyle Relay Final</li><li>Women's 15
+ 00m Freestyle Victory Ceremony</li><li>Men's 4 x 200m Freestyle Victory Ce
+ remony</li></ul>
+LAST-MODIFIED:20210404T191012Z
+LOCATION:Tokyo Aquatics Centre\, 2-chōme-2-1 Tatsumi\, Koto City\, Tokyo 
+ 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swimming 
+DTSTART:20210727T100000Z
+DTEND:20210727T123000Z
+DTSTAMP:20210723T170802Z
+UID:2t2ls3e8u7rdusahf9n8h9fkn8@google.com
+SEQUENCE:0
+CREATED:20210404T190834Z
+DESCRIPTION: <ul><li>Men's 100m Freestyle - Heats</li><li>Women's 200m But
+ terfly - Heats</li><li>Men's 200m Breaststroke - Heats</li><li>Men's 4 x 2
+ 00m Freestyle Relay - Heats</li><li>Men's 800m Freestyle - Heats</li></ul>
+LAST-MODIFIED:20210404T190834Z
+LOCATION:Tokyo Aquatics Centre\, 2-chōme-2-1 Tatsumi\, Koto City\, Tokyo 
+ 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swimming 🥇🥈🥉
+DTSTART:20210727T013000Z
+DTEND:20210727T032500Z
+DTSTAMP:20210723T170802Z
+UID:3gbf4acun7fk7295ibg3oqlpor@google.com
+SEQUENCE:0
+CREATED:20210404T190630Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's 200m Freestyle Semifinals</li><li
+ >Men's 200m Freestyle Final</li><li>Women's 100m Backstroke Final</li><li>
+ Men's 100m Backstroke Final</li><li>Men's 200m Freestyle Victory Ceremony<
+ /li><li>Women's 100m Breaststroke Final</li><li>Women's 100m Backstroke Vi
+ ctory Ceremony</li><li>Men's 200m Butterfly Semifinals</li><li>Men's 100m 
+ Backstroke Victory Ceremony</li><li>Women's 200m Individual Medley Semifin
+ als</li><li>Women's 100m Breaststroke Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T190630Z
+LOCATION:Tokyo Aquatics Centre\, 2-chōme-2-1 Tatsumi\, Koto City\, Tokyo 
+ 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swimming 
+DTSTART:20210726T100000Z
+DTEND:20210726T123000Z
+DTSTAMP:20210723T170802Z
+UID:7ro1e5j2iflhto1mm1ab5lh70f@google.com
+SEQUENCE:0
+CREATED:20210404T173037Z
+DESCRIPTION: <ul><li>Women's 200m Freestyle - Heats</li><li>Men's 200m But
+ terfly - Heats</li><li>Women's 200m Individual Medley - Heats</li><li>Wome
+ n's 1500m Freestyle - Heats</li></ul>
+LAST-MODIFIED:20210404T173037Z
+LOCATION:Tokyo Aquatics Centre\, 2-chōme-2-1 Tatsumi\, Koto City\, Tokyo 
+ 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swimming 🥇🥈🥉
+DTSTART:20210726T013000Z
+DTEND:20210726T034000Z
+DTSTAMP:20210723T170802Z
+UID:71cvijisummm2l5vjbdk8j1k8k@google.com
+SEQUENCE:0
+CREATED:20210404T172934Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's 100m Butterfly Final</li><li>Men'
+ s 200m Freestyle Semifinals</li><li>Women's 100m Breaststroke Semifinals</
+ li><li>Women's 100m Butterfly Victory Ceremony</li><li>Men's 100m Breastst
+ roke Final</li><li>Women's 400m Freestyle Final</li><li>Men's 100m Backstr
+ oke Semifinals</li><li>Men's 100m Breaststroke Victory Ceremony</li><li>Wo
+ men's 100m Backstroke Semifinals</li><li>Men's 4 x 100m Freestyle Relay Fi
+ nal</li><li>Women's 400m Freestyle Victory Ceremony</li><li>Men's 4 x 100m
+  Freestyle Relay Victory Ceremony</li></ul>
+LAST-MODIFIED:20210404T172934Z
+LOCATION:Tokyo Aquatics Centre\, 2-chōme-2-1 Tatsumi\, Koto City\, Tokyo 
+ 135-0053\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

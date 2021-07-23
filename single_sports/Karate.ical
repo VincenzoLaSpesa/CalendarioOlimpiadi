@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:This is a comprehensive schedule of all 33 competitions and 3
+ 39 events that will be held during the Tokyo 2020 Olympics. All times in J
+ ST. Schedule is accurate as of March 31\; will update as needed.
+X-WR-CALNAME:Tokyo 2020 Olympics Event Schedule
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Karate 🥇🥈🥉
+DTSTART:20210807T050000Z
+DTEND:20210807T114500Z
+DTSTAMP:20210723T170802Z
+UID:38ghm85oos74ea33mnfvb668nt@google.com
+SEQUENCE:0
+CREATED:20210403T230743Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Kumite +61 kg Elimination Round</
+ li><li>Men's Kumite +75 kg Elimination Round</li><li>Women's Kumite +61 kg
+  Semifinals</li><li>Men's Kumite +75 kg Semifinals</li><li>Women's Kumite 
+ +61 kg Final</li><li>Men's Kumite +75 kg Final</li><li>Women's Kumite +61 
+ kg Victory Ceremony</li><li>Men's Kumite +75 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210703T062520Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karate 🥇🥈🥉
+DTSTART:20210806T080000Z
+DTEND:20210806T124000Z
+DTSTAMP:20210723T170802Z
+UID:6ia9pqjs0kseidmmqp9av3ifch@google.com
+SEQUENCE:0
+CREATED:20210403T230523Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Men's Kumite -75 kg Elimination Round</li
+ ><li>Men's Kata Bronze Medal Bouts</li><li>Men's Kata Final Bout</li><li>W
+ omen's Kumite -61 kg Semifinals</li><li>Men's Kumite -75 kg Semifinals</li
+ ><li>Women's Kumite -61 kg Final</li><li>Men's Kumite -75 kg Final</li><li
+ >Men's Kata Victory Ceremony</li><li>Women's Kumite -61 kg Victory Ceremon
+ y</li><li>Men's Kumite -75 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210403T230523Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karate 
+DTSTART:20210806T010000Z
+DTEND:20210806T054500Z
+DTSTAMP:20210723T170802Z
+UID:0v0tbj5eerj772redpqdl8egv6@google.com
+SEQUENCE:0
+CREATED:20210403T230413Z
+DESCRIPTION: <ul><li>Men's Kata Elimination Round</li><li>Men's Kata Ranki
+ ng Round</li><li>Women's Kumite -61 kg Elimination Round</li></ul>
+LAST-MODIFIED:20210403T230413Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karate 🥇🥈🥉
+DTSTART:20210805T080000Z
+DTEND:20210805T124000Z
+DTSTAMP:20210723T170802Z
+UID:38fk23afs2lgg6bfrljq0eieeo@google.com
+SEQUENCE:0
+CREATED:20210403T230323Z
+DESCRIPTION:🥇🥈🥉 <ul><li>Women's Kumite -55 kg Elimination Round</
+ li><li>Women's Kata Bronze Medal Bouts</li><li>Women's Kata Final Bout</li
+ ><li>Men's Kumite -67 kg Semifinals</li><li>Women's Kumite -55 kg Semifina
+ ls</li><li>Men's Kumite -67 kg Final</li><li>Women's Kumite -55 kg Final</
+ li><li>Women's Kata Victory Ceremony</li><li>Men's Kumite -67 kg Victory C
+ eremony</li><li>Women's Kumite -55 kg Victory Ceremony</li></ul>
+LAST-MODIFIED:20210403T230323Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karate 
+DTSTART:20210805T010000Z
+DTEND:20210805T054500Z
+DTSTAMP:20210723T170802Z
+UID:6eksbcj4l7iutiph8ie5ddnhb1@google.com
+SEQUENCE:0
+CREATED:20210403T230206Z
+DESCRIPTION: <ul><li>Women's Kata Elimination Round</li><li>Women's Kata R
+ anking Round</li><li>Men's Kumite -67 kg Elimination Round</li></ul>
+LAST-MODIFIED:20210403T230206Z
+LOCATION:Nippon Budokan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
